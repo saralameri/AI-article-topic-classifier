@@ -1,0 +1,95 @@
+Living Bioelectronic Sensors Send a Jolt of Electricity When Triggered
+TOPICS:BacteriaBiotechnologyRice UniversitySensor
+By RICE UNIVERSITY NOVEMBER 2, 2022
+
+Pucklike Bioelectronics Designed at Rice University Contain Programmable Bacteria
+Pucklike bioelectronics designed at Rice University contain programmable bacteria and are attached to an electrode that delivers a signal when they detect a target contaminant, enabling real-time sensing. Credit: Brandon Martin/Rice University
+
+New bacterial sensors detect the presence of a variety of contaminants in water.
+When you hit your finger with a hammer, you feel the pain immediately. And you react immediately.
+
+But what if the pain didn’t come until 20 minutes after the hit? By then, the injury might be harder to heal.
+
+“I think it’s the most complex protein pathway for real-time signaling that has been built to date.” — Jonathan (Joff) Silberg
+
+The same is true for the environment, say scientists and engineers at Rice University. If a chemical spill in a river goes unnoticed for 20 minutes, it might be too late to clean up effectively.
+
+Living bioelectronic sensors they developed can help solve this problem. A team of researchers has engineered bacteria to quickly sense and report on the presence of a variety of contaminants. The project was led by led by Rice synthetic biologists Caroline Ajo-Franklin and Jonathan (Joff) Silberg and lead authors Josh Atkinson and Lin Su, both Rice alumni.
+
+Published today (November 2) in the journal Nature, their study demonstrates that the cells can be programmed to identify chemical invaders and report their presence within minutes by releasing a detectable electrical current.
+
+
+
+According to the researchers, such “smart” devices could ensure water security while powering themselves by scavenging energy in the environment as they monitor conditions in settings like rivers, farms, industry, and wastewater treatment plants.
+
+“You put the probes into the water and measure the current. It’s that simple.” — Caroline Ajo-Franklin
+
+The environmental information communicated by these self-replicating bacteria can be customized by replacing a single protein in the eight-component, synthetic electron transport chain that gives rise to the sensor signal.
+
+“I think it’s the most complex protein pathway for real-time signaling that has been built to date,” said Silberg, director of Rice’s Systems, Synthetic and Physical Biology Ph.D. Program. “To put it simply, imagine a wire that directs electrons to flow from a cellular chemical to an electrode, but we’ve broken the wire in the middle. When the target molecule hits, it reconnects and electrifies the full pathway.”
+
+“It’s literally a miniature electrical switch,” Ajo-Franklin said.
+
+Pucklike Devices Contain Multitudes of Programmable Bacteria
+Pucklike devices designed by Rice University scientists and engineers contain multitudes of programmable bacteria that can detect contaminants and report their presence in real time. The bacteria release an electrical signal when triggered. Credit: Brandon Martin/Rice University
+
+“You put the probes into the water and measure the current,” she said. “It’s that simple. Our devices are different because the microbes are encapsulated. We’re not releasing them into the environment.”
+
+The researchers’ proof-of-concept bacteria was Escherichia coli (E. coli), and their first target was thiosulfate, a dichlorination agent used in water treatment that can cause algae blooms. And there were convenient sources of water to test: Galveston Beach and Houston’s Brays and Buffalo bayous.
+
+They collected water from each. At first, they attached their E. coli to electrodes, but the microbes refused to stay put. “They don’t naturally stick to an electrode,” Ajo-Franklin said. “We’re using strains that don’t form biofilms, so when we added water, they’d fall off.”
+
+When that happened, the electrodes delivered more noise than signal.
+
+Xu Zhang
+Rice University postdoctoral researcher Xu Zhang prepares a water sample for testing with programmable bacteria that test for contaminants and release an electronic signal for detection in real-time. Credit: Brandon Martin/Rice University
+
+Enlisting co-author Xu Zhang, a postdoctoral researcher in Ajo-Franklin’s lab, they encapsulated sensors into agarose in the shape of a lollipop that allowed contaminants in but held the sensors in place, reducing the noise.
+
+“Xu’s background is in environmental engineering,” Ajo-Franklin said. “She didn’t come in and say, ‘Oh, we have to fix the biology.’ She said, ‘What can we do with the materials?’ It took great, innovative work on the materials side to make the synthetic biology shine.”
+
+With the physical constraints in place, the labs first encoded E. coli to express a synthetic pathway that only generates current when it encounters thiosulfate. This living sensor was able to sense this chemical at levels less than 0.25 millimoles per liter, which is far lower than levels toxic to fish.
+
+In another experiment, E. coli was recoded to sense an endocrine disruptor. This also worked well, and the signals were greatly enhanced when conductive nanoparticles custom-synthesized by Su were encapsulated with the cells in the agarose lollipop. According to the researchers, these encapsulated sensors can detect this contaminant up to 10 times faster than the previous state-of-the-art devices.
+
+Caroline Ajo-Franklin and Joff Silberg
+Rice University synthetic biologists Caroline Ajo-Franklin and Joff Silberg and their labs have developed programmable bacteria that sense contaminants and release an electronic signal in real-time. Credit: Brandon Martin/Rice University
+
+The study began by chance when Atkinson and Moshe Baruch of Ajo-Franklin’s group at Berkeley Lawrence National Laboratory set up next to each other at a 2015 synthetic biology conference in Chicago, with posters they quickly realized outlined different aspects of the same idea.
+
+“We had neighboring posters because of our last names,” said Atkinson. “We spent most of the poster session chatting about each other’s projects and how there were clear synergies in our interests in interfacing cells with electrodes and electrons as an information carrier.”
+
+“Josh’s poster had our first module: how to take chemical information and turn it into biochemical information,” Ajo-Franklin recalled. “Moshe had the third module: How to take biochemical information and turn it into an electrical signal.
+
+“The catch was how to link these together,” she said. “The biochemical signals were a little different.”
+
+“We said, ‘We need to get together and talk about this!’” Silberg recalled. Within six months, the new collaborators won seed funding from the Office of Naval Research, followed by a grant, to develop the idea.
+
+“Joff’s group brought in the protein engineering and half of the electron transfer pathway,” Ajo-Franklin said. “My group brought the other half of the electron transport pathway and some of the materials efforts.” The collaboration ultimately brought Ajo-Franklin herself to Rice in 2019 as a CPRIT Scholar.
+
+“We have to give so much credit to Lin and Josh,” she said. “They never gave up on this project, and it was incredibly synergistic. They would bounce ideas back and forth and through that interchange solved a lot of problems.”
+
+“Each of which another student could spend years on,” Silberg added.
+
+“Both Josh and I spent several years of our Ph.D.s working on this, with the pressure of graduating and moving on to the next stage of our careers,” said Su, a visiting graduate student in Ajo-Franklin’s lab after graduating from Southeast University in China. “I had to extend my visa multiple times to stay and finish the research.”
+
+Silberg said the design’s complexity goes far beyond the signaling pathway. “The chain has eight components that control electron flow, but there are other components that build the wires that go into the molecules,” he said. “There are a dozen-and-a-half components with almost 30 metal or organic cofactors. This thing’s massive compared to something like our mitochondrial respiratory chains.”
+
+All credited the invaluable assistance of co-author George Bennett, Rice’s E. Dell Butcher Professor Emeritus and a research professor in biosciences, in making the necessary connections.
+
+Silberg said he sees engineered microbes performing many tasks in the future, from monitoring the gut microbiome to sensing contaminants like viruses, improving upon the successful strategy of testing wastewater plants for SARS-CoV-19 during the pandemic.
+
+“Real-time monitoring becomes pretty important with those transient pulses,” he said. “And because we grow these sensors, they’re potentially pretty cheap to make.”
+
+To that end, the team is collaborating with Rafael Verduzco, a Rice professor of chemical and biomolecular engineering and of materials science and nanoengineering who leads a recent $2 million National Science Foundation grant with Ajo-Franklin, Silberg, bioscientist Kirstin Matthews and civil and environmental engineer Lauren Stadler to develop real-time wastewater monitoring.
+
+“The type of materials we can make with Raphael takes this to a whole new level,” Ajo-Franklin said.
+
+Silberg said the Rice labs are working on design rules to develop a library of modular sensors. “I hope that when people read this, they recognize the opportunities,” he said.
+
+Reference: “Real-time bioelectronic sensing of environmental contaminants” by Joshua T. Atkinson, Lin Su, Xu Zhang, George N. Bennett, Jonathan J. Silberg and Caroline M. Ajo-Franklin, 2 November 2022, Nature.
+DOI: 10.1038/s41586-022-05356-y
+
+Silberg is the Stewart Memorial Professor of BioSciences and a professor of bioengineering at Rice. Ajo-Franklin is a professor of biosciences. Atkinson is a visiting National Science Foundation postdoctoral fellow at Aarhus University, Denmark, and has an affiliation with the University of Southern California. Su is a postdoctoral research associate and a Leverhulme Early Career Fellow at the University of Cambridge.
+
+The research was supported by the Office of Science, Office of Basic Energy Sciences of the U.S. Department of Energy (DE-SC0014462), the Office of Naval Research (0001418IP00037, N00014-17-1-2639, N00014-20-1-2274), the Cancer Prevention and Research Institute of Texas (RR190063), the National Science Foundation (1843556), the Department of Energy Office of Science Graduate Student Research Program (DE SC0014664), the Lodieska Stockbridge Vaughn Fellowship and the China Scholarship Council Fellowship (CSC-201606090098).

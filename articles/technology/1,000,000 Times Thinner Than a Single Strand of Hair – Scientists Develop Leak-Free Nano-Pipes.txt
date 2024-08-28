@@ -1,0 +1,43 @@
+1,000,000 Times Thinner Than a Single Strand of Hair – Scientists Develop Leak-Free Nano-Pipes
+TOPICS:DNAJohns Hopkins UniversityNanotechnologyNanotubes
+By JOHNS HOPKINS UNIVERSITY OCTOBER 1, 2022
+
+Microscopic Nanotubes
+Tubes, visible in light green, are roughly seven nanometers in diameter — about two million times smaller than an ant — and several microns long, or about the length of a dust particle. Credit: Johns Hopkins University
+
+The world’s tiniest plumbing could potentially funnel drugs to individual human cells.
+Working on microscopic pipes just a millionth the width of a single strand of human hair, Johns Hopkins University researchers devised a method to protect these tiniest of pipelines against even the smallest of leaks.
+
+Leak-free pipe constructed of self-assembling, self-repairing nanotubes that can link to different biostructures is a huge step toward developing a nanotube network that might one day carry specialized drugs, proteins, and molecules to specified cells in the human body. The highly precise measurements were recently outlined in Science Advances.
+
+
+Leak-free piping made with nanotubes that self-assemble, self-repair, and can connect themselves to different biostructures. This video displays those nanotubes “wiggling”. Credit: Johns Hopkins University
+
+“This study suggests very strongly that it’s feasible to build nanotubes that don’t leak using these easy techniques for self-assembly, where we mix molecules in a solution and just let them form the structure we want,” said Rebecca Schulman, an associate professor of chemical and biomolecular engineering who co-led the research. “In our case, we can also attach these tubes to different endpoints to form something like plumbing.”
+
+The scientists used tubes that were several microns long, or approximately the size of a dust particle, and had a diameter of seven nanometers, or about two million times smaller than an ant.
+
+The technology is based on an existing technique that repurposes DNA fragments as building blocks to grow and repair the tubes while allowing them to seek out and connect to specific structures.
+
+Similar structures have been created in earlier experiments to create smaller structures known as nanopores. These designs concentrate on DNA nanopores’ ability to regulate the transport of molecules through lab-grown lipid membranes that resemble cell membranes.
+
+However, if nanotubes are like pipes, nanopores are like short pipe fittings that cannot reach other tubes, tanks, or equipment on their own. To solve these kinds of issues, Schulman’s team specializes in bio-inspired nanotechnology.
+
+“Building a long tube from a pore could allow molecules not only to cross the pore of a membrane that held the molecules inside a chamber or cell but also to direct where those molecules go after leaving the cell,” Schulman said. “We were able to build tubes extending from pores much longer than those that had been built before that could bring the transport of molecules along nanotube ‘highways’ close to reality.”
+
+The nanotubes form using DNA strands that are woven between different double helices. Their structures have small gaps like Chinese finger traps. Because of the extremely small dimensions, scientists had not been able to test whether the tubes could transport molecules for longer distances without leaking or whether molecules could slip through their wall gaps.
+
+Yi Li, a doctoral graduate from Johns Hopkins’ chemical and biomolecular engineering department who co-led the study, performed the nano-equivalent of capping the end of a pipe and turning on a faucet to make sure no water leaks out. Yi capped the ends of the tubes with special DNA “corks,” and ran a solution of fluorescent molecules through them to track leaks and influx rates.
+
+By precisely measuring the shape of the tubes, how their biomolecules connected to specific nanopores, and how fast the fluorescent solution flowed, the team demonstrated how the tubes moved molecules into tiny, lab-grown sacks resembling a cell’s membrane. The glowing molecules slid through like water down a chute.
+
+“Now we can call this more of a plumbing system because we’re directing the flow of certain materials or molecules across much longer distances using these channels,” Li said. “We are able to control when to stop this flow using another DNA structure that very specifically binds to those channels to stop this transport, working as a valve or a plug.”
+
+DNA nanotubes could help scientists gain a better understanding of how neurons interact with one another. Researchers could also use them to study diseases like cancer, and the functions of the body’s more than 200 types of cells.
+
+Next, the team will conduct additional studies with synthetic and real cells, as well as with different types of molecules.
+
+Reference: “Leakless end-to-end transport of small molecules through micron-length DNA nanochannels” by Yi Li, Christopher Maffeo, Himanshu Joshi, Aleksei Aksimentiev, Brice Ménard and Rebecca Schulman, 7 September 2022, Science Advances. 
+DOI: 10.1126/sciadv.abq4834
+
+The study was funded by the National Science Foundation, the United States Department of Energy, and the Defense Advanced Research Projects Agency.

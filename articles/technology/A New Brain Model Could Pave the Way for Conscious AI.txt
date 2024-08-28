@@ -1,0 +1,34 @@
+A New Brain Model Could Pave the Way for Conscious AI
+TOPICS:Artificial IntelligenceBrainComputer SciencePopularUniversity Of Montreal
+By UNIVERSITY OF MONTREAL NOVEMBER 13, 2022
+
+Neurons Brain Activity Consciousness Thought
+Mila and IVADO researchers present a new neurocomputational model of the human brain that might bridge the gap in understanding AI and the biological mechanisms underlying mental disorders.
+
+A new model of the human brain. 
+A new study presents a new neurocomputational model of the human brain, which might shed light on how the brain develops complex cognitive skills and advance neural artificial intelligence research. An international team of scientists from the Institut Pasteur and Sorbonne University in Paris, the CHU Sainte-Justine, Mila – Quebec Artificial Intelligence Institute, and the University of Montreal conducted the study.
+
+Guillaume Dumas
+Guillaume Dumas. Credit: Stéphane Dedelis, Chu Sainte-Justine
+
+The model, which was featured on the cover of the journal Proceedings of the National Academy of Sciences of the United States of America (PNAS), describes neural development over three hierarchical levels of information processing:
+
+the first sensorimotor level explores how the brain’s inner activity learns patterns from perception and associates them with action;
+the cognitive level examines how the brain contextually combines those patterns;
+lastly, the conscious level considers how the brain dissociates from the outside world and manipulates learned patterns (via memory) no longer accessible to perception.
+The model’s emphasis on the interaction between two fundamental types of learning—Hebbian learning, associated with statistical regularity (i.e., repetition), or as neuropsychologist Donald Hebb has put it, “neurons that fire together, wire together”—and reinforcement learning, associated with reward and the dopamine neurotransmitter, provides insights into the fundamental mechanisms underlying cognition.
+
+The model solves three tasks of increasing complexity across those levels, from visual recognition to cognitive manipulation of conscious percepts. Each time, the team introduced a new core mechanism to enable it to progress.
+
+The results highlight two fundamental mechanisms for the multilevel development of cognitive abilities in biological neural networks:
+
+synaptic epigenesis, with Hebbian learning at the local scale and reinforcement learning at the global scale;
+and self-organized dynamics, through spontaneous activity and balanced excitatory/inhibitory ratio of neurons.
+“Our model demonstrates how the neuro-AI convergence highlights biological mechanisms and cognitive architectures that can fuel the development of the next generation of artificial intelligence and even ultimately lead to artificial consciousness,” said team member Guillaume Dumas, an assistant professor of computational psychiatry at the University of Montreal, and a principal investigator at the CHU Sainte-Justine Research Centre.
+
+Reaching this milestone may require integrating the social dimension of cognition, he added. The researchers are now looking at integrating biological and social dimensions at play in human cognition. The team has already pioneered the first simulation of two whole brains in interaction.
+
+Anchoring future computational models in biological and social realities will not only continue to shed light on the core mechanisms underlying cognition, the team believes, but will also help provide a unique bridge to artificial intelligence toward the only known system with advanced social consciousness: the human brain.
+
+Reference: “Multilevel development of cognitive abilities in an artificial neural network” by Konstantin Volzhenin, Jean-Pierre Changeux and Guillaume Dumas, 19 September 2022, Proceedings of the National Academy of Sciences. 
+DOI: 10.1073/pnas.2201304119

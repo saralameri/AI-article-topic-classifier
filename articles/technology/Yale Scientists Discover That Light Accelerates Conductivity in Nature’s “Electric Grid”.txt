@@ -1,0 +1,33 @@
+Yale Scientists Discover That Light Accelerates Conductivity in Nature’s “Electric Grid”
+TOPICS:BacteriaNanowiresYale University
+By YALE UNIVERSITY SEPTEMBER 7, 2022
+
+Bacteria Producing Nanowires Made Up of Cytochrome OmcS
+Bacteria producing nanowires made up of cytochrome OmcS. Credit: Ella Maru Studio
+
+There is a global web of tiny bacteria-generated nanowires in the soil and oceans that “breathe” by exhaling excess electrons, composing an intrinsic electrical grid for the natural world.
+
+In a new research study, Yale University scientists found that light is a surprising ally in fostering this electronic activity within biofilm bacteria. They discovered that exposing bacteria-produced nanowires to light yielded an up to a 100-fold increase in electrical conductivity.
+
+The findings will be published today (September 7, 2022) in the journal Nature Communications.
+
+“The dramatic current increases in nanowires exposed to light show a stable and robust photocurrent that persists for hours,” said senior author Nikhil Malvankar, associate professor of Molecular Biophysics and Biochemistry (MBB) at Yale’s Microbial Sciences Institute on Yale’s West Campus.
+
+The results could provide new insights as researchers pursue ways to exploit this hidden electrical current for a variety of purposes. For example, it could be used to help eliminate biohazard waste or create new renewable fuel sources.
+
+Almost all living things breathe oxygen to eliminate excess electrons when converting nutrients into energy. However, soil bacteria living deep under oceans or buried underground do not have access to oxygen. Over billions of years, they have developed a way to respire by “breathing minerals,” like snorkeling, through tiny protein filaments called nanowires.
+
+When these bacteria were exposed to light, the increase in electrical current surprised scientists because most of the bacteria tested live deep in the soil, far from the reach of light. Previous studies had shown that nanowire-producing bacteria grew faster when exposed to light.
+
+ “Nobody knew how this happens,” Malvankar said.
+
+In the new study, a Yale University team led by postdoctoral researcher Jens Neu and graduate student Catharine Shipps concluded that a metal-containing protein known as cytochrome OmcS — which makes up bacterial nanowires — acts as a natural photoconductor: the nanowires greatly facilitate electron transfer when biofilms are exposed to light.
+
+“It is a completely different form of photosynthesis,” Malvankar said. “Here, light is accelerating breathing by bacteria due to rapid electron transfer between nanowires.”
+
+Malvankar’s lab is exploring how this insight into bacterial electrical conductivity could be used to spur growth in optoelectronics. This is a subfield of photonics that studies devices and systems that find and control light. They would like to use this technology to capture methane, a greenhouse gas known to be a significant contributor to global climate change.
+
+Reference: “Microbial biofilms as living photoconductors due to ultrafast electron transfer in cytochrome OmcS nanowires” by Jens Neu, Catharine C. Shipps, Matthew J. Guberman-Pfeffer, Cong Shen, Vishok Srikanth, Jacob A. Spies, Nathan D. Kirchhofer, Sibel Ebru Yalcin, Gary W. Brudvig, Victor S. Batista and Nikhil S. Malvankar, 7 September 2022, Nature Communications.
+DOI: 10.1038/s41467-022-32659-5
+
+Other authors of the paper are Matthew Guberman-Pfeffer, Cong Shen, Vishok Srikanth, Sibel Ebru Yalcin from the Malvankar Lab at Yale; Jacob Spies, Professor Gary Brudvig, and Professor Victor Batista from the Yale Department of Chemistry; and Nathan Kirchhofer from Oxford Instruments.

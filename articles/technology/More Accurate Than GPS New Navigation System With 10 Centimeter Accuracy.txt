@@ -1,0 +1,32 @@
+More Accurate Than GPS: New Navigation System With 10 Centimeter Accuracy
+TOPICS:Delft University Of TechnologyGPSNavigationPopularTransportation
+By DELFT UNIVERSITY OF TECHNOLOGY NOVEMBER 16, 2022
+
+GPS Network Navigation City
+A new hybrid optical-wireless network has been developed for navigation that is far more robust and accurate than GPS, especially in urban settings.
+
+Researchers have developed an alternative positioning system that is more robust and accurate than GPS, especially in urban settings.
+
+An alternative positioning system that is more robust and accurate than GPS, especially in urban settings has been developed by researchers of Delft University of Technology, Vrije Universiteit Amsterdam, and VSL. The working prototype that demonstrated this new mobile network infrastructure achieved an accuracy of 10 centimeters. This new technology is important for the implementation of a wide range of advanced location-based applications, including autonomous vehicles, quantum communication, and next-generation mobile communication systems. The results will be published today (November 16) in the journal Nature.
+
+Navigation System With 10 Centimeter Accuracy
+Illustration of the hybrid optical-wireless network for robust decimeter-level positioning in urban environments. Credit: TU Delft/Stephan Timmers
+
+These days, much of our vital infrastructure relies on global navigation satellite systems such as GPS (United States) and Galileo (European Union). Yet these navigation systems that rely on satellites have significant limitations and vulnerabilities. When received on Earth, their radio signals are weak, and accurate positioning is not possible when the radio signals are reflected or blocked by buildings.
+
+“This can make GPS unreliable in urban settings, for instance,” says Christiaan Tiberius of Delft University of Technology and coordinator of the project, “which is a problem if we ever want to use automated vehicles. Also, citizens and our authorities actually depend on GPS for many location-based applications and navigation devices. Furthermore, so far we had no back-up system.”
+
+A project entitled SuperGPS was started with the goal of developing an alternative positioning system that makes use of the mobile telecommunication network instead of satellites and that could be more accurate and reliable than GPS. “We realized that with a few cutting-edge innovations, the telecommunication network could be transformed into a very accurate alternative positioning system that is independent of GPS,” says Jeroen Koelemeij of Vrije Universiteit Amsterdam. “We have succeeded and have successfully developed a system that can provide connectivity just like existing mobile and Wi-Fi networks do, as well as accurate positioning and time distribution like GPS.”
+
+Researching a Navigation System With 10 Centimeter Accuracy
+Researching a navigation system with 10-centimeter accuracy. Credit: TU Delft/Frank Auperlé
+
+An atomic clock
+One of these innovations is to connect the mobile network to a very accurate atomic clock, so that it can broadcast perfectly timed messages for positioning, just like GPS satellites do with the help of the atomic clocks they carry on board. These connections are made through the existing fiber-optic network.
+
+“We had already been investigating techniques to distribute the national time produced by our atomic clocks to users elsewhere through the telecommunication network,” says Erik Dierikx of VSL. “With these techniques, we can turn the network into a nationwide distributed atomic clock – with many new applications such as very accurate positioning through mobile networks. With the hybrid optical-wireless system that we have demonstrated now, in principle anyone can have wireless access to the national time produced at VSL. It basically forms an extremely accurate radio clock that is good to one billionth of a second.”
+
+Furthermore, the system employs radio signals with a bandwidth much larger than commonly used. “Buildings reflect radio signals, which can confuse navigation devices. The large bandwidth of our system helps sort out these confusing signal reflections, and enables higher positioning accuracy,” Gerard Janssen of Delft University of Technology explains. “At the same time, bandwidth within the radio spectrum is scarce and therefore expensive. We circumvent this by using a number of related small-bandwidth radio signals spread over a large virtual bandwidth. This has the advantage that only a small fraction of the virtual bandwidth is actually used and the signals can be very similar to those of mobile phones.”
+
+Reference: “A hybrid optical-wireless network for decimetre-level terrestrial positioning” by Jeroen C. J. Koelemeij, Han Dun, Cherif E. V. Diouf, Erik F. Dierikx, Gerard J. M. Janssen and Christian C. J. M. Tiberius, 16 November 2022, Nature.
+DOI: 10.1038/s41586-022-05315-7

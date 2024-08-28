@@ -1,0 +1,23 @@
+ESA SOLARIS: Wireless Power Beamed Down From Space
+TOPICS:European Space AgencyGreen EnergyPopularSolar Energy
+By EUROPEAN SPACE AGENCY (ESA) NOVEMBER 12, 2022
+
+Wireless Power From Space
+Solar power gathered far away in space, seen here being transmitted wirelessly down to Earth to wherever it is needed. The European Space Agency plans to investigate key technologies needed to make Space-Based Solar Power a working reality through its SOLARIS initiative. One such technology – wireless power transmission – was recently demonstrated in Germany to an audience of decision-makers from business and government. Credit: Airbus
+
+Solar power could be gathered far away in space and transmitted wirelessly down to Earth to wherever it is needed. The European Space Agency (ESA) plans to investigate key technologies needed to make Space-Based Solar Power a working reality through its SOLARIS initiative. Recently in Germany, one of these technologies, wireless power transmission, was demonstrated to an audience of decision-makers from business and government.
+
+The demonstration took place at Airbus’ X-Works Innovation Factory in Munich. Microwave beaming was used to transmit green energy between two points representing ‘Space’ and ‘Earth’ over a distance of 36 meters.
+
+The received power was used to light up a model city and produce green hydrogen by splitting water. It even served to produce the world’s first wirelessly cooled 0% alcohol beer in a fridge before being served to the watching audience.
+
+
+To prepare Europe for future decision-making on Space-Based Solar Power, ESA has proposed a preparatory program for Europe, initially named SOLARIS, for the upcoming ESA Council at Ministerial Level in November 2022. Space-based solar power is a potential source of clean, affordable, continuous, abundant, and secure energy. This basic concept has been given fresh urgency by the need for new sources of clean and secure energy to aid Europe’s transition to a Net Zero carbon world by 2050. If Europe wants to benefit from this game-changing capability then we need to start investing now. Credit: ESA – European Space Agency
+
+For a working version of a Space-Based Solar Power system, solar power satellites in geostationary orbit would harvest sunlight on a permanent 24/7 basis and then convert it into low-power density microwaves to safely beam down to receiver stations on Earth. The physics involved means that these satellites would have to be large, on the order of several kilometers in size, to generate the equivalent power of a typical nuclear power station. The same would be true for the collecting ‘rectennas’ down on Earth’s surface.
+
+Technical advancements in areas such as in-space manufacturing and robotic assembly, low-cost high-efficiency photovoltaics, high-power electronics, and radio frequency beamforming would be required to achieve this vision. Further research to confirm the effects of low-power microwaves on human and animal health are benign and compatibility with aircraft and satellites would also be undertaken.
+
+ESA’s SOLARIS – being proposed to Europe’s space ministers at the Agency’s Council at Ministerial Level on November 22-23 – will research these technologies, to allow Agency Member States to make an informed choice on future implementation of Space-Based Solar Power as a new source of clean, always-on ‘baseload’ power supplementing existing renewable power sources, helping Europe to attain Net Zero by mid-century.
+
+In addition, any breakthroughs achieved in these areas will also benefit many other spaceflight endeavors as well as terrestrial applications.

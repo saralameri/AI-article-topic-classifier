@@ -1,0 +1,31 @@
+New Method Exposes How Artificial Intelligence Works
+TOPICS:Artificial IntelligenceDOELos Alamos National Laboratory
+By LOS ALAMOS NATIONAL LABORATORY OCTOBER 22, 2022
+
+Artificial Intelligence Data AI Problem Solving
+The new approach allows scientists to better understand neural network behavior.
+
+The neural networks are harder to fool thanks to adversarial training.
+Los Alamos National Laboratory researchers have developed a novel method for comparing neural networks that looks into the “black box” of artificial intelligence to help researchers comprehend neural network behavior. Neural networks identify patterns in datasets and are utilized in applications as diverse as virtual assistants, facial recognition systems, and self-driving vehicles.
+
+“The artificial intelligence research community doesn’t necessarily have a complete understanding of what neural networks are doing; they give us good results, but we don’t know how or why,” said Haydn Jones, a researcher in the Advanced Research in Cyber Systems group at Los Alamos. “Our new method does a better job of comparing neural networks, which is a crucial step toward better understanding the mathematics behind AI.”
+
+Los Alamos Neural Networks
+Researchers at Los Alamos are looking at new ways to compare neural networks. This image was created with an artificial intelligence software called Stable Diffusion, using the prompt “Peeking into the black box of neural networks.” Credit:
+Los Alamos National Laboratory
+
+Jones is the lead author of a recent paper presented at the Conference on Uncertainty in Artificial Intelligence. The paper is an important step in characterizing the behavior of robust neural networks in addition to studying network similarity.
+
+Neural networks are high-performance, but fragile. For instance, autonomous vehicles employ neural networks to recognize signs. They are quite adept at doing this in perfect circumstances. The neural network, however, may mistakenly detect a sign and never stop if there is even the slightest abnormality, like a sticker on a stop sign.
+
+Therefore, in order to improve neural networks, researchers are searching for strategies to increase network robustness. One cutting-edge method involves “attacking” networks as they are being trained. The AI is trained to overlook abnormalities that researchers purposefully introduce. In essence, this technique, known as adversarial training, makes it more difficult to trick the networks.
+
+In a surprising discovery, Jones and his collaborators from Los Alamos, Jacob Springer and Garrett Kenyon, as well as Jones’ mentor Juston Moore, applied their new network similarity metric to adversarially trained neural networks. They discovered that as the severity of the attack increases, adversarial training causes neural networks in the computer vision domain to converge to very similar data representations, regardless of network architecture.
+
+“We found that when we train neural networks to be robust against adversarial attacks, they begin to do the same things,” Jones said.
+
+There has been an extensive effort in industry and in the academic community searching for the “right architecture” for neural networks, but the Los Alamos team’s findings indicate that the introduction of adversarial training narrows this search space substantially. As a result, the AI research community may not need to spend as much time exploring new architectures, knowing that adversarial training causes diverse architectures to converge to similar solutions.
+
+“By finding that robust neural networks are similar to each other, we’re making it easier to understand how robust AI might really work. We might even be uncovering hints as to how perception occurs in humans and other animals,” Jones said.
+
+Reference: “If You’ve Trained One You’ve Trained Them All: Inter-Architecture Similarity Increases With Robustness” by Haydn T. Jones, Jacob M. Springer, Garrett T. Kenyon and Juston S. Moore, 28 February 2022, Conference on Uncertainty in Artificial Intelligence.

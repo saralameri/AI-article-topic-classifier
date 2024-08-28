@@ -1,0 +1,45 @@
+Empathizing With Humans – Scientists Have Created a Robot That Can Laugh With You
+TOPICS:Artificial IntelligenceKyoto UniversityRobotics
+By FRONTIERS NOVEMBER 3, 2022
+
+Artificial Intelligence High Level Concept
+The researchers hoped to use their system to improve natural conversations between robots and people.
+
+To foster empathy in conversation, scientists at Kyoto University developed a shared-laughter AI system that reacts properly to human laughter.
+
+What makes something hilarious has baffled philosophers and scientists since at least the time of inquiring minds like Plato. The Greeks believed that feeling superior at others’ expense was the source of humor. Sigmund Freud, a German psychologist, thought humor was a means to let off pent-up energy. In order to make people laugh, US comedian Robin Williams tapped his anger at the absurd.
+
+No one appears to be able to agree on the answer to the question, “What’s so funny?” So picture attempting to train a robot to laugh. But by creating an AI that gets its signals from a shared laughing system, a team of researchers at Kyoto University in Japan is trying to do that. The researchers describe their novel technique for creating a funny bone for the Japanese robot ‘Erica’ in the journal Frontiers in Robotics and AI.
+
+It’s not like robots are incapable of understanding or even laughing in response to a lousy dad joke. Instead, the difficulty is in developing the subtleties of human humor for an AI system to enhance ordinary conversations between robots and humans.
+
+Japanese Android Erica
+An example of a conversation between the researchers and Erica. Credit: Inoue et al
+
+“We think that one of the important functions of conversational AI is empathy,” explained lead author Dr. Koji Inoue, an assistant professor at Kyoto University in the Department of Intelligence Science and Technology within the Graduate School of Informatics. “Conversation is, of course, multimodal, not just responding correctly. So we decided that one way a robot can empathize with users is to share their laughter, which you cannot do with a text-based chatbot.”
+
+A funny thing happened
+In the shared-laughter model, a human initially laughs and the AI system responds with laughter as an empathetic response. This approach required designing three subsystems – one to detect laughter, a second to decide whether to laugh and a third to choose the type of appropriate laughter.
+
+The scientists gathered training data by annotating more than 80 dialogues from speed dating, a social scenario where large groups of people mingle, or interact, with each other one-on-one for a brief period of time. In this case, the matchmaking marathon involved students from Kyoto University and Erica, teleoperated by several amateur actresses.
+
+“Our biggest challenge in this work was identifying the actual cases of shared laughter, which isn’t easy, because as you know, most laughter is actually not shared at all,” Inoue said. “We had to carefully categorize exactly which laughs we could use for our analysis and not just assume that any laugh can be responded to.”
+
+The type of laughter is also important, because in some cases a polite chuckle may be more appropriate than a loud snort of laughter. The experiment was limited to social versus mirthful laughs.
+
+The robot gets it
+The team eventually tested Erica’s new sense of humor by creating four short two- to three-minute dialogues between a person and Erica with her new shared-laughter system. In the first scenario, she only uttered social laughter, followed only by mirthful laughs in the second and third exchanges, with both types of laughter combined in the last dialogue. The team also created two other sets of similar dialogues as baseline models. In the first one, Erica never laughs. In the second, Erica utters a social laugh every time she detects a human laugh without using the other two subsystems to filter the context and response.
+
+The researchers crowdsourced more than 130 people in total to listen to each scenario within the three different conditions – shared-laughter system, no laughter, all laughter – and evaluated the interactions based on empathy, naturalness, human-likeness, and understanding. The shared-laughter system performed better than either baseline.
+
+“The most significant result of this paper is that we have shown how we can combine all three of these tasks into one robot. We believe that this type of combined system is necessary for proper laughing behavior, not simply just detecting a laugh and responding to it,” Inoue said.
+
+Like old friends
+There are still plenty of other laughing styles to model and train Erica on before she is ready to hit the stand-up circuit. “There are many other laughing functions and types which need to be considered, and this is not an easy task. We haven’t even attempted to model unshared laughs even though they are the most common,” Inoue noted.
+
+Of course, laughter is just one aspect of having a natural human-like conversation with a robot.
+
+“Robots should actually have a distinct character, and we think that they can show this through their conversational behaviors, such as laughing, eye gaze, gestures, and speaking style,” Inoue added. “We do not think this is an easy problem at all, and it may well take more than 10 to 20 years before we can finally have a casual chat with a robot like we would with a friend.”
+
+Reference: “Can a robot laugh with you?: Shared laughter generation for empathetic spoken dialogue” by Koji Inoue, Divesh Lala and Tatsuya Kawahara, 15 September 2022, Frontiers in Robotics and AI.
+DOI: 10.3389/frobt.2022.933261

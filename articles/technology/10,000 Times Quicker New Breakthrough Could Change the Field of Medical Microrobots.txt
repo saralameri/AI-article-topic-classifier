@@ -1,0 +1,34 @@
+10,000 Times Quicker: New Breakthrough Could Change the Field of Medical Microrobots
+TOPICS:DGISTETH ZurichMechanical EngineeringMedicineRobotics
+By DGIST (DAEGU GYEONGBUK INSTITUTE OF SCIENCE AND TECHNOLOGY) OCTOBER 20, 2022
+
+Abstract Technology Concept
+The breakthrough is expected to help improve the efficiency of regenerative medicine, such as stem cell delivery.
+
+Scientists have developed a mass-production method for biodegradable microrobots that can dissolve into the body after delivering cells and medications.
+
+In order to create a technology that can produce more than 100 microrobots per minute that can be disintegrated in the body, Professor Hongsoo Choi’s team at the Department of Robotics and Mechatronics Engineering at the Daegu Gyeongbuk Institute of Science & Technology (DGIST) worked with Professor Sung-Won Kim’s team at Seoul St. Mary’s Hospital, Catholic University of Korea, and Professor Bradley J. Nelson’s team at ETH Zurich.
+
+There are many approaches to building microrobots with the goal of minimally invasive targeted precision treatment. The most popular of them is the ultra-fine 3D printing process known as the two-photon polymerization method, which triggers polymerization in synthetic resin by intersecting two lasers.
+
+This technique has the ability to create structures with nanometer-level accuracy. The drawback is that it takes a lot of time to create a single microrobot since voxels, the pixels realized by 3D printing, must be successively cured. In addition, during the two-photon polymerization process, the magnetic nanoparticles in the robot may block the light path. When utilizing highly concentrated magnetic nanoparticles, the process result may not be uniform.
+
+Stem Cells Microrobot
+The 24-h process of stem cells attaching to the microrobot surface (top) and Cell staining results to identify cells attached to the microrobot surface (bottom). Credit: DGIST (Daegu Gyeongbuk Institute of Science and Technology)
+
+To address the constraints of the current microrobot production technique, DGIST Professor Hongsoo Choi’s research team created a method for creating microrobots at a high speed of 100 per minute by flowing a mixture of magnetic nanoparticles and biodegradable gelatin methacrylate, which can be cured by light, onto the microfluidic chip. Compared to the existing two-photon polymerization approach, this can create microrobots more than 10,000 times quicker.
+
+Then, the microrobot produced with this technology was cultured with human nasal turbinated stem cells collected from the human nose to induce stem cell adherence to the surface of the microrobot. Through this process, a stem cell carrying a microrobot, including magnetic nanoparticles inside and stem cells attached to the exterior surface, was fabricated. The robot moves as the magnetic nanoparticles inside the robot respond to an external magnetic field and can be moved to a desired position.
+
+Selective cell delivery was difficult in the case of the existing stem cell therapy. However, the stem cell carrying microrobot can move to a desired location by controlling the magnetic field generated from the electromagnetic field control system in real-time. The research team conducted an experiment to examine whether the stem cell-carrying microrobot could reach the target point by passing through a maze-shaped microchannel and consequently confirmed that the robot could move to the desired location.
+
+In addition, the degradability of the microrobot was evaluated by incubating the stem cell carrying the microrobot with a degrading enzyme. After 6 h of incubation, the microrobot was completely disintegrated, and the magnetic nanoparticles inside the robot were collected by the magnetic field generated from the magnetic field control system. Stem cells proliferated at the location where the microrobot was disintegrated. Subsequently, the stem cells were induced to differentiate into nerve cells to confirm normal differentiation; the stem cells were differentiated into nerve cells after approximately 21 days. This experiment verified that delivering stem cells to a desired location using a microrobot was possible and that the delivered stem cells could serve as a targeted precision therapeutic agent by exhibiting proliferation and differentiation.
+
+Furthermore, the research team confirmed whether the stem cells delivered by the microrobot exhibited normal electrical and physiological characteristics. The final goal of this study is to ensure that the stem cells delivered by the robot normally perform their bridge role in a state where the connection between the existing nerve cells is disconnected. To confirm this, hippocampal neurons extracted from rat embryos that stably emit electrical signals were utilized. The corresponding cell was attached to the surface of the microrobot, cultured on a micro-sized electrode chip, and electrical signals were observed from the hippocampal neurons after 28 days. Through this, the microrobot was verified to properly perform its role as a cell delivery platform.
+
+DGIST Professor Hongsoo Choi said, “We expect that the technologies developed through this study, such as mass production of microrobots, precise operation by electromagnetic fields, and stem cell delivery and differentiation, will dramatically increase the efficiency of targeted precision therapy in the future.”
+
+Reference: “A Biodegradable Magnetic Microrobot Based on Gelatin Methacrylate for Precise Delivery of Stem Cells with Mass Production Capability” by Seungmin Noh, Sungwoong Jeon, Eunhee Kim, Untaek Oh, Danbi Park, Sun Hwa Park, Sung Won Kim, Salvador Pané, Bradley J. Nelson, Jin-young Kim and Hongsoo Choi, 23 May 2022, Small.
+DOI: 10.1002/smll.202107888
+
+The study was funded by the National Science Challenges Support & Network, the National Research Foundation of Korea, and the Ministry of Science and ICT.

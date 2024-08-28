@@ -1,0 +1,28 @@
+AI Use Potentially Dangerous “Shortcuts” To Solve Complex Recognition Tasks
+TOPICS:Artificial IntelligencePerceptionVisionYork University
+By YORK UNIVERSITY NOVEMBER 9, 2022
+
+Big Data Artificial Intelligence Concept Art
+The researchers revealed that deep convolutional neural networks were insensitive to configural object properties.
+
+Research from York University finds that even the smartest AI can’t match up to humans’ visual processing.
+Deep convolutional neural networks (DCNNs) do not view things in the same way that humans do (through configural shape perception), which might be harmful in real-world AI applications. This is according to Professor James Elder, co-author of a York University study recently published in the journal iScience.
+
+The study, which conducted by Elder, who holds the York Research Chair in Human and Computer Vision and is Co-Director of York’s Centre for AI & Society, and Nicholas Baker, an assistant psychology professor at Loyola College in Chicago and a former VISTA postdoctoral fellow at York, finds that deep learning models fail to capture the configural nature of human shape perception.
+
+In order to investigate how the human brain and DCNNs perceive holistic, configural object properties, the research used novel visual stimuli known as “Frankensteins.”
+
+“Frankensteins are simply objects that have been taken apart and put back together the wrong way around,” says Elder. “As a result, they have all the right local features, but in the wrong places.”
+
+The researchers discovered that whereas Frankensteins confuse the human visual system, DCNNs do not, revealing an insensitivity to configural object properties.
+
+“Our results explain why deep AI models fail under certain conditions and point to the need to consider tasks beyond object recognition in order to understand visual processing in the brain,” Elder says. “These deep models tend to take ‘shortcuts’ when solving complex recognition tasks. While these shortcuts may work in many cases, they can be dangerous in some of the real-world AI applications we are currently working on with our industry and government partners,” Elder points out.
+
+One such application is traffic video safety systems: “The objects in a busy traffic scene – the vehicles, bicycles, and pedestrians – obstruct each other and arrive at the eye of a driver as a jumble of disconnected fragments,” explains Elder. “The brain needs to correctly group those fragments to identify the correct categories and locations of the objects. An AI system for traffic safety monitoring that is only able to perceive the fragments individually will fail at this task, potentially misunderstanding risks to vulnerable road users.”
+
+According to the researchers, modifications to training and architecture aimed at making networks more brain-like did not lead to configural processing, and none of the networks could accurately predict trial-by-trial human object judgments. “We speculate that to match human configurable sensitivity, networks must be trained to solve a broader range of object tasks beyond category recognition,” notes Elder.
+
+Reference: “Deep learning models fail to capture the configural nature of human shape perception” by Nicholas Baker and James H. Elder, 11 August 2022, iScience.
+DOI: 10.1016/j.isci.2022.104913
+
+The study was funded by the Natural Sciences and Engineering Research Council of Canada. 

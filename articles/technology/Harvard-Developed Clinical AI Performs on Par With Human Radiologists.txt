@@ -1,0 +1,34 @@
+Harvard-Developed Clinical AI Performs on Par With Human Radiologists
+TOPICS:Artificial IntelligenceBiomedical EngineeringHarvard Medical SchoolMachine LearningStanford University
+By HARVARD MEDICAL SCHOOL NOVEMBER 5, 2022
+
+Artificial Intelligence Concept
+The new tool uses natural language descriptions from the accompanying clinical reports to identify diseases on chest X-rays.
+
+A new tool overcomes a significant hurdle in clinical AI design.
+Scientists from Harvard Medical School and Stanford University have created a diagnostic tool using artificial intelligence that can detect diseases on chest X-rays based on the natural language descriptions provided in the accompanying clinical reports.
+
+Because most existing AI models need arduous human annotation of enormous amounts of data before the labeled data are given into the model to train it, the step is considered a big advancement in clinical AI design.
+
+The model, named CheXzero, performed on par with human radiologists in its ability to identify pathologies on chest X-rays, according to a paper describing their work that was published in Nature Biomedical Engineering.  The group has also made the model’s code openly accessible to other researchers.
+
+To correctly detect pathologies during their “training,” the majority of AI algorithms need labeled datasets. Since this procedure requires extensive, often costly, and time-consuming annotation by human clinicians, it is particularly difficult for tasks involving the interpretation of medical images.
+
+For instance, to label a chest X-ray dataset, expert radiologists would have to look at hundreds of thousands of X-ray images one by one and explicitly annotate each one with the conditions detected. While more recent AI models have tried to address this labeling bottleneck by learning from unlabeled data in a “pre-training” stage, they eventually require fine-tuning on labeled data to achieve high performance.
+
+By contrast, the new model is self-supervised, in the sense that it learns more independently, without the need for hand-labeled data before or after training. The model relies solely on chest X-rays and the English-language notes found in accompanying X-ray reports.
+
+“We’re living in the early days of the next-generation medical AI models that are able to perform flexible tasks by directly learning from text,” said study lead investigator Pranav Rajpurkar, assistant professor of biomedical informatics in the Blavatnik Institute at HMS. “Up until now, most AI models have relied on manual annotation of huge amounts of data—to the tune of 100,000 images—to achieve high performance. Our method needs no such disease-specific annotations.
+
+“With CheXzero, one can simply feed the model a chest X-ray and corresponding radiology report, and it will learn that the image and the text in the report should be considered as similar—in other words, it learns to match chest X-rays with their accompanying report,” Rajpurkar added. “The model is able to eventually learn how concepts in the unstructured text correspond to visual patterns in the image.”
+
+The model was “trained” on a publicly available dataset containing more than 377,000 chest X-rays and more than 227,000 corresponding clinical notes. Its performance was then tested on two separate datasets of chest X-rays and corresponding notes collected from two different institutions, one of which was in a different country. This diversity of datasets was meant to ensure that the model performed equally well when exposed to clinical notes that may use different terminology to describe the same finding.
+
+Upon testing, CheXzero successfully identified pathologies that were not explicitly annotated by human clinicians. It outperformed other self-supervised AI tools and performed with accuracy similar to that of human radiologists.
+
+The approach, the researchers said, could eventually be applied to imaging modalities well beyond X-rays, including CT scans, MRIs, and echocardiograms.
+
+“CheXzero shows that accuracy of complex medical image interpretation no longer needs to remain at the mercy of large labeled datasets,” said study co-first author Ekin Tiu, an undergraduate student at Stanford and a visiting researcher at HMS. “We use chest X-rays as a driving example, but in reality, CheXzero’s capability is generalizable to a vast array of medical settings where unstructured data is the norm, and precisely embodies the promise of bypassing the large-scale labeling bottleneck that has plagued the field of medical machine learning.”
+
+Reference: “Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning” by Ekin Tiu, Ellie Talius, Pujan Patel, Curtis P. Langlotz, Andrew Y. Ng, and Pranav Rajpurkar, 15 September 2022, Nature Biomedical Engineering.
+DOI: 10.1038/s41551-022-00936-9

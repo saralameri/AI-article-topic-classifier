@@ -1,0 +1,26 @@
+Quantum Breakthrough: Researchers Demonstrate Full Control of a Three-Qubit System
+TOPICS:QuantumQuantum BitsQuantum ComputingRIKEN
+By RIKEN SEPTEMBER 9, 2022
+
+Quantum Technology Particle Physics Concept
+The findings are a major step toward large-scale quantum computing.
+
+Error correction in a silicon qubit system was demonstrated by the researchers.
+By demonstrating error correction in a three-qubit silicon-based quantum computing device, researchers from RIKEN in Japan have made a significant advancement toward large-scale quantum computing. This research, which was published in Nature, could help make practical quantum computers a reality.
+
+Quantum computers are a prominent field of study right now because they promise to solve important problems that are unsolvable with conventional computers. Instead of employing the straightforward 1 or 0 binary bits inherent in traditional computers, they use superimposition states of quantum physics. They are, however, very sensitive to ambient noise and other difficulties, such as decoherence, due to their fundamentally different design and need error correction to do precise calculations.
+
+The selection of systems that can serve as the best “qubits,” or basic units needed to do quantum calculations, is a significant challenge today. Each prospective system has advantages and disadvantages of its own. Today’s popular systems include superconducting circuits and ions, which have the benefit of having some type of error correction demonstrated, enabling them to be used in real-world applications, although on a limited scale.
+
+Silicon-based quantum technology, which has just recently started to be developed, is known to offer an advantage in that it uses a semiconductor nanostructure comparable to what is frequently used to integrate billions of transistors on a compact chip, and hence potentially benefits from existing manufacturing technology.
+
+However, one major problem with silicon-based technology is that there is a lack of technology for error connection. Researchers have previously demonstrated control of two qubits, but that is not enough for error correction, which requires a three-qubit system.
+
+In the current research, conducted by researchers at the RIKEN Center for Emergent Matter Science and the RIKEN Center for Quantum Computing, the group achieved this feat, demonstrating full control of a three-qubit system (one of the largest qubit systems in silicon), thus providing a prototype for the first time of quantum error correction in silicon. They achieved this by implementing a three-qubit Toffoli-type quantum gate.
+
+According to Kenta Takeda, the first author of the paper, “The idea of implementing a quantum error-correcting code in quantum dots was proposed about a decade ago, so it is not an entirely new concept, but a series of improvements in materials, device fabrication, and measurement techniques allowed us to succeed in this endeavor. We are very happy to have achieved this.”
+
+According to Seigo Tarucha, the leader of the research group, “Our next step will be to scale up the system. We think scaling up is the next step. For that, it would be nice to work with semiconductor industry groups capable of manufacturing silicon-based quantum devices on a large scale.
+
+Reference: “Quantum error correction with silicon spin qubits” by Kenta Takeda, Akito Noiri, Takashi Nakajima, Takashi Kobayashi, and Seigo Tarucha, 24 August 2022, Nature.
+DOI: 10.1038/s41586-022-04986-6

@@ -1,0 +1,64 @@
+Beaming Clean Energy From Space – Caltech’s “Extraordinary and Unprecedented Project”
+TOPICS:California Institute Of TechnologyEnergyPhotovoltaicsPopularSolar Energy
+By CALIFORNIA INSTITUTE OF TECHNOLOGY OCTOBER 29, 2022
+
+Beaming Clean Energy From Space
+Collecting solar power in space and transmitting the energy wirelessly to Earth through microwaves enables terrestrial power availability unaffected by weather or time of day. Solar power could be continuously available anywhere on Earth. Credit: Caltech
+
+Technology capable of collecting solar power in space and beaming it to Earth to provide a global supply of clean and affordable energy was once considered science fiction. Now it is moving closer to reality. Through the Space-based Solar Power Project (SSPP), a team of California Institute of Technology (Caltech) researchers is working to deploy a constellation of modular spacecraft that collect sunlight, transform it into electricity, then wirelessly transmit that electricity wherever it is needed. They could even send it to places that currently have no access to reliable power.
+
+“This is an extraordinary and unprecedented project,” says Harry Atwater, an SSPP researcher and Otis Booth Leadership Chair of Caltech’s Division of Engineering and Applied Science. “It exemplifies the boldness and ambition needed to address one of the most significant challenges of our time, providing clean and affordable energy to the world.”
+
+Atwater, who is also the Howard Hughes Professor of Applied Physics and Materials Science, leads the project jointly with two other researchers: Ali Hajimiri, Bren Professor of Electrical Engineering and co-director of SSPP; and Sergio Pellegrino, Joyce and Kent Kresa Professor of Aerospace and Civil Engineering, co-director of SSPP, and a senior research scientist at the Jet Propulsion Laboratory (JPL).
+
+
+
+Harnessing solar power in space relies on breakthrough advances in three main areas:
+
+Atwater’s research group is designing ultralight high-efficiency photovoltaics (materials that convert light into electricity) that are optimized for space conditions and compatible with an integrated modular power conversion and transmission system.
+Hajimiri’s research team is developing the low-cost and lightweight technology needed to convert direct current power to radio frequency power (which is used to transmit cell phone signals, for example) and send it to Earth as microwaves. The process is safe, Hajimiri explains. Non-ionizing radiation at the surface is significantly less harmful than standing in the sun. In addition, the system could be quickly shut down in the event of damage or malfunction.
+Pellegrino’s group is inventing foldable, ultrathin, and ultralight space structures to support the photovoltaics as well as the components needed to convert, transmit, and steer radio frequency power to where it is needed.
+The basic unit of the system the researchers envision is a 4-inch-by-4-inch tile that weighs less than a tenth of an ounce. Hundreds of thousands of these tiles would combine into a system of flying carpet-like satellites that, once unfurled, would create a sunlight-gathering surface that measures 3.5 square miles.
+
+Work on the SSPP has been supported by more than $100 million in funding from Donald Bren, chairman of the Irvine Company and a life member of the Caltech community, and his wife, Brigitte Bren, a Caltech trustee. The Northrup Grumman Corporation provided funding for initial feasibility studies.
+
+Atwater, Hajimiri, and Pellegrino discussed their progress—and the transformational potential of space-based solar power—as the project nears a significant milestone: a test launch of prototypes into space in December 2022.
+
+Space Solar Power Project Small Solar Panel Array
+An array of small solar panels that are part of the Space Solar Power Project integrate photovoltaics, power transfer circuitry, and incorporate beam steering. Credit: Caltech
+
+Describe the vision behind the Space-based Solar Power Project. How did the project take shape?
+Sergio Pellegrino: It was more than 10 years ago, in 2011, that conversations began with Donald Bren asking whether Caltech had any ideas when it came to research in the field of sustainable energy and space. We started discussing, in a group of faculty members, ways of building on our interests and what was happening in each of our areas that might lead to a very impactful research initiative. Over a period of a few months, we came up with a vision—I called it a dream—of three or four technology breakthroughs that, in combination, would transform the way space solar power had been previously approached.
+
+Ali Hajimiri: This concept was, in the past, truly science fiction. What made it possible for us to consider taking it from the realm of science fiction to the realm of reality was the combination of developments happening in photovoltaics in Harry’s lab, in structures in Sergio’s lab, and in wireless power transfer, which is happening in my lab. We realized that we can now pursue space solar power in a way that is becoming both practical and economical.
+
+One of the first questions that anyone asks is, “Why do you want to put photovoltaics in space?” Well, in space, where you don’t have day and night and clouds and things of that sort, you get about eight times more energy. The vision of this program is to be able to provide as much power as you need, where you need it, and when you need it.
+
+Sergio Pellegrino, Harry Atwater, and Ali Hajimiri
+(Left to right) Professors Sergio Pellegrino, Harry Atwater, and Ali Hajimiri. Credit: Steve Babuljak for Caltech
+
+What progress have you made toward realizing this ambitious vision?
+Pellegrino: Over a period of two years, we built and demonstrated a prototype tile. This is the key modular element that captures the sunlight and transmits the power. Through that process, we learned many things about how to design highly integrated and ultralight systems of this sort. We then developed a second prototype, 33 percent lighter than the first.
+
+Hajimiri: This tile is the building block, as Sergio mentioned, of the larger system. It has to be fully functional, compatible, and scalable. Although it may sound simple, it’s actually quite sophisticated. These tiles are mounted on a very flexible structure that can be folded to fit in a launch vehicle. Once deployed, the structure expands, and the tiles work in concert and in synchronization to generate energy, convert it, and transfer it exactly where you need it and nowhere else.
+
+What can you tell us about the next phase in this project?
+Atwater: It doesn’t get real until you actually go to space. As Sergio and Ali described, we demonstrated this key unit element called a tile in our labs. One of the lessons from that series of demonstrations was that the pathway we needed to follow for photovoltaics fundamentally had to change. We were working with what I’ll call conventional photovoltaic materials, which had to be designed in a form that was going to make it difficult to reach the mass-per-unit area and specific power goals, so we had to basically rethink the photovoltaic strategy completely. As a result, the classes of photovoltaic devices that we are testing in space have actually never flown in space before.
+
+Pellegrino: Most spacecraft today have solar arrays—photovoltaic cells bonded to a carrier structure—but not with this type of material and not folded to the dimensions we’ve achieved. By using novel folding techniques, inspired by origami, we are able to significantly reduce the dimensions of a giant spacecraft for launch. The packaging is so tight as to be essentially free of any voids.
+
+Hajimiri: Wireless power transfer of this nature has not been demonstrated in space. We are also demonstrating it with our flexible, lightweight material, not necessarily a rigid structure. That adds complexity.
+
+If and when space solar power becomes a reality, what impact might it have on society?
+Hajimiri: It is going to revolutionize the nature of energy and access to it so that it becomes ubiquitous, it becomes dispatchable energy. You can send it where you need it. This redirection of energy is done without any mechanical movements, purely through electrical means using a focusing array, which makes it extremely fast.
+
+Atwater: I think one can say that the Brens’ vision really was to do something that, as Ali mentioned, originally emerged almost from science fiction, to do something that would become a large-scale energy source for the world.
+
+Pellegrino: We have had JPL collaborators join our team, and that collaboration has become powerful and useful to us as we start thinking about these space demonstrations. The discussion about energy that was implicitly limited to powering the earth actually extends to space exploration also. We’re opening new chapters in the way JPL is thinking about future missions.
+
+Speaking of collaboration, work across research areas has been integral to SSPP’s success. What has it been like to work together so intensely over the course of a long-term project?
+Hajimiri: The students, the postdocs, all of us have been working very closely, and we’ve been learning a great deal about each other’s domains. This results in something that’s more than the sum of its parts, both in terms of the end result of the project as well as in terms of the training the students are getting. That training is incredibly important to the future of space technology, whether it’s for wireless power transfer, communications, space structures, or all sorts of other applications we haven’t even thought about yet.
+
+Atwater: I had a former lifetime working in photovoltaics but never imagined in my wildest dreams that I would get involved in space until this opportunity came together. And for me, it’s been a window on a completely new world of science. That’s been tremendously exciting.
+
+Pellegrino: Sometimes it feels like we are pushing our colleagues to do something that they clearly think is impossible but later turns out not to be impossible. That is just a wonderful feeling. It’s a different kind of research, where you are doing the best you can in your own field, but you are also leveraging the interface with other fields, a collective system that really is going to benefit society. Benefiting society is a much more elaborate thing than doing good work in your own area. It’s so much more challenging.

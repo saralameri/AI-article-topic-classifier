@@ -1,0 +1,30 @@
+NASA’s X-57 Maxwell All-Electric Aircraft Powers Up
+TOPICS:NASAX-57 Maxwell
+By SARAH MANN, NASA ARMSTRONG FLIGHT RESEARCH CENTER OCTOBER 22, 2022
+
+NASA X-57 Maxwell Aircraft
+This artist’s concept of NASA’s X-57 Maxwell aircraft shows the plane’s specially designed wing and 14 electric motors. NASA Aeronautics researchers will use the Maxwell to demonstrate that electric propulsion can make planes quieter, more efficient, and more environmentally friendly. Credit: NASA Langley/Advanced Concepts Lab, AMA, Inc.
+
+Another crucial milestone toward its first flight has been achieved by NASA’s X-57 Maxwell all-electric aircraft with the successful installation of two 400-pound lithium-ion battery packs in the cabin of the plane.
+
+The X-57 project is NASA’s first all-experimental electric aircraft, and an early part of the agency’s work to develop sustainable aviation solutions. Instead of petroleum-based aviation fuel, it will use commercial, rechargeable, lithium-ion batteries for the energy its motors need for flight. The goal is to make flying cleaner, quieter, and more sustainable.
+
+To reach this point, the X-57 project team repeatedly tested the batteries to ensure they can safely power the aircraft for an entire flight. They also designed custom, lightweight cases to keep the batteries secure.
+
+
+NASA’s X-57 Maxwell all-electric aircraft has power! With the successful installation of two 400-pound lithium-ion battery packs in the cabin of the plane. The X-57 project is the agency’s first all-experimental electric aircraft, and an early part of NASA’s work to develop sustainable aviation solutions. Instead of aviation fuel, it will use commercial, rechargeable, lithium-ion batteries for the energy its motors need for flight. The X-57 project team repeatedly tested the batteries to ensure they can safely power the aircraft for an entire flight, and designed custom, lightweight cases to keep the batteries secure. Credit: NASA Armstrong Flight Research Center
+
+After the battery installation, the crew successfully tested the X-57 aircraft motors spinning off battery power. Although the motors had previously spun, at those earlier stages they were drawing energy from the test facility or from the batteries when they were sitting outside of the aircraft.
+
+Prior to the latest motor spin test, the aircraft’s cruise motor controllers underwent random vibration tests. These hardware acceptance tests take place on shake tables set to randomly vibrate at the same frequencies as the accelerating motors, to ensure all systems stay functional in flight. Random vibration acceptance testing for all the cruise motor controllers for the X-57 aircraft has taken place to make sure that all the systems stay functional while they endure the vibration environment expected during flight.
+
+
+The X-57 Maxwell electric airplane being developed by NASA Aeronautics Research Mission Directorate takes off on a simulated flight using fourteen electric motors, and then shuts down twelve small electric motors, and folds up the propellers in flight. Credit: NASA
+
+Additionally, the cruise motors were placed on a dynamometer, an electric motor speed tester, to make sure they will operate that the maximum planned temperature, power, torque, speed, voltage, and current during flight.
+
+NASA will conduct taxi and flight operations once required integration and system tests are complete and the aircraft is performing as expected.
+
+In the coming months, the X-57 project will begin a series of test flights. Each will expand upon the others, with data collected to understand aircraft operation and performance.
+
+The primary goal of the X-57 project is to share the aircraft’s electric-propulsion-focused design, airworthiness process, and technology with industry, standards bodies, and regulators to inform certification approaches for all-electric propulsion in emerging electric aircraft markets.

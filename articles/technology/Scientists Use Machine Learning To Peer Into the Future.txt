@@ -1,0 +1,34 @@
+Scientists Use Machine Learning To Peer Into the Future
+TOPICS:Computer ScienceFutureMachine LearningOhio State UniversitySimulation
+By OHIO STATE UNIVERSITY OCTOBER 20, 2022
+
+Time Reversal Phenomena Concept
+The researchers utilize an advanced machine learning method known as next generation reservoir computing.
+
+Chaotic physical processes are now easier to predict thanks to a new algorithm.
+While the past may be a fixed and unchangeable point, machine learning can sometimes make predicting the future easier.
+
+Researchers at The Ohio State University have recently discovered a new way to predict the behavior of spatiotemporal chaotic systems, such as changes in Earth’s weather, that are particularly difficult for scientists to forecast using a new type of machine learning technique called next generation reservoir computing.
+
+The research, which was recently published in the journal Chaos: An Interdisciplinary Journal of Nonlinear Science, makes use of a brand-new, highly efficient algorithm that, when combined with next-generation reservoir computing, can learn spatiotemporal chaotic systems in a fraction of the time required by traditional machine learning algorithms.
+
+Researchers put their method to the test by predicting the behavior of an atmospheric weather model, a challenging problem that has been researched extensively in the past. The Ohio State team’s algorithm is more accurate and needs 400 to 1,250 times less training data to generate better predictions than its rival, traditional machine learning algorithms that can do the same tasks. They used a laptop running Windows 10 to make predictions in a fraction of a second, which is roughly 240,000 times faster than conventional machine learning algorithms. Their method is also less computationally expensive; whereas solving complex computing problems previously required a supercomputer.
+
+“This is very exciting, as we believe it’s a substantial advance in terms of data processing efficiency and prediction accuracy in the field of machine learning,” said Wendson De Sa Barbosa, lead author and a postdoctoral researcher in physics at Ohio State. He said that learning to predict these extremely chaotic systems is a “physics grand challenge,” and understanding them could pave the way to new scientific discoveries and breakthroughs.
+
+“Modern machine learning algorithms are especially well-suited for predicting dynamical systems by learning their underlying physical rules using historical data,” said De Sa Barbosa. “Once you have enough data and computational power, you can make predictions with machine learning models about any real-world complex system.” Such systems can include any physical process, from the bob of a clock’s pendulum to disruptions in power grids.
+
+Even heart cells display chaotic spatial patterns when they oscillate at an abnormally higher frequency than a normal heartbeat, said De Sa Barbosa. That means this research could one day be used to provide better insight into controlling and interpreting heart disease, as well as a bevy of other “real-world” problems.
+
+“If one knows the equations that accurately describe how these unique processes for a system will evolve, then its behavior could be reproduced and predicted,” he said. Simple movements, like the swing position of a clock, can be predicted easily using only its current position and velocity. Yet more complex systems, like Earth’s weather, are far more difficult to foresee due to how many variables actively dictate its chaotic behavior.
+
+To make precise predictions of the entire system, scientists would have to have accurate information about every single one of these variables, and the model equations that describe how these many variables are related, which is altogether impossible, said De Sa Barbosa. But with their machine learning algorithm, the almost 500,000 historical training data points used in previous works for the atmospheric weather example used in this study could be reduced to only 400, while still achieving the same or better accuracy.
+
+Going forward, De Sa Barbosa aims to further his research by using their algorithm to possibly speed up spatiotemporal simulations, he said.
+
+“We live in a world that we still know so little about, so it’s important to recognize these high-dynamical systems and learn how to more efficiently predict them.”
+
+Reference: “Learning spatiotemporal chaos using next-generation reservoir computing” by Wendson A. S. Barbosa and Daniel J. Gauthier, 26 September 2022, Chaos: An Interdisciplinary Journal of Nonlinear Science.
+DOI: 10.1063/5.0098707
+
+The study was funded by the Air Force Office of Scientific Research.

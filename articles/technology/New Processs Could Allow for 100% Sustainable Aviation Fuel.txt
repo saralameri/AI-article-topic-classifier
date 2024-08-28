@@ -1,0 +1,30 @@
+New Processs Could Allow for 100% Sustainable Aviation Fuel
+TOPICS:BiofuelDOEMITNational Renewable Energy LaboratorySustainabilityWashington State University
+By DOE/NATIONAL RENEWABLE ENERGY LABORATORY OCTOBER 18, 2022
+
+Biofuel Research Concept
+The study demonstrates that lignin has the potential to be used to create 100% sustainable aviation fuel.
+
+A collaboration between the National Renewable Energy Laboratory, the Massachusetts Institute of Technology, and Washington State University opens the door to sustainable jet fuel.
+
+An underused natural resource might be just what the airline industry needs to reduce carbon emissions.
+
+U.S. researchers from the Massachusetts Institute of Technology (MIT), Washington State University, and the Department of Energy’s National Renewable Energy Laboratory (NREL) report success in using lignin as a path toward a drop-in 100% sustainable aviation fuel. Lignin makes up the rigid part of plant cell walls. Other plant parts are utilized for biofuels, but lignin has generally been overlooked due to the difficulty in chemically breaking it down and turning it into useful compounds.
+
+The recently released study demonstrated a process the researchers created to extract the oxygen from lignin so that the resultant hydrocarbons may be utilized as a blendstock for jet fuel. The research was recently published in the journal Joule.
+
+Lignin Aviation Fuel
+Containers are of poplar biomass (left), the extracted lignin oil, and the resulting sustainable aviation fuel. Credit: National Renewable Energy Laboratory
+
+The paper emphasizes the need of using sustainable jet fuel sources since the airline industry has pledged to drastically cut carbon emissions. In 2019, airlines utilized 106 billion gallons of jet fuel worldwide, a figure that is predicted to more than quadruple by 2050. To achieve the industry’s aim of net carbon neutrality over that time period, major deployment of sustainable aviation fuel (SAF) with high blend limits with conventional fuel will be required.
+
+Jet fuel is a blended mixture of different hydrocarbon molecules, including aromatics and cycloalkanes. Current commercialized technologies do not produce those components to qualify for a 100% SAF. Instead, SAF blendstocks are combined with conventional hydrocarbon fuels. As the largest source of renewable aromatics in nature, lignin could hold the answer to achieving a complete bio-based jet fuel. This newly published work illustrates the ability of a lignin pathway to complement existing and other developing pathways. Specifically, the lignin pathway described in this new work allows the SAF to have fuel system compatibility at higher blend ratios.
+
+Because of its recalcitrance, lignin is typically burned for heat and power or used only in low-value applications. Previous research has yielded lignin oils with high oxygen contents ranging from 27% to 34%, but to be used as jet fuel that amount must be reduced to less than half-percent.
+
+Other processes have been tried to reduce the oxygen content, but the catalysts involved require expensive noble metals and proved to be low yielding. Researchers at the trio of institutions demonstrated an efficient method that used earth-abundant molybdenum carbide as the catalyst in a continuous process, achieving an oxygen content of about 1%.
+
+Reference: “Continuous hydrodeoxygenation of lignin to jet-range aromatic hydrocarbons” by Michael L. Stone, Matthew S. Webber, William P. Mounfield III, David C. Bell, Earl Christensen, Ana R.C. Morais, Yanding Li, Eric M. Anderson, Joshua S. Heyne, Gregg T. Beckham and Yuriy Román-Leshkov, 22 September 2022, Joule.
+DOI: 10.1016/j.joule.2022.08.005
+
+The study was funded by the U.S. Department of Energy’s Bioenergy Technologies Office and Center for Bioenergy Innovation.

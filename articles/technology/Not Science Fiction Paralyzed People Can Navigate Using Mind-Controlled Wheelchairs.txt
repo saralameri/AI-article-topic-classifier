@@ -1,0 +1,36 @@
+Not Science Fiction: Paralyzed People Can Navigate Using Mind-Controlled Wheelchairs
+TOPICS:Cell Press
+By CELL PRESS NOVEMBER 18, 2022
+
+Cyborg Brain Technology Mind Control Concept
+In a new study, researchers demonstrate that tetraplegic users can operate mind-controlled wheelchairs in a natural, cluttered environment. The mind-controlled wheelchair helps paralyzed people gain new mobility by translating users’ thoughts into mechanical commands.
+
+By translating users’ thoughts into mechanical commands, a mind-controlled wheelchair can help a paralyzed person gain new mobility. Researchers demonstrate that tetraplegic users can operate mind-controlled wheelchairs in a natural, cluttered environment after training for an extended period in a study published today (November 18) in the journal iScience.
+
+“We show that mutual learning of both the user and the brain-machine interface algorithm are both important for users to successfully operate such wheelchairs,” says José del R. Millán, the study’s corresponding author at The University of Texas at Austin. “Our research highlights a potential pathway for improved clinical translation of non-invasive brain-machine interface technology.”
+
+Millán and his colleagues recruited three tetraplegic people for the longitudinal study. Each of the participants underwent training sessions three times per week for 2 to 5 months. The participants wore a skullcap that detected their brain activities through electroencephalography (EEG), which would be converted to mechanical commands for the wheelchairs via a brain-machine interface device. The participants were asked to control the direction of the wheelchair by thinking about moving their body parts. Specifically, they needed to think about moving both hands to turn left and both feet to turn right.
+
+
+This video shows a participant operating a mind-controlled wheelchair across a cluttered room. Credit: Luca Tonin
+
+In the first training session, three participants had similar levels of accuracy—when the device’s responses aligned with users’ thoughts—of around 43% to 55%. Over the course of training, the brain-machine interface device team saw significant improvement in accuracy in participant 1, who reached an accuracy of over 95% by the end of his training. The team also observed an increase in accuracy in participant 3 to 98% halfway through his training before the team updated his device with a new algorithm.
+
+The improvement seen in participants 1 and 3 is correlated with improvement in feature discriminancy, which is the algorithm’s ability to discriminate the brain activity pattern encoded for “go left” thoughts from that for “go right.” The team found that the better feature discrimnancy is not only a result of machine learning of the device but also learning in the brain of the participants. The EEG of participants 1 and 3 showed clear shifts in brainwave patterns as they improved accuracy in mind-controlling the device.
+
+“We see from the EEG results that the subject has consolidated a skill of modulating different parts of their brains to generate a pattern for ‘go left’ and a different pattern for ‘go right,’” Millán says. “We believe there is a cortical reorganization that happened as a result of the participants’ learning process.”
+
+Compared with participants 1 and 3, participant 2 had no significant changes in brain activity patterns throughout the training. His accuracy increased only slightly during the first few sessions, which remained stable for the rest of the training period. It suggests machine learning alone is insufficient for successfully maneuvering such a mind-controlled device, Millán says
+
+By the end of the training, all participants were asked to drive their wheelchairs across a cluttered hospital room. They had to go around obstacles such as a room divider and hospital beds, which are set up to simulate the real-world environment. Both participants 1 and 3 finished the task while participant 2 failed to complete it.
+
+“It seems that for someone to acquire good brain-machine interface control that allows them to perform relatively complex daily activity like driving the wheelchair in a natural environment, it requires some neuroplastic reorganization in our cortex,” Millán says.
+
+The study also emphasized the role of long-term training in users. Although participant 1 performed exceptionally at the end, he struggled in the first few training sessions as well, Millán says. The longitudinal study is one of the first to evaluate the clinical translation of non-invasive brain-machine interface technology in tetraplegic people.
+
+Next, the team wants to figure out why participant 2 didn’t experience the learning effect. They hope to conduct a more detailed analysis of all participants’ brain signals to understand their differences and possible interventions for people struggling with the learning process in the future.
+
+Reference: “Learning to control a BMI-driven wheelchair for people with severe tetraplegia” by Tonin and Perdikis et al., 18 November 2022, iScience.
+DOI: 10.1016/j.isci.2022.105418
+
+This work was partially supported by the Italian Minister for Education and by the Department of Information Engineering of the University of Padova.

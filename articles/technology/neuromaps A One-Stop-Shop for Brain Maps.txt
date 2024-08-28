@@ -1,0 +1,26 @@
+neuromaps: A One-Stop-Shop for Brain Maps
+TOPICS:Biomedical EngineeringBiotechnologyBrainMcGill UniversityMedical Imaging
+By MCGILL UNIVERSITY OCTOBER 6, 2022
+
+Left Right Brain Signals
+A new database, called neuromaps, brings together more than forty existing brain maps to help scientists find correlations between patterns across different brain regions, spatial scales, modalities, and brain functions.
+
+Software tool brings together multiple brain maps in one place.
+No one imaging mode can catch everything that’s going on inside the brain, since it is such a complex organ. Multiple “brain maps” have emerged over the years, with each focusing on different brain processes, from metabolism to cognitive function. These maps are indeed important, but using them in isolation limits the discoveries scientists can make from them.
+
+More than forty existing brain maps have now been collected in one place by a team from The Neuro. Called neuromaps, the database will help researchers find correlations between patterns across different brain regions, modalities, spatial scales, and brain functions. To assist researchers in differentiating between a relevant association and a random pattern, it offers a standardized space to see each map in comparison to one another and evaluates the statistical significance of these comparisons. Additionally, the neuromaps database helps standardize the code across maps, to improve reproducibility of results.
+
+Neuromaps Brain Maps
+Just some of the brain maps included in neuromaps. Credit: The Neuro
+
+The team will publish their results today (October 6, 2022) in the journal Nature Methods and has made their data open access on github.
+
+“Ultimately, we hope that neuromaps will add a spark to the analysis of human brain maps and increase accessibility of data and software tools to people with diverse research interests,” says Justine Hansen, the paper’s co-first author. “As the rate at which new brain maps are generated in the field continues to grow, we hope that neuromaps will provide researchers with a set of standardized workflows for better understanding what these data can tell us about the human brain.”
+
+Neuromaps Workflow
+The workflow of neuromaps. Credit: The Neuro
+
+Reference: “neuromaps: structural and functional interpretation of brain maps” by Ross D. Markello, Justine Y. Hansen, Zhen-Qi Liu, Vincent Bazinet, Golia Shafiei, Laura E. Suárez, Nadia Blostein, Jakob Seidlitz, Sylvain Baillet, Theodore D. Satterthwaite, M. Mallar Chakravarty, Armin Raznahan & Bratislav Misic, 6 October 2022, Nature Methods.
+DOI: 10.1038/s41592-022-01625-w
+
+This study was funded with the help of Fonds de Recherche du Quebec – Nature et Technologies (FRQNT), Canadian Open Neuroscience Platform (CONP), Hemlholtz International BigBrain Analytics and Learning Laboratory (HIBALL), Natural Sciences and Engineering Research Council of Canada (NSERC), Canada Research Chairs (CRC), National Institute of Health (NIH), Canadian Institutes of Health Research (CIHR), Healthy Brains for Healthy Lives (HBHL), and Brain Canada Future Leaders (BCF).

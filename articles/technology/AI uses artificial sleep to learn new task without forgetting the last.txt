@@ -1,0 +1,35 @@
+AI uses artificial sleep to learn new task without forgetting the last
+Many AIs can only become good at one task, forgetting everything they know if they learn another. A form of artificial sleep could help stop this from happening
+This article has been viewed 223 times in the last 3 hours.
+
+TECHNOLOGY 10 November 2022
+By Jeremy Hsu
+
+Person sleeping
+AIs may need to sleep too
+
+Shutterstock/Ground Picture
+
+Artificial intelligence can learn and remember how to do multiple tasks by mimicking the way sleep helps us cement what we learned during waking hours.
+
+“There is a huge trend now to bring ideas from neuroscience and biology to improve existing machine learning – and sleep is one of them” says Maxim Bazhenov at the University of California, San Diego.
+
+Many AIs can only master one set of well-defined tasks –  they can’t acquire additional knowledge later on without losing everything they had previously learned. “The issue pops up if you want to develop systems which are capable of so-called lifelong learning,” says Pavel Sanda at the Czech Academy of Sciences in the Czech Republic. Lifelong learning is how humans accumulate  knowledge to adapt to and solve future challenges.
+
+Bazhenov, Sanda and their colleagues trained a spiking neural network – a connected grid of artificial neurons resembling the human brain’s structure – to learn two different tasks without overwriting connections learned from the first task. They accomplished this by interspersing focused training periods with sleep-like periods.
+
+The researchers simulated sleep in the neural network by activating the network’s artificial neurons in a noisy pattern. They also ensured that the sleep-inspired noise roughly matched the pattern of neuron firing during the training sessions – a way of replaying and strengthening the connections learned from both tasks.
+
+The team first tried training the neural network on the first task, followed by the second task, and then finally adding a sleep period at the end. But they quickly realised that this sequence still erased the neural network connections learned from the first task.
+
+Instead, follow-up experiments showed that it was important to “have rapidly alternating sessions of training and sleep” while the AI was learning the second task, says Erik Delanois at the University of California, San Diego. This helped consolidate the connections from the first task that would have otherwise been forgotten.
+
+Experiments showed how a spiking neural network trained in this way could enable an AI agent to learn two different foraging patterns in searching for simulated food particles while avoiding poisonous particles.
+
+“Such a network will have the ability to combine consecutively learned knowledge in smart ways, and apply this learning to novel situations – just like animals and humans do,” says Hava Siegelmann at the University of Massachusetts Amherst.
+
+Spiking neural networks, with their complex, biologically-inspired design, haven’t yet proven practical for widespread use because it’s difficult to train them, says Siegelmann. The next big steps for showing this method’s usefulness would require demonstrations with more complex tasks on the artificial neural networks commonly used by tech companies.
+
+One advantage for spiking neural networks is that they are more energy-efficient than other neural networks. “I think over the next decade or so there will be kind of a big impetus for a transition to more spiking network technology instead,” says Ryan Golden at the University of California, San Diego. “It’s good to figure those things out early on.”
+
+Journal reference: PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1010628

@@ -1,0 +1,34 @@
+Artificial Superstrong Silkworm Silk Is 70% Stronger Than Spider Silk
+TOPICS:Cell PressMaterials ScienceSilk
+By CELL PRESS OCTOBER 7, 2022
+
+Barn Spider on Web
+Spider silk is strong, but it is hard to farm. New research reveals how silk naturally produced by silkworms can be made 70% stronger than spider silks.
+
+Although spiders hold the market for the strongest silks, they are too aggressive and territorial to be farmed. Incorporating spider DNA into silkworms is the next best alternative, but it is an expensive and difficult-to-scale process. Now, scientists have discovered how the silk naturally produced by silkworms can be made 70% stronger than spider silks by removing a sticky outer layer and manually spinning the silk. The study, by researchers at Tianjin University, was published on October 6 in the journal Matter.
+
+“Our finding reverses the previous perception that silkworm silk cannot compete with spider silks on mechanical performance,” says senior author Zhi Lin, a biochemist at Tianjin University.
+
+Historically, silkworm silk was used in fashion as a source of luxury robes and apparel fitting for royalty. However, today, silk-based materials are more likely to be found in biomedicine as a material for stitches and surgical mesh. It’s also used for tissue regeneration experiments due to its biocompatibility, mechanical properties, and biodegradability.
+
+Stress-Strain Curves of Representative Artificial and Natural Silks
+Stress-strain curves of representative artificial and natural silks. Credit: Jingxia Wang, Tiantian Fan, & Zhi Lin
+
+The most common way to produce silk is by farming silkworms. However, these silks are not as durable or as strong as silk spun by spiders, specifically spider dragline silks which naturally do well under high tension. “Dragline silk is the main structural silk of a spider web. It is also used as a lifeline for a spider to fall from trees,” says Lin. Silkworms, on the other hand, use their softer silks for the construction of their cotton-ball-like cocoons during transformation into their moth forms.
+
+While other scientists have combined DNA from spiders to make silk, Lin’s research group wanted to use common silkworms, which are more accessible and easily managed. They were inspired by the artificial spinning of spider eggcase silk. This is a close relative to silkworm silk and has been shown to do well in the spinning process.
+
+“Our finding reverses the previous perception that silkworm silk cannot compete with spider silks on mechanical performance.” — Zhi Lin
+
+Natural silkworm silk fiber is composed of a core fiber wrapped by silk glue, which interferes with the spinning of the fibers for commercial purposes. To work around this issue, the scientists boiled silk from the common silkworm Bombyx mori in a bath of chemicals that could dissolve this glue while minimizing the degradation of silk proteins. Then, to enhance the silk for spinning, the research team solidified the silk in a bath of metals and sugars.
+
+“Since silkworm silk is very structurally similar to eggcase spider silk, which has previously been demonstrated to do well in a mix of zinc and iron baths, we thought to test this alternative method to avoid hazardous conditions used elsewhere,” says Lin. “Sucrose, a form of sugar, may increase the density and viscosity of the coagulation bath, which consequently affects the formation of the fibers.”
+
+Once manually spun and drawn, the silks are thinner than the original silkworm silk, reaching nearly the same size as spider silks. Upon observation under a microscope, Lin describes them as “smooth and strong,” indicating that the artificial fibers could withstand force.
+
+“We hope that this work opens up a promising way to produce profitable high-performance artificial silks,” Lin says.
+
+Reference: “Artificial superstrong silkworm silk surpasses natural spider silks” by Jingxia Wang, Tiantian Fan, Xi Li, Xiaoxia Hu,Weidong Huang, Wensu Yuan and Zhi Lin, 6 October 2022, Matter.
+DOI: 10.1016/j.matt.2022.08.028
+
+Financial support was provided by a startup grant from Tianjin University and National Natural Science Foundation of China.

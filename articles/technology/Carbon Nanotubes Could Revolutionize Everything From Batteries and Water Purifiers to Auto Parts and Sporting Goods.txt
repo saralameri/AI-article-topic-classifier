@@ -1,0 +1,27 @@
+Carbon Nanotubes Could Revolutionize Everything From Batteries and Water Purifiers to Auto Parts and Sporting Goods
+TOPICS:Carbon NanotubesLawrence Livermore National LaboratoryNanotechnologyPopular
+By LAWRENCE LIVERMORE NATIONAL LABORATORY NOVEMBER 4, 2022
+
+Carbon Nanotubes Growing From Catalytic Nanoparticles
+Vertically aligned carbon nanotubes growing from catalytic nanoparticles (gold color) on a silicon wafer on top of a heating stage (red glow). Diffusion of acetylene (black molecules) through the gas phase to the catalytic sites determines the growth rate in a cold-wall showerhead reactor. Credit: Image by Adam Samuel Connell/LLNL
+
+Scientists at the Department of Energy’s Lawrence Livermore National Laboratory (LLNL)  are scaling up the production of vertically aligned single-walled carbon nanotubes (SWCNT). This incredible material could revolutionize diverse commercial products ranging from rechargeable batteries, sporting goods, and automotive parts to boat hulls and water filters. The research was published recently in the journal Carbon.
+
+Most carbon nanotube (CNT) production today is unorganized CNT architectures that is used in bulk composite materials and thin films. However, for many uses, organized CNT architectures, like vertically aligned forests, provide critical advantages for exploiting the properties of individual CNTs in macroscopic systems.
+
+“Robust synthesis of vertically-aligned carbon nanotubes at large scale is required to accelerate deployment of numerous cutting-edge devices to emerging commercial applications,” said LLNL scientist and lead author Francesco Fornasiero. “To address this need, we demonstrated that the structural characteristics of single-walled CNTs produced at wafer scale in a growth regime dominated by bulk diffusion of the gaseous carbon precursor are remarkably invariant over a broad range of process conditions.”
+
+The team of researchers discovered that the vertically oriented SWCNTs retained very high quality when increasing precursor concentration (the initial carbon) up to 30-fold, the catalyst substrate area from 1 cm2 to 180 cm2, growth pressure from 20 to 790 Mbar and gas flowrates up to 8-fold.
+
+LLNL scientists derived a kinetics model that shows the growth kinetics can be accelerated by using a lighter bath gas to aid precursor diffusion. In addition, byproduct formation, which becomes progressively more important at higher growth pressure, could be greatly mitigated by using a hydrogen-free growth environment. The model also indicates that production throughput could be increased by 6-fold with carbon conversion efficiency of higher than 90% with the appropriate choice of the CNT growth recipe and fluid dynamics conditions.
+
+“These model projections, along with the remarkably conserved structure of the CNT forests over a wide range of synthesis conditions, suggest that a bulk-diffusion-limited growth regime may facilitate preservation of vertically aligned CNT-based device performance during scale up,” said LLNL scientist and first author Sei Jin Park.
+
+The team concluded that operating in a growth regime that is quantitatively described by a simple CNT growth kinetics model can facilitate process optimization and lead to a more rapid deployment of cutting-edge vertically-aligned CNT applications.
+
+Applications include lithium-ion batteries, supercapacitors, water purification, thermal interfaces, breathable fabrics, and sensors.
+
+Reference: “Synthesis of wafer-scale SWCNT forests with remarkably invariant structural properties in a bulk-diffusion-controlled kinetic regime” by Sei Jin Park, Kathleen Moyer-Vanderburgh, Steven F. Buchsbaum, Eric R. Meshot, Melinda L. Jue, Kuang Jen Wu and Francesco Fornasiero, 29 September 2022, Carbon.
+DOI: 10.1016/j.carbon.2022.09.068
+
+Other LLNL authors are Kathleen Moyer-Vanderburgh, Steven Buchsbaum, Eric Meshot, Melinda Jue and Kuang Jen Wu. The work is funded by the Chemical and Biological Technologies Department of the Defense Threat Reduction Agency.

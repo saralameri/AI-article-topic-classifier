@@ -1,0 +1,47 @@
+Simple 3D-Printed Device May Pave the Way for Far More Powerful Cell Phones and WIFI
+TOPICS:3D PrintingHarvard UniversityNanotechnologyTelecommunications
+By HARVARD UNIVERSITY NOVEMBER 3, 2022
+
+Simple Machine Uses Surface Tension of Water
+This simple machine that uses the surface tension of water to grab and manipulate microscopic objects. Credit: Manoharan Lab/Harvard SEAS
+
+A 3D-printed device in a tank of water braids nanowires and moves microparticles.
+
+New antennae to access higher and higher frequency ranges will be needed for the next generation of phones and wireless devices. One way to make antennae that work at tens of gigahertz — the frequencies needed for 5G and higher devices — is to braid filaments about 1 micrometer in diameter. However, today’s industrial fabrication techniques won’t work on fibers that small.
+
+“It was a shout-out-loud-in-joy moment when — on our first try — we crossed two fibers using only a piece of plastic, a water tank, and a stage that moves up and down.” — Maya Faaborg
+
+Now a team of engineers and scientists from the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) has developed a simple machine that uses the surface tension of water to grab and manipulate microscopic objects. This remarkable innovation offers a potentially powerful tool for nanoscopic manufacturing.
+
+The research was published in the journal Nature on October 26.
+
+“Our work offers a potentially inexpensive way to manufacture microstructured and possibly nanostructured materials,” said Vinothan Manoharan, the Wagner Family Professor of Chemical Engineering and Professor of Physics at SEAS and senior author of the paper. “Unlike other micromanipulation methods, like laser tweezers, our machines can be made easily. We use a tank of water and a 3D printer, like the ones found at many public libraries.”
+
+The machine is a 3D-printed plastic rectangle that is about the size of an old Nintendo cartridge. The interior of the device is carved with channels that intersect. Each channel has wide and narrow sections, similar to a river that expands in some parts and narrows in others. The channel walls are hydrophilic, meaning they attract water.
+
+Through a series of simulations and experiments, the scientists discovered that when they submerged the device in water and placed a millimeter-sized plastic float in the channel, the surface tension of the water caused the wall to repel the float. If the float was in a narrow section of the channel, it moved to a wide section, where it could float as far away from the walls as possible.
+
+
+
+Once in a wide section of the channel, the float would be trapped in the center, held in place by the repulsive forces between the walls and float. As the device is lifted out of the water, the repulsive forces change as the shape of the channel changes. If the float was in a wide channel to start, it may find itself in a narrow channel as the water level falls and need to move to the left or right to find a wider spot.
+
+“The eureka moment came when we found we could move the objects by changing the cross-section of our trapping channels,” said Maya Faaborg, an associate at SEAS and co-first author of the paper.
+
+“The amazing thing about surface tension is that it produces forces that are gentle enough to grab tiny objects, even with a machine big enough to fit in your hand.” — Ahmed Sherif
+
+Next, the researchers attached microscopic fibers to the floats. As the water level changed and the floats moved to the left or right within the channels, the fibers twisted around each other.
+
+“It was a shout-out-loud-in-joy moment when — on our first try — we crossed two fibers using only a piece of plastic, a water tank, and a stage that moves up and down,” said Faaborg.
+
+The team then added a third float with a fiber and designed a series of channels to move the floats in a braiding pattern. They successfully braided micrometer-scale fibers of the synthetic material Kevlar. The braid was just like a traditional three-strand hair braid, except that each fiber was 10-times smaller than a single human hair.
+
+Next, the investigators demonstrated that the floats themselves could be microscopic. They constructed machines that could trap and move colloidal particles 10 micrometers in size — even though the machines were a thousand times bigger.
+
+“We weren’t sure it would work, but our calculations showed that it was possible,” said Ahmed Sherif, a PhD student at SEAS and a co-author of the paper. “So we tried it, and it worked. The amazing thing about surface tension is that it produces forces that are gentle enough to grab tiny objects, even with a machine big enough to fit in your hand.”
+
+Next, the team aims to design devices that can simultaneously manipulate many fibers, with the goal of making high-frequency conductors. They also plan to design other machines for micromanufacturing applications, such as building materials for optical devices from microspheres.
+
+Reference: “3D-printed machines that manipulate microscopic objects using capillary forces” by Cheng Zeng, Maya Winters Faaborg, Ahmed Sherif, Martin J. Falk, Rozhin Hajian, Ming Xiao, Kara Hartig, Yohai Bar-Sinai, Michael P. Brenner and Vinothan N. Manoharan, 26 October 2022, Nature.
+DOI: 10.1038/s41586-022-05234-7
+
+The research was co-authored by Cheng Zeng, Ahmed Sherif, Martin J. Falk, Rozhin Hajian, Ming Xiao, Kara Hartig, Yohai Bar-Sinai and Michael Brenner, the Michael F. Cronin Professor of Applied Mathematics and Applied Physics and Professor of Physics at SEAS. It was supported in part by the Defense Advanced Research Projects Agency (DARPA), under grant FA8650-15-C-7543; the National Science Foundation through the Harvard University Materials Research Science and Engineering Center, under grant DMR-2011754 and ECCS-1541959; and the Office of Naval Research under grant N00014-17-1-3029.

@@ -1,0 +1,30 @@
+99.7% in Only One Hour – New Nanocoating Kills More Bacteria Faster
+TOPICS:BacteriaMaterials ScienceNanotechnologyPopularUniversity Of British Columbia
+By UNIVERSITY OF BRITISH COLUMBIA SEPTEMBER 23, 2022
+
+Cholera Bacteria Illustration
+The coating only needed one hour to kill 99.7% of a common pathogen called Staphylococcus aureus.
+
+A new copper coating could be the next superbug fighter.
+A new copper covering that kills bacteria faster and in greater amounts than existing formulations might be available for hospitals and other high-traffic locations in the near future.
+
+Although current formulations comprised of pure copper are antibacterial and self-sanitizing, they kill certain forms of bacteria with a thicker cell wall (Gram-positive bacteria), more slowly than bacteria with a thinner cell wall (Gram-negative).
+
+Using zinc and bacteria-killing nanoscale features, a team of the University of British Columbia researchers under the direction of Dr. Amanda Clifford, an assistant professor in the department of materials engineering, has created a nano-copper coating. Small bumps known as nanoscale features have the power to kill bacteria by rupturing their cell walls. In contrast to pure copper alone, zinc, which is similarly antibacterial, selectively oxidizes in the presence of copper and aids in the faster killing of bacteria.
+
+“Use of our coating could significantly reduce the incidence of contracting bacterial infections from high-touch surfaces in healthcare facilities, such as doorknobs and elevator buttons since it kills bacteria using multiple approaches,” says Dr. Clifford. “As it contains less copper than other existing coatings or whole copper parts, it would also be cheaper to make.”
+
+The team found that the material took just one hour to kill 99.7 percent of Staphylococcus aureus—a Gram-positive pathogen commonly responsible for hospital-acquired infections— compared with two hours for pure copper.
+
+“Not only does this coating kill pathogens faster than pure copper, it helps ensure antibiotics remain effective,” said Dr. Clifford. “By using this new formulation, we’re killing pathogens before patients become infected and need to use antibiotics against them, slowing the rise of antibiotic resistance.”
+
+The researchers have filed a provisional patent for the coating and fabrication process, which is described in a new paper in Advanced Materials Interfaces.
+
+“This is currently targeted for hospitals and health care settings because these locations are where the antibiotic-resistant pathogens, such as methicillin-resistant Staphylococcus aureus (MRSA), are an issue. We also don’t want to be at a place where we can’t use antibiotics,” says Dr. Clifford.
+
+The team plans to further evaluate the material against other pathogens, such as viruses, with hopes of eventually commercializing their work.
+
+Reference: “An Engineered Nanocomposite Copper Coating with Enhanced Antibacterial Efficacy” by Davood Nakhaie, Teresa C. Williams, Billie Velapatino, Elizabeth A. Bryce, Marthe K. Charles, Edouard Asselin and Amanda M. Clifford, 21 July 2022, Advanced Materials Interfaces.
+DOI: 10.1002/admi.202201009
+
+The work is funded in partnership with Teck Resources Limited, which has installed copper surfaces on high-contact surfaces in the faculty of applied science buildings at UBC through its Copper & Health program.

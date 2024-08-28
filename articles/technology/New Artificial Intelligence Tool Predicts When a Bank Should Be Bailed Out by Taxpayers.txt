@@ -1,0 +1,34 @@
+New Artificial Intelligence Tool Predicts When a Bank Should Be Bailed Out by Taxpayers
+TOPICS:Artificial IntelligenceEconomicsUniversity College London
+By UNIVERSITY COLLEGE LONDON NOVEMBER 17, 2022
+
+AI Computer World Artificial Intelligence
+
+An artificial intelligence tool could help governments decide whether or not to bail out a bank in crisis by predicting if the intervention will save money for taxpayers in the long term.
+
+The AI tool, developed by researchers at University College London (UCL) and Queen Mary University of London, assesses not only if a bailout is the best strategy for taxpayers, but also suggests how much should be invested in the bank, and which bank or banks should be bailed out at any given time. It is detailed in a new paper to be published today (November 17) in the journal Nature Communications.
+
+Using data from the European Banking Authority, the algorithm was tested by the authors on a network of 35 European financial institutions judged to be the most important to the global financial system. However, it can also be used and calibrated by national banks using detailed proprietary data unavailable to the public.
+
+Dr. Neofytos Rodosthenous (UCL Mathematics), corresponding author of the paper, said: “Government bank bailouts are complex decisions that have financial, social, and political implications. We believe the AI approach we have developed can be an important tool for governments, helping officials assess specifically financial implications – this means checking if a bailout is in the best interest of taxpayers, or whether it would be better value for money to let the bank fail. Our techniques are freely available for banking authorities to use as tools in their decision-making process.”
+
+Co-author Professor Vito Latora (Queen Mary University of London) added: “Governments and banking authorities can also use our approach to retrospectively review past crises and gain valuable learnings to inform future actions. One could, for example, review the UK government bailout of the Royal Bank of Scotland (RBS) during the financial crisis of 2007-9 and reflect on how this could potentially be improved (from a financial standpoint) in the future in order to primarily benefit taxpayers.”
+
+In a bank bailout, government investment in a bank increases the bank’s equity and reduces its risk of defaulting. This cost in the short term may be justified to the taxpayer if it leads to lower taxpayer losses in the long term – i.e., it prevents bank defaults that are more damaging to government finances.
+
+In their study, the researchers created a mathematical framework for comparing different bailout strategies in terms of predicted losses to taxpayers. Considered factors include how long the financial crisis is expected to last, the likelihood of each bank defaulting and the effect of a default on other banks in the network, as well as taxpayers’ stakes in the banks.
+
+Using a mathematical control process, called Markov Decision Process, the researchers incorporated into this framework the effect of a government intervention at any given point in time.
+
+They then developed a bespoke AI algorithm to assess optimal bailout strategies, comparing no intervention to different types of intervention – that is, varying levels of investment in one bank or many banks – at different time points during a crisis. An AI technique is needed as modeling such a system is highly complex, as the future behavior of all banks in the system can be infinite.
+
+In their case study using data from the European Banking Authority, they showed that government bailout would be optimal only if the taxpayers’ stakes in the banks were greater than some critical threshold value, determined via the model. The optimal policy drastically changed once the percentage loss had gone above this threshold.
+
+Moreover, it was shown that government bailout tended to be more favorable the greater the network’s distress (defined in terms of a percentage reduction in the banks’ equity), the longer the crisis lasted and the bigger the banks’ exposures to other banks were (that is, how much they had lent other banks and therefore stood to lose if these banks failed).
+
+According to the investigators, the research showed that once a bank had received a bailout, the best strategy for taxpayers was if the government continued to invest in that bank to prevent default. This could lead to a lack of incentive for the rescued bank to guard against risk, potentially increasing risk-taking.
+
+Lead author Dr. Daniele Petrone said: “Banks have so far weathered the current economic storm triggered by the Covid-19 pandemic. Their resilience has been bolstered by regulatory measures introduced following the global financial crisis of 2007-9 and by accommodating central banks’ monetary policies that have avoided bankruptcies across industries. However, no one can predict the effect on the financial system as central banks reverse previous policies, such as increasing interest rates due to inflation concerns, and so bailouts are still a possibility.”
+
+Reference: “An AI approach for managing financial systemic risk via bank bailouts by taxpayers” 17 November 2022, Nature Communications.
+DOI: 10.1038/s41467-022-34102-1

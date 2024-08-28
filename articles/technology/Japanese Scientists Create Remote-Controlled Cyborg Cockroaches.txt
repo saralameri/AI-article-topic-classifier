@@ -1,0 +1,27 @@
+Japanese Scientists Create Remote-Controlled Cyborg Cockroaches
+TOPICS:CyborgInsectPopularRIKENRobotics
+By RIKEN SEPTEMBER 5, 2022
+
+Robobug
+Researchers at RIKEN in Japan have created remote-controlled cyborg cockroaches, equipped with a tiny wireless control module that is powered by a rechargeable battery attached to a solar cell. Credit: RIKEN
+
+Researchers have engineered a system for creating remote-controlled cyborg cockroaches, equipped with a tiny wireless control module that is powered by a rechargeable battery attached to a solar cell. Despite the mechanical devices, ultrathin electronics and flexible materials allow the insects to move freely. These achievements will help make the use of cyborg insects a practical reality. An international team led by researchers at the RIKEN Cluster for Pioneering Research (CPR) reported the results today (September 5, 2022) in the scientific journal npj Flexible Electronics.
+
+Scientists have been trying to design cyborg insects—part insect, part machine—to help inspect hazardous areas and monitor the environment. For the use of cyborg insects to be practical, however, handlers must be able to control them remotely for long stretches of time. This entails wireless control of their leg segments, powered by a tiny rechargeable battery.
+
+Keeping the battery adequately charged is critical—nobody wants a suddenly out-of-control swarm of cyborg cockroaches roaming around. While docking stations for recharging the battery could be built, the need to return and recharge could disrupt time-sensitive missions. Therefore, an optimum approach is to include an onboard solar cell that can continuously ensure that the battery stays charged.
+
+Of course, all of this is easier said than done. To successfully integrate these devices into a cockroach that has limited surface area required the engineering team to develop a special backpack and ultrathin organic solar cell modules. They also needed an adhesion system that keeps the machinery attached for long periods of time while still allowing natural movements.
+
+Led by Kenjiro Fukuda, RIKEN CPR, the research team experimented with Madagascar cockroaches, which are approximately 6 cm (2.4 inches) long. They attached the wireless leg-control module and lithium polymer battery to the top of the insect on the thorax using a specially designed backpack. This was modeled after the body of a model cockroach and 3D printed with an elastic polymer. The result was a backpack that conformed perfectly to the curved surface of the cockroach, allowing the rigid electronic device to be stably mounted on the thorax for more than a month.
+
+The ultrathin 0.004 mm thick organic solar cell module was mounted on the back side of the abdomen. “The body-mounted ultrathin organic solar cell module achieves a power output of 17.2 mW, which is more than 50 times larger than the power output of current state-of-the-art energy harvesting devices on living insects,” according to Fukuda.
+
+The ultrathin and flexible organic solar cell, and how it was attached to the insect, proved necessary to ensure freedom of movement. After carefully examining natural cockroach movements, the scientists realized that the abdomen changes shape and portions of the exoskeleton overlap. To accommodate this, they interleaved adhesive and non-adhesive sections onto the films, which allowed them to bend but also stay attached. When thicker solar cell films were tested, or when the films were uniformly attached, the cockroaches took twice as long to run the same distance. They also had difficulty righting themselves when on their backs.
+
+Once these components were integrated into the cockroaches, along with wires that stimulate the leg segments, the new cyborgs were tested. The battery was charged with pseudo-sunlight for 30 minutes, and animals were made to turn left and right using the wireless remote control.
+
+“Considering the deformation of the thorax and abdomen during basic locomotion, a hybrid electronic system of rigid and flexible elements in the thorax and ultrasoft devices in the abdomen appears to be an effective design for cyborg cockroaches,” says Fukuda. “Moreover, since abdominal deformation is not unique to cockroaches, our strategy can be adapted to other insects like beetles, or perhaps even flying insects like cicadas in the future.”
+
+Reference: “Integration of body-mounted ultrasoft organic solar cell on cyborg insects with intact mobility” by Yujiro Kakei, Shumpei Katayama, Shinyoung Lee, Masahito Takakuwa, Kazuya Furusawa, Shinjiro Umezu, Hirotaka Sato, Kenjiro Fukuda and Takao Someya, 5 September 2022, npj Flexible Electronics.
+DOI: 10.1038/s41528-022-00207-2

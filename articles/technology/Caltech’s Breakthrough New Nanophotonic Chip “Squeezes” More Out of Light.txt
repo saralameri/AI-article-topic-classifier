@@ -1,0 +1,32 @@
+Caltech’s Breakthrough New Nanophotonic Chip “Squeezes” More Out of Light
+TOPICS:California Institute Of TechnologyNanophotonicsPhotonics
+By EMILY VELASCO, CALIFORNIA INSTITUTE OF TECHNOLOGY OCTOBER 4, 2022
+
+New Photonic Chip "Squeezes" More out of Light
+Caltech has developed a new photonic chip that can generate and measure quantum states of light in ways previously only possible with bulky and expensive laboratory equipment. Credit: Natasha Mutch and Nicolle R. Fuller, Sayo Studio
+
+Electronic computing and communications have advanced significantly since the days of radio telegraphy and vacuum tubes. In fact, consumer devices now contain levels of processing power and memory that would be unimaginable just a few decades ago.
+
+But as computing and information processing microdevices get ever smaller and more powerful, they are running into some fundamental limits imposed by the laws of quantum physics. Because of this, the future of the field may lie in photonics—the light-based parallel to electronics. Photonics is theoretically similar to electronics but substitutes photons for electrons. They have a huge potential advantage in that photonic devices may be capable of processing data much faster than their electronic counterparts, including for quantum computers.
+
+Alireza Marandi
+Alireza Marandi. Credit: Caltech
+
+Currently, the field is still very active in fundamental research and lacks crucial devices that are needed to become practical. However, a new photonic chip developed at Caltech may represent a critical breakthrough for the field, especially for enabling photonic quantum information processors. It can generate and measure quantum states of light in ways that were previously only possible with bulky and expensive laboratory equipment.
+
+Lithium niobite, a salt whose crystals have many applications in optics, serves as the foundation of the chip. One side of the chip generates what are known as squeezed states of light and they are measured on the other side. A squeezed state of light is, to put it very simply, light when it has been made less “noisy” on the quantum level. Squeezed states of light have recently been used to increase the sensitivity of LIGO, the observatory that uses laser beams to detect gravitational waves. If you are going to process data with light-based quantum devices, that same less-noisy state of light is important.
+
+“The quality of the quantum states we have achieved surpasses the requirements for quantum information processing, which used to be the territory of bulky experimental setups,” says Alireza Marandi. He is an assistant professor of electrical engineering and applied physics at Caltech. “Our work marks an important step in generating and measuring quantum states of light in an integrated photonic circuit.”
+
+According to Marandi, this technology shows a path forward toward the eventual development of quantum optical processors that run at terahertz clock rates. For comparison, that is thousands of times faster than the microelectronic processor in a MacBook Pro.
+
+It is possible that this technology could find practical uses in communications, sensing, and quantum computing in the next five years, says Marandi.
+
+“Optics has been among the promising routes for realization of quantum computers because of several inherent advantages in scalability and ultrafast logical operations at room temperature,” says Rajveer Nehra, a postdoctoral scholar and one of the lead authors of the paper. “However, one of the main challenges for scalability has been generating and measuring quantum states with sufficient qualities in nanophotonics. Our work addresses that challenge.”
+
+Reference: “Few-cycle vacuum squeezing in nanophotonics” by Rajveer Nehra, Ryoto Sekine, Luis Ledezma, Qiushi Guo, Robert M. Gray, Arkadev Roy and Alireza Marandi, 15 September 2022, Science.
+DOI: 10.1126/science.abo6213
+
+The paper describing the research appears in the September 15 issue of the journal Science. Co-authors include Nehra and Qiushi Guo, both postdoctoral scholar research associates in electrical engineering; and electrical engineering graduate students Ryoto Sekine (MS ’22), Luis Ledezma, Robert M. Gray, and Arkadev Roy.
+
+Funding for the research was provided by NTT Research, the Army Research Office, the National Science Foundation, the Air Force Office of Scientific Research, and NASA.

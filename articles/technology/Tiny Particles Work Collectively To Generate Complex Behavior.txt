@@ -1,0 +1,59 @@
+Tiny Particles Work Collectively To Generate Complex Behavior
+TOPICS:Chemical EngineeringMITRobotics
+By MASSACHUSETTS INSTITUTE OF TECHNOLOGY OCTOBER 13, 2022
+
+Eletric Sparks Particles
+MIT engineers have designed simple microparticles that can collectively generate complex behavior, such as generating an oscillating electrical current that could be used to power tiny robotic devices. This is an abstract artist’s concept, not an actual video of the microparticles.
+
+Simple microparticles can beat rhythmically together, generating an oscillating electrical current that could be used to power micro-robotic devices.
+
+MIT engineers are taking advantage of a phenomenon known as emergent behavior on the microscale. They have designed simple microparticles that can collectively generate complex behavior, much the same way that a colony of ants can work together to dig tunnels or collect food.
+
+Working together, the microparticles can generate a beating clock that oscillates at a very low frequency. The researchers demonstrated how these oscillations can be harnessed to power tiny robotic devices.
+
+“In addition to being interesting from a physics point of view, this behavior can also be translated into an on-board oscillatory electrical signal, which can be very powerful in microrobotic autonomy. There are a lot of electrical components that require such an oscillatory input,” says Jingfan Yang. He is one of the lead authors of the new study and a recent MIT PhD recipient.
+
+Specialized Particles Can Oscillate Together
+MIT chemical engineers have shown that specialized particles can oscillate together, demonstrating a phenomenon known as emergent behavior. Credit: Courtesy of the researchers
+
+A simple chemical reaction is performed by the particles used to create the new oscillator, which allows the particles to interact with each other through the formation and bursting of tiny gas bubbles. Under the right conditions, these interactions form an oscillator that behaves similar to a ticking clock, beating at intervals of a few seconds.
+
+“We’re trying to look for very simple rules or features that you can encode into relatively simple microrobotic machines, to get them to collectively do very sophisticated tasks,” says Michael Strano. He is the senior author of the paper and the Carbon P. Dubbs Professor of Chemical Engineering at MIT.
+
+Along with Yang, Thomas Berrueta, a Northwestern University graduate student advised by Professor Todd Murphey, is a lead author of the study, which will be published today (October 13, 2022) in the journal Nature Communications.
+
+Collective behavior
+Demonstrations of emergent behavior can be seen throughout the natural world, where colonies of insects such as ants and bees accomplish feats that a single member of the group would never be able to achieve.
+
+“Ants have minuscule brains and they do very simple cognitive tasks, but collectively they can do amazing things. They can forage for food and build these elaborate tunnel structures,” Strano says. “Physicists and engineers like myself want to understand these rules because it means we can make tiny things that collectively do complex tasks.”
+
+In this study, the researchers wanted to design particles that could generate rhythmic movements, or oscillations, with a very low frequency. Until now, building low-frequency micro-oscillators has required sophisticated electronics that are expensive and difficult to design, or specialized materials with complex chemistries.
+
+The simple particles that the researchers designed for this study are discs as small as 100 microns in diameter. The discs, made from a polymer called SU-8, have a platinum patch that can catalyze the breakdown of hydrogen peroxide into water and oxygen.
+
+
+MIT chemical engineers showed that specialized particles can oscillate together, demonstrating a phenomenon known as emergent behavior. At left, two particles oscillate together, and at right, eight particles. Video courtesy of the researchers.
+
+When the particles are placed at the surface of a droplet of hydrogen peroxide on a flat surface, they tend to travel to the top of the droplet. At this liquid-air interface, they interact with any other particles found there. Each particle produces its own tiny bubble of oxygen, and when two particles come close enough that their bubbles interact, the bubbles pop, propelling the particles away from each other. Then, they begin forming new bubbles, and the cycle repeats over and over.
+
+“One particle by itself stays still and doesn’t do anything interesting, but through teamwork, they can do something pretty amazing and useful, which is actually a difficult thing to achieve at the microscale,” Yang says.
+
+The researchers found that two particles could make a very reliable oscillator, but as more particles were added, the rhythm would get thrown off. However, if they added one particle that was slightly different from the others, that particle could act as a “leader” that reorganized the other particles back into a rhythmic oscillator.
+
+This leader particle is the same size as the other particles but has a slightly larger platinum patch, which enables it to create a larger oxygen bubble. This allows this particle to move to the center of the group, where it coordinates the oscillations of all of the other particles. Using this approach, the researchers found they could create oscillators containing up to at least 11 particles.
+
+Depending on the number of particles, this oscillator beats at a frequency of about 0.1 to 0.3 hertz, which is on the order of the low-frequency oscillators that govern biological functions such as walking and the beating of the heart.
+
+Oscillating current
+The engineers also demonstrated that they could use the rhythmic beating of these particles to generate an oscillating electric current. To do that, they swapped out the platinum catalyst for a fuel cell made of platinum and ruthenium or gold. The mechanical oscillation of the particles rhythmically alters the resistance from one end of the fuel cell to the other, which converts the voltage generated by the fuel cell to an oscillating current.
+
+Generating an oscillating current instead of a constant one could be useful for applications such as powering tiny robots that can walk. The MIT scientists used this approach to show that they could power a microactuator, which was previously used as legs on a tiny walking robot developed by researchers at Cornell University. The original version was powered by a laser that had to be alternately pointed at each set of legs, to manually oscillate the current. The MIT team showed that the on-board oscillating current generated by their particles could drive the cyclic actuation of the microrobotic leg, using a wire to transfer the current from the particles to the actuator.
+
+“It shows that this mechanical oscillation can become an electrical oscillation, and then that electrical oscillation can actually power activities that a robot would do,” Strano says.
+
+One possible application for this kind of system would be to control swarms of tiny autonomous robots that could be used as sensors to monitor water pollution.
+
+Reference: “Emergent microrobotic oscillators via asymmetry-induced order” by Jing Fan Yang, Thomas A. Berrueta, Allan M. Brooks, Albert Tianxiang Liu, Ge Zhang, David Gonzalez-Medrano, Sungyun Yang, Volodymyr B. Koman, Pavel Chvykov, Lexy N. LeMar, Marc Z. Miskin, Todd D. Murphey & Michael S. Strano, 13 October 2022, Nature Communications.
+DOI: 10.1038/s41467-022-33396-5
+
+The research was funded in part by the U.S. Army Research Office, the U.S. Department of Energy, and the National Science Foundation.

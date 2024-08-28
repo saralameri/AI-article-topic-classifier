@@ -1,0 +1,41 @@
+Caltech’s New Ultrafast Camera Captures Signals Traveling Through Nerve Cells
+TOPICS:California Institute Of TechnologyCameraNerve Cells
+OCTOBER 9, 2022
+
+High-Speed Camera Captures Signals Traveling Through Nerve Cells
+Caltech scientists have developed a new ultrafast camera that can record footage of signal impulses as they travel through nerve cells. Credit: Caltech
+
+Reach out right now and touch anything around you. Whether it was the wood of your desk, a key on your keyboard, or the fur of your dog, you felt it the instant your finger contacted it.
+
+Or did you?
+
+In actuality, takes a bit of time for your brain to register the sensation from your fingertip. However, it does still happen extremely fast, with the touch signal traveling through your nerves at over 100 miles per hour. In fact, some nerve signals are even faster, approaching speeds of 300 miles per hour.
+
+Scientists at Caltech have just developed a new ultrafast camera that can record footage of these impulses as they travel through nerve cells. Not only that, but the camera can also capture video of other incredibly fast phenomena, such as the propagation of electromagnetic pulses in electronics.
+
+Known as differentially enhanced compressed ultrafast photography (Diff-CUP), the camera technology was developed in the lab of Lihong Wang. He is the Bren Professor of Medical Engineering and Electrical Engineering, Andrew and Peggy Cherng Medical Engineering Leadership Chair, and executive officer for medical engineering.
+
+Lihong Wang
+Lihong Wang. Credit: Caltech
+
+Diff-CUP operates in a similar manner to Wang’s other CUP systems, which have been shown capable of capturing images of laser pulses as they travel at the speed of light and recording video at 70 trillion frames per second.
+
+Starting with the same high-speed camera technology found in the other CUP systems, Diff-CUP combines it with a device called a Mach–Zehnder interferometer. The interferometer images objects and materials by first splitting a beam of laser light in two, passing only one of the split beams through an object, and then recombining the beams. Since light waves are affected by the objects they pass through, with different materials affecting them in varying ways, the beam passing through the material being imaged will have its waves set out of sync with the waves of the other beam. When the beams are recombined, the out-of-sync waves interfere with each other (hence “interferometer”) in patterns that reveal information about the object being imaged.
+
+Electrical Pulses Through Neurons
+Electrical pulses can be seen traveling at different speeds through different neurons. Credit: Caltech
+
+Even though you cannot see an electrical pulse traveling through a nerve cell with your own eyes, or even a conventional light microscope, this type of interferometry can detect it. (Incidentally, this same basic technique is used by LIGO to detect gravitational waves.) So, the Mach–Zehnder interferometer allows the imaging of these pulses, and the CUP camera captures the images at incredibly high frame rates.
+
+“Seeing nerve signals is fundamental to our scientific understanding but has not yet been achieved owing to the lack of speed and sensitivity provided by existing imaging methods,” Wang says.
+
+Wang’s research team also captured photos of the propagation of electromagnetic pulses (EMP). In some materials, these can travel at nearly the speed of light. In this case, they passed the electromagnetic pulses through a crystal of lithium niobate, a salt that has unique optical and electrical properties. Despite the extremely high speed at which an EMP passes through this material, the camera was able to clearly image it.
+
+“Imaging propagating signals in peripheral nerves is the first step,” Wang says. “It’d be important to image live traffic in a central nervous system, which would shed light on how the brain works.”
+
+Reference: “Ultrafast and hypersensitive phase imaging of propagating internodal current flows in myelinated axons and electromagnetic pulses in dielectrics” by Yide Zhang, Binglin Shen, Tong Wu, Jerry Zhao, Joseph C. Jing, Peng Wang, Kanomi Sasaki-Capela, William G. Dunphy, David Garrett, Konstantin Maslov, Weiwei Wang and Lihong V. Wang, 6 September 2022, Nature Communications.
+DOI: 10.1038/s41467-022-33002-8
+
+The paper describing their findings appeared in the journal Nature Communications on September 6. Co-authors are Yide Zhang, postdoctoral scholar research associate in medical engineering; Binglin Shen, visitor from Shenzhen University; Tong Wu, visitor from Nanjing University of Aeronautics and Astronautics; Jerry Zhao, former graduate student of the USC–Caltech MD-PhD program; Joseph C. Jing, formerly of Caltech and currently at Cepton; Peng Wang, senior postdoctoral scholar research associate in medical engineering; Kanomi Sasaki-Capela, former research technician at Caltech; William G. Dunphy, Grace C. Steele Professor of Biology; David Garrett, graduate student in medical engineering; Konstantin Maslov, former staff scientist at Caltech; and Weiwei Wang of University of Texas Southwestern Medical Center.
+
+Funding for the research was provided by the National Institutes of Health.

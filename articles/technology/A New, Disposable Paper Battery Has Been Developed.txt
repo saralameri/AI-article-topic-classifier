@@ -1,0 +1,28 @@
+A New, Disposable Paper Battery Has Been Developed
+TOPICS:Battery TechnologyGreen TechnologySustainability
+By SCIENTIFIC REPORTS SEPTEMBER 22, 2022
+
+Advanced Battery Technology Breakthrough
+The researchers believe that their invention could reduce the negative environmental impact of disposable, low-power electronics.
+
+The battery is water-activated and could be applied to a broad range of single-use electronic devices.
+A proof-of-concept study published in the journal Scientific Reports outlines a water-activated disposable paper battery. According to the scientists, it could be used to power a broad variety of low-power, single-use disposable electronics, such as smart labels for tracking items, environmental sensors, and medical diagnostic devices, thereby minimizing their environmental impact.
+
+The battery was developed by Gustav Nyström and colleagues, and it consists of at least one cell that is one centimeter squared and is made up of three inks that have been printed on a rectangular piece of paper. The paper strip is covered with sodium chloride salt, and one of its shorter ends has been dipped in wax. 
+
+One of the flat sides of the paper is printed with ink containing graphite flakes, which serves as the positive end of the battery (cathode). The other side is printed with ink containing zinc powder, which serves as the negative end of the battery (anode).
+
+In addition, on top of the other two inks, an ink containing graphite flakes and carbon black is printed on both sides of the paper. This ink links the battery’s positive and negative ends to two wires positioned at the wax-dipped end of the paper.
+
+The salts in the paper dissolve when a small quantity of water is added, releasing charged ions. These ions spread across the paper to activate the battery, which causes the zinc in the ink at the negative end of the battery to release electrons.
+
+Attaching the wires to an electrical device closes the circuit so that electrons can be transferred from the negative end – via the graphite and carbon black-containing ink, wires, and device – to the positive end (the graphite-containing ink) where they are transferred to oxygen in the surrounding air. These reactions generate an electrical current that can be used to power the device.
+
+To demonstrate the ability of their battery to run low-power electronics, the authors combined two cells into one battery and used it to power an alarm clock with a liquid crystal display. Analysis of the performance of a one-cell battery revealed that after two drops of water were added, the battery activated within 20 seconds and, when not connected to an energy-consuming device, reached a stable voltage of 1.2 volts.
+
+The voltage of a standard AA alkaline battery is 1.5 volts. After one hour, the one-cell battery’s performance decreased significantly due to the paper drying. However, after two more drops of water were added, it maintained a stable operating voltage of 0.5 volts for more than one additional hour.
+
+The authors propose that the biodegradability of paper and zinc could enable their battery to minimize the environmental impact of disposable, low-power electronics. They suggest that the sustainability of the battery can be further increased by minimizing the amount of zinc used within the ink, which also allows the amount of electricity the battery generates to be precisely controlled.
+
+Reference: “Water activated disposable paper battery” by Alexandre Poulin, Xavier Aeby, and Gustav Nyström, 28 July 2022, Scientific Reports.
+DOI: 10.1038/s41598-022-15900-5

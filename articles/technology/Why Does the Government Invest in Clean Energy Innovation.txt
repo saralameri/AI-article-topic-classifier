@@ -1,0 +1,55 @@
+Why Does the Government Invest in Clean Energy Innovation?
+TOPICS:Chinese Academy Of SciencesClimate ChangeEnergyGreen TechnologyHarvard UniversityUC BerkeleyUniversity Of Cambridge
+By UNIVERSITY OF CALIFORNIA - BERKELEY OCTOBER 15, 2022
+
+Atomic Energy Concept
+The study also found that current levels of funding are insufficient to help meet climate goals.
+
+The study indicates that the primary drivers behind governmental investment in energy innovation are international collaboration and technological competition with China.
+
+Some European nations have started to reduce their use of oil and natural gas as the ongoing Russian invasion of Ukraine continues to put pressure on the world’s energy supplies. However, some nations have sought to increase domestic fossil fuel production in order to reduce costs and alleviate their current fuel shortage.
+
+That strategy is incompatible with the emissions reductions required to achieve the Paris Agreement’s 2-degree climate goal. In order to meet climate targets, we must fundamentally transform how we supply and use energy, which is a challenge that can only be solved through energy innovation.
+
+A new study headed by experts at the University of California, Berkeley, and the University of Cambridge provides insight into the trajectory of energy research, development, and demonstration (RD&D), which might help policymakers recalibrate their strategy to drive innovation. The results, published recently in the journal Nature Energy, demonstrate that participation in Mission Innovation, a new type of international collaboration, and rising technical competition from China are the most powerful drivers of funding for clean energy research and development.
+
+“By contrast, we do not find that stimulus spending after the financial crisis was associated with a boost in clean energy funding,” said Jonas Meckling, a UC Berkeley professor in the Department of Environmental Science, Policy, and Management and first author of the study.
+
+Monitoring growth and change
+Tracking the evolution and variation in “new clean” technologies — a category that includes renewables like solar and wind, hydrogen fuel cells, and improvements in energy efficiency and storage — is central to understanding if energy innovation funding is on track to help achieve emissions reductions needed to achieve the Paris climate goals.
+
+Estimates from the International Energy Agency (IEA) indicate that 35% of global emissions reductions rely on prototype technology or innovations that haven’t been fully deployed. Reaching net zero within the global economy will require long-term financial commitments by governments to develop substitutes for fossil fuels.
+
+To conduct their analysis, Meckling and co-authors from the University of Cambridge, Harvard University and the Chinese Academy of Sciences created two datasets: one tracked RD&D funding from China, India, and IEA member countries; the other inventoried 57 public energy innovation institutions relating to decarbonization across eight major economies. They found that energy funding among seven of the eight major economies grew from $10.9 billion to $20.1 billion between 2001 and 2018, an 84-percent increase. “But even though new clean energy funding has grown significantly, it has diverted RD&D funding from nuclear technologies and not from fossil fuel,” said Meckling.
+
+Within that time period, the analysis found, funding for nuclear energy RD&D fell from 42 percent of all money spent to 24 percent. Fossil fuels remain deeply ingrained in public energy RD&D, particularly in China, which increased its spending on fossil fuel RD&D from $90 million in 2001 to $1.673 billion in 2018. That level of investment in clean energy innovation remains insufficient to achieve a meaningful level of global emissions reduction, according to University of Cambridge professor of climate change policy Laura Diaz Anadon.
+
+“Annual funding for public energy RD&D would have needed to have at least doubled between 2010 and 2020 to enable future energy emissions cuts approximately consistent with the 2-degree Celsius goal,” she said.
+
+But even with the growing public investment in clean energy technologies, the authors found that the public institutions tasked with funding, coordinating, and performing RD&D are not transforming at a pace fast enough to facilitate rapid decarbonization. They are also not focusing enough on commercializing clean energy technologies.
+
+“While we have seen the creation of a lot of new energy innovation agencies since 2000, they experimented only marginally with designs that bridge lab to market and manage only a fraction of total energy RD&D funding,” said co-author Esther Shears, a Ph.D. candidate in UC Berkeley’s Energy and Resources Group.
+
+The authors also found that over the last decade, major economies — in particular the U.S., Germany, and Japan — increased their clean energy RD&D funding most, while emerging economies have been losing momentum, though China remains the second-largest contributor. The trend could widen the energy innovation gap between major economies and the rest of the world.
+
+Explaining shifts in RD&D
+The researchers were initially uncertain about what drives the expansion of public energy RD&D funding and the transformation of institutions. Past analysis has focused on energy prices.
+
+“Oil prices can be a driver for governments to spend more on energy innovation because you want to look at alternative technologies if it’s costly to use oil,” said Clara Galeazzi, co-author and postdoctoral fellow at Harvard University, who pointed to alternative energy investments following global price shocks of the 1970s and 2000s. “But clean energy RD&D continued to grow even after oil prices declined, which required us to think about other drivers.”
+
+In tracking the last two decades of energy funding among major economies, the authors holistically evaluated how the “3 Cs”—financial crisis, international cooperation through Mission Innovation, and technology competition from China — transformed public energy funding and institutions.
+
+“We show that Mission Innovation is associated with major economies scaling their clean energy RD&D funding,” said Shears. “Technological competition with China also matters, as it creates an incentive to invest in future growth sectors where China has taken a lead — including various clean energy technologies.”
+
+Stimulus spending after economic crises like the Great Recession (2007-09) did little to boost clean energy efforts. Instead, the authors found that economic recovery funds typically boosted RD&D funding for fossil fuels and nuclear technology. Stimulus spending during the recession during the global COVID-19 pandemic also reflects this pattern.
+
+Though international cooperation and competition have been effective at driving changes to clean energy RD&D in the past, the authors caution against taking the successful interplay of RD&D cooperation and technology competition for granted going forward.
+
+“We live in times of heightened geopolitical tensions — China recently announced plans to stop climate cooperation with the US,” said Meckling, adding that maintaining the balance of RD&D cooperation and technology competition requires supportive policies. “Government officials need to focus on embedding energy innovation in effective industrial policy strategies to be able to turn innovation into competitive advantages.”
+
+“They also need to strengthen global trade cooperation to facilitate fair and open competition in clean energy technology markets that continue to incentivize governments to invest in clean energy RD&D,” Meckling said.
+
+Reference: “Energy innovation funding and institutions in major economies” by Jonas Meckling, Clara Galeazzi, Esther Shears, Tong Xu and Laura Diaz Anadon, 12 September 2022, Nature Energy.
+DOI: 10.1038/s41560-022-01117-3
+
+The study was funded by the U.S. Department of Agriculture.

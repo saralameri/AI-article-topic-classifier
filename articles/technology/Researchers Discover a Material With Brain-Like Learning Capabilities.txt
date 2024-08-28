@@ -1,0 +1,26 @@
+Researchers Discover a Material With Brain-Like Learning Capabilities
+TOPICS:ElectronicsEPFLMaterials SciencePopular
+By ECOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE SEPTEMBER 5, 2022
+
+Vanadium Dioxide
+Vanadium Dioxide (VO2), a compound capable of “remembering” the entire history of previous external stimuli. Credit: POWERlab / 2022 EPFL
+
+Vanadium Dioxide has the ability to “remember” the entire history of past environmental stimuli.
+During his research on phase transitions in Vanadium Dioxide (VO2), Mohammad Samizadeh Nikoo, a Ph.D. student at Ecole Polytechnique Fédérale de Lausanne’s (EPFL) Power and Wide-band-gap Electronics Research Laboratory (POWERlab), made an unexpected finding. When relaxed at room temperature, VO2 has an insulating phase and experiences a sharp insulator-to-metal transition at 68 °C (154 °F), where its lattice structure changes.
+
+According to Samizadeh Nikoo, VO2 has a volatile memory: “the material reverts back to the insulating state right after removing the excitation.” He set out to find how long it takes for VO2 to change from one state to another for his thesis. However, his investigation took a different turn: after collecting hundreds of measurements, he discovered a memory effect in the material’s structure.
+
+An unexpected finding
+In his experiments, Samizadeh Nikoo administered an electric current to a VO2 sample. “The current moved across the material, following a path until it exited on the other side,” he explains. The VO2 changed state as the current heated the sample. After the current had gone, the material returned to its original state. Samizadeh Nikoo then delivered a second current pulse to the material and discovered that the time it took to change state was closely related to the material’s history.
+
+“The VO2 seemed to ‘remember’ the first phase transition and anticipate the next,” explains Professor Elison Matioli, who heads the POWERlab. “We didn’t expect to see this kind of memory effect, and it has nothing to do with electronic states but rather with the physical structure of the material. It’s a novel discovery: no other material behaves in this way.”
+
+A memory of up to three hours
+The researchers discovered that VO2 may recall its most recent external stimulus for up to three hours. “The memory effect could in fact persist for several days, but we don’t currently have the instruments needed to measure that,” says Matioli.
+
+The finding made by the study team is significant since the memory effect identified is an innate property of the material itself. Engineers depend on memory to complete various calculations, and materials that may improve the calculation process by increasing capacity, speed, and miniaturization are in high demand. VO2 checks all three of these boxes. Furthermore, its continuous, structural memory distinguishes it from typical materials that store data as binary information depending on the manipulation of electrical states.
+
+The researchers performed a host of measurements to reach their conclusions. They also confirmed their results by applying the new method to different materials at other laboratories around the world. This discovery replicates well what happens in the brain, as VO2 switches act just like neurons.
+
+Reference: “Electrical control of glass-like dynamics in vanadium dioxide for data storage and processing” by Mohammad Samizadeh Nikoo, Reza Soleimanzadeh, Anna Krammer, Guilherme Migliato Marega, Yunkyu Park, Junwoo Son, Andreas Schueler, Andras Kis, Philip J. W. Moll, and Elison Matioli, 22 August 2022, Nature Electronics.
+DOI: 10.1038/s41928-022-00812-z

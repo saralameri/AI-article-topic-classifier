@@ -1,0 +1,63 @@
+‘What you don’t get in classrooms’: Cybersecurity contest pits students against ransomware ‘attackers’
+Avatar photo
+by Waylon Cunningham
+April 22, 2022
+Click to email a link to a friend (Opens in new window)Click to share on Facebook (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Reddit (Opens in new window)
+University of Virginia’s cyber defense team works to protect system servers during a simulated breach as part of the cybersecurity competition.
+University of Virginia’s cyber defense team works to protect system servers during a simulated breach as part of the National Collegiate Cyber Defense Competition. Credit: Scott Ball / San Antonio Report
+As ransomware attacks continue to plague local government entities — Bexar County Appraisal District was the latest victim — hackers’ methods and organizations have become more sophisticated. At least one hacker group identified by the FBI appears to have an HR department, performance reviews and an “employee of the month.”
+
+Professionals simulated these complex, highly targeted attacks this week at a student competition in San Antonio, sponsored by Raytheon Technologies as a way to train and recruit the next generation of cybersecurity professionals.
+
+The finals of the National Collegiate Cyber Defense Competition, held at the Hyatt Regency Hill County Resort and Spa from Thursday to Saturday, saw 10 teams from 10 schools across the country play defense against coordinated cyberattacks. More than 150 other teams had already been eliminated before this week.
+
+The competition is the largest of its kind in the country, organizers said.
+
+Students on the teams played the roles of cybersecurity professionals protecting a business under active attack from intruders. Meanwhile, behind closed doors, real cybersecurity professionals acted the part of the hackers, seeking to disrupt and shut down system after system: emails, cloud-based servers, internal data and even the help desk. Points were awarded to teams who repelled the attacks and restored their systems as quickly as possible.
+
+Inside the University of Texas at Austin’s team room, sophomore Rishabh Ahlawat worked furiously to configure a firewall that would protect the Longhorns’ cloud servers and even alert them to new intruders.
+
+The teams’ computers sprawled across the desks showed blue screens and massive walls of coding text.
+
+A VIA bus travels north on Broadway past the SA is Amor mural created by the Art Everywhere campaign of Centro.
+WANT THE NEWS DELIVERED FOR FREE EVERY MORNING?
+SIGN UP FOR THE DAILY REACH.
+Enter your email
+Sign up
+“It’s stressful, but it’s a fun kind of stressful,” Ahlawat said. The team lost points every minute a product server remained down. His lunch sat untouched in its paper bag.  
+
+The University of Texas’ cybersecurity team work to defend and secure their simulation data during the National Collegiate Cyber Defense Competition.
+The University of Texas at Austin’s cybersecurity team works to defend and secure simulation data during the National Collegiate Cyber Defense Competition. Credit: Scott Ball / San Antonio Report
+Ahlawat said when he first came to college, he didn’t envision a future in cybersecurity. But competitions like this one have convinced him to enter the field when he graduates.
+
+His story illustrates a powerful reason why Raytheon Technologies, one of the largest intelligence contractors and defense manufacturers in the world by revenue, has sponsored the annual competition, now in its 17th year. Two dozen or so professionals from the company helped run the event, acting as performance assessors, and roleplaying as hackers and customers.
+
+“This is what you don’t get in classrooms,” said Jon Check, senior director of Cyber Protection Solutions for Raytheon Intelligence & Space, a Raytheon subsidiary. He said the competition provides a way for students to hone their skills and see how the concepts they study apply to the real world.
+
+Of course in real life, cybersecurity more frequently takes the form of pre-emptive defense and recovery, rather than the intensive and condensed exercises experienced by these students. But cases like it do still happen.
+
+Ransomware attacks have risen for years in Texas, as they have across the country.
+
+In Texas, there were a just under just under 300 ransomware attacks in 2021, up nearly a third from 2020, according to FBI cybercrime statistics.
+
+In 2016 the FBI recorded 37 attacks of this kind in the state.
+
+In Bexar County, hackers last year launched a ransomware attack on Judson Independent School District, for which the district paid more than $500,000 to recover sensitive data. In March, the Bexar County Appraisal District found itself the target of an attack, though IT professionals detected the infiltration before it progressed through the entire network. A spokesman for the county department said critical systems were restored within days, and as of this week the restoration of all affected systems were “99% complete.”
+
+Assistant Chief Appraiser Scott Griscom said he could not say how attackers broke into the system, given that final findings of the investigation are not complete, but initial suspicions that it came through email have been disproven.
+
+Efforts are growing to counter these attacks. The White House recently signed legislation that will require a wide range of public and private entities affiliated with critical infrastructure to publicly disclose details about cyberattacks, including whether the organization paid a ransom.
+
+“That’s a big deal,” Check said, as historically many companies have chosen to simply hide it. For instance, Equifax, a consumer credit reporting agency, waited weeks before telling its 143 affected customers that their private data may be on the loose. Check said disclosing the hack helps law enforcement identify repeat attackers, puts other organizations on alert, and helps cybersecurity professionals know what kind of attacks to look out for.
+
+Elias Bou-Harb, director of UTSA’s Cyber Center for Security and Analytics, said one reason ransomware attacks are on the rise is because the infrastructure to launch them has gotten more accessible. He said there are now illicit service providers that sell off-the-shelf tools for launching ransomware attacks, so hackers no longer need to have as much technical expertise.
+
+Some of these tools-for-hire even sweep the internet to look for vulnerable systems.
+
+“The threat landscape is crazy. We’re in a cyber war,” Bou-Harb said.
+
+While cyberattacks grow increasingly sophisticated, there are ways to lower the risk of attack, experts say, for both individuals and organizations.
+
+It’s important to back up systems, (making sure those backups actually function, Bou-harb says), avoid reusing passwords (the jury is still out about writing down passwords), and be careful what you click on in emails.
+
+And to avoid encouraging future attacks, entities and individuals shouldn’t pay ransoms. “If you pay once, you’re probably opening a door on yourself,” Bou-Harb said.

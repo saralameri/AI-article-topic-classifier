@@ -1,0 +1,49 @@
+Breaking an Optical Rule – Engineers Manipulate Light at the Nanoscale
+TOPICS:Johns Hopkins UniversityLightNanophotonicsRice UniversityVirtual Reality
+By RICE UNIVERSITY OCTOBER 24, 2022
+
+Abstract Particle Physics Technology
+The materials could allow better control of light at the nanoscale, opening new possibilities for display technologies.
+
+A formula developed by Rice engineers identifies materials for 3D displays and virtual reality.
+If you’re going to break a rule with style, make sure everybody sees it. That is the objective of Rice University engineers, who seek to enhance screens for virtual reality, 3D displays, and optical technologies in general.
+
+The Moss rule, which describes a trade-off between a material’s optical absorption and how it refracts light, has been broken by Gururaj Naik, an associate professor of electrical and computer engineering at Rice’s George R. Brown School of Engineering, and Applied Physics Graduate Program alumna Chloe Doiron. He did this by developing a method to manipulate light at the nanoscale that breaks the Moss rule. 
+
+It seems to be more of a guideline than a rule since a handful of “super-Mossian” semiconductors do exist. One of them is iron pyrite, commonly known as fool’s gold.
+
+Naik, Doiron, and co-author Jacob Khurgin, a professor of electrical and computer engineering at Johns Hopkins University, discovered iron pyrite works especially well as a nanophotonic material. They recently published their findings in the journal Advanced Optical Materials which might lead to better and smaller displays for wearable electronics.
+
+Iron Pyrite Metasurface
+A scanning electron microscope image of an iron pyrite metasurface created at Rice University to test its ability to transcend the Moss rule, which describes a trade-off between a material’s optical absorption and how it refracts light. The research shows potential to improve screens for virtual reality and 3D displays along with optical technologies in general. Credit: The Naik Lab/Rice University
+
+More importantly, they have developed a technique for discovering materials that defy the Moss rule and provide advantageous light-handling properties for displays and sensing applications.
+
+“In optics, we’re still limited to very few materials,” Naik said. “Our periodic table is really small. But there are so many materials that are simply unknown, just because we haven’t developed any insight on how to find them. That’s what we wanted to show: There are physics that can be applied here to short-list the materials, and then help us look for those that can get us to whatever the industrial needs are,” he said.
+
+“Let’s say I want to design an LED or a waveguide operating at a given wavelength, say 1.5 micrometers,” Naik said. “For this wavelength, I want the smallest possible waveguide, which has the smallest loss, meaning that can confine light the best.”
+
+Choosing a material with the highest possible refractive index at that wavelength would normally guarantee success, according to Moss. “That’s generally the requirement for all optical devices at the nanoscale,” he said. “The materials must have a bandgap slightly above the wavelength of interest because that’s where we begin to see less light getting through.
+
+“Silicon has a refractive index of about 3.4, and is the gold standard,” Naik said. “But we started asking if we could go beyond silicon to an index of 5 or 10.”
+
+That prompted their search for other optical options. For that, they developed their formula to identify super-Mossian dielectrics.
+
+“In this work, we give people a recipe that can be applied to the publicly available database of materials to identify them,” Naik said.
+
+The researchers settled on experiments with iron pyrite after applying their theory to a database of 1,056 compounds, searching in three bandgap ranges for those with the highest refractive indices. Three compounds along with pyrite were identified as super-Mossian candidates, but pyrite’s low cost and long use in photovoltaic and catalytic applications made it the best choice for experiments.
+
+“Fool’s gold has traditionally been studied in astrophysics because it’s commonly found in interstellar debris,” Naik said. “But in the context of optics, it’s little known.”
+
+He noted iron pyrite has been studied for use in solar cells. “In that context, they showed optical properties in the visible wavelengths, where it’s really lossy,” he said. “But that was a clue for us because when something is extremely lossy in the visible frequencies, it’s likely going to have a very high refractive index in the near-infrared.”
+
+So the lab made optical-grade iron pyrite films. Tests of the material revealed a refractive index of 4.37 with a band gap of 1.03 electron volts, surpassing the performance predicted by the Moss rule by about 40%.
+
+That’s great, Naik said, but the search protocol could — and likely will — find materials that are even better.
+
+“There are many candidates, some of which haven’t even been made,” he said.
+
+Reference: “Super-Mossian Dielectrics for Nanophotonics” by Chloe F. Doiron, Jacob B. Khurgin and Gururaj V. Naik, 6 September 2022, Advanced Optical Materials.
+DOI: 10.1002/adom.202201084
+
+The study was funded by the National Science Foundation and the Army Research Office.

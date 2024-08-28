@@ -1,0 +1,50 @@
+Conventional Computers Can Learn To Solve Tricky Quantum Problems in Physics and Chemistry
+TOPICS:Artificial IntelligenceCalifornia Institute Of TechnologyMachine LearningPopularQuantum ComputingQuantum MaterialsQuantum Physics
+By CALIFORNIA INSTITUTE OF TECHNOLOGY OCTOBER 5, 2022
+
+Advanced Technology CPU Computer Chip
+Caltech researchers describe how machine learning tools, run on classical computers, can be used to make predictions about quantum systems and thus help solve some of the trickiest physics and chemistry problems.
+
+Physicists prove that classical machine learning models can improve predictions about quantum materials.
+
+Quantum computers have generated a lot of buzz and for good reason. The futuristic computers are designed to mimic what happens in nature at microscopic scales. This means they have the power to better understand the quantum realm and speed up the discovery of new materials, including pharmaceuticals, environmentally friendly chemicals, and more. However, experts say it is still a decade away — or more — before practical quantum computers are available. What are researchers to do in the meantime?
+
+A new study describes how machine learning tools, run on classical computers, can be used to make predictions about quantum systems and therefore help scientists solve some of the trickiest physics and chemistry problems. While this notion has been proposed before, the new report is the first to mathematically prove that the method works in problems that no traditional algorithms could solve. Led by Caltech, the study was published on September 23 in the journal Science.
+
+Hsin-Yuan (Robert) Huang
+Hsin-Yuan (Robert) Huang. Credit: Caltech
+
+“Quantum computers are ideal for many types of physics and materials science problems,” says lead author Hsin-Yuan (Robert) Huang. He is a graduate student working with John Preskill, the Richard P. Feynman Professor of Theoretical Physics and the Allen V. C. Davis and Lenabelle Davis Leadership Chair of the Institute for Quantum Science and Technology (IQIM). “But we aren’t quite there yet and have been surprised to learn that classical machine learning methods can be used in the meantime. Ultimately, this paper is about showing what humans can learn about the physical world.”
+
+John Preskill
+John P. Preskill, Richard P. Feynman Professor of Theoretical Physics at Caltech. Credit: Lance Hayashida
+
+At microscopic levels, the physical world becomes an extremely complex place ruled by the laws of quantum physics. In this realm, particles can exist in a superposition of states, or in two states at once. And a superposition of states can lead to entanglement, a phenomenon in which particles are linked, or correlated, without even being in contact with each other. These strange states and connections, which are widespread within natural and human-made materials, are very difficult to describe mathematically.
+
+“Predicting the low-energy state of a material is very hard,” says Huang. “There are huge numbers of atoms, and they are superimposed and entangled. You can’t write down an equation to describe it all.”
+
+The new study represents the first mathematical demonstration that classical machine learning can be used to bridge the gap between us and the quantum world. Machine learning, considered a field of artificial intelligence, is a type of computer application that mimics the human brain to learn from data.
+
+“We are classical beings living in a quantum world,” says Preskill. “Our brains and our computers are classical, and this limits our ability to interact with and understand the quantum reality.”
+
+Although previous studies have shown that machine learning models have the ability to solve some quantum problems, these methods typically operate in ways that make it difficult for scientists to learn how the machines arrived at their solutions.
+
+“Normally, when it comes to machine learning, you don’t know how the machine solved the problem. It’s a black box,” says Huang. “But now we’ve essentially figured out what’s happening in the box through our mathematical analysis and numerical simulations.” Huang and his colleagues did extensive numerical simulations in collaboration with the AWS Center for Quantum Computing at Caltech, which corroborated their theoretical results.
+
+Google's Sycamore Chip
+Google’s Sycamore chip, a quantum computer, is kept cool inside their quantum cryostat. Credit: Eric Lucero/Google, Inc.
+
+The new study will help researchers better understand and classify complex and exotic phases of quantum matter.
+
+“The worry was that people creating new quantum states in the lab might not be able to understand them,” Preskill explains. “But now we can obtain reasonable classical data to explain what’s going on. The classical machines don’t just give us an answer like an oracle but guide us toward a deeper understanding.”
+
+Co-author Victor V. Albert, a NIST (National Institute of Standards and Technology) physicist and former DuBridge Prize Postdoctoral Scholar at Caltech, agrees. “The part that excites me most about this work is that we are now closer to a tool that helps you understand the underlying phase of a quantum state without requiring you to know very much about that state in advance.”
+
+Ultimately, of course, the scientists say that future quantum-based machine learning tools will outperform classical methods. In a related study appearing June 10, 2022, in Science, Huang, Preskill, and their collaborators report using Google’s Sycamore processor, a rudimentary quantum computer, to demonstrate that quantum machine learning is superior to classical approaches.
+
+“We are still at the very beginning of this field,” says Huang. “But we do know that quantum machine learning will eventually be the most efficient.”
+
+Reference: “Provably efficient machine learning for quantum many-body problems” by Hsin-Yuan Huang, Richard Kueng, Giacomo Torlai, Victor V. Albert and John Preskill, 23 September 2022, Science.
+DOI: 10.1126/science.abk3333
+
+The Science study titled “Provably efficient machine learning for quantum many-body problems,” was funded by the J. Yang & Family Foundation, the Department of Energy, and the National Science Foundation (NSF).

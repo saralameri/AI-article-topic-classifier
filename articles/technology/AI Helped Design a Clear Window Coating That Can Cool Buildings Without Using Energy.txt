@@ -1,0 +1,21 @@
+AI Helped Design a Clear Window Coating That Can Cool Buildings Without Using Energy
+TOPICS:American Chemical SocietyEnergy
+By AMERICAN CHEMICAL SOCIETY NOVEMBER 2, 2022
+
+Clear Window Coating Could Cool Buildings Without Using Energy
+This window film (held in fingers at top left) keeps rooms bright and cool by allowing visible light to pass in while reflecting invisible infrared and ultraviolet sunlight and radiating heat into outer space. Credit: Adapted from ACS Energy Letters 2022, DOI: 10.1021/acsenergylett.2c01969
+
+Demand is growing for effective new technologies to cool buildings, as climate change intensifies summer heat. Now, scientists have just designed a transparent window coating that could lower the temperature inside buildings, without expending a single watt of energy. They did this with the help of advanced computing technology and artificial intelligence. The researchers report the details today (November 2) in the journal ACS Energy Letters.
+
+Cooling accounts for about 15% of global energy consumption, according to estimates from previous research studies. That demand could be lowered with a window coating that could block the sun’s ultraviolet and near-infrared light. These are parts of the solar spectrum that are not visible to humans, but they typically pass through glass to heat an enclosed room.
+
+Energy use could be even further reduced if the coating radiates heat from the window’s surface at a wavelength that passes through the atmosphere into outer space. However, it’s difficult to design materials that can meet these criteria simultaneously and at the same time can also transmit visible light, This is required so they don’t interfere with the view. Eungkyu Lee, Tengfei Luo, and colleagues set out to design a “transparent radiative cooler” (TRC) that could do just that.
+
+The team constructed computer models of TRCs consisting of alternating thin layers of common materials like silicon dioxide, silicon nitride, aluminum oxide or titanium dioxide on a glass base, topped with a film of polydimethylsiloxane. They optimized the type, order, and combination of layers using an iterative approach guided by machine learning and quantum computing, which stores data using subatomic particles. This computing method carries out optimization faster and better than conventional computers because it can efficiently test all possible combinations in a fraction of a second. This produced a coating design that, when fabricated, beat the performance of conventionally designed TRCs in addition to one of the best commercial heat-reduction glasses on the market.
+
+In hot, dry cities, the researchers say, the optimized TRC could potentially reduce cooling energy consumption by 31% compared with conventional windows. They note their findings could be applied to other applications, since TRCs could also be used on car and truck windows. In addition, the group’s quantum computing-enabled optimization technique could be used to design other types of composite materials.
+
+Reference: “High-Performance Transparent Radiative Cooler Designed by Quantum Computing” by Seongmin Kim, Wenjie Shang, Seunghyun Moon, Trevor Pastega, Eungkyu Lee and Tengfei Luo, 2 November 2022, ACS Energy Letters.
+DOI: 10.1021/acsenergylett.2c01969
+
+The authors acknowledge support from the National Research Foundation of Korea and the Notre Dame Center for Research Computing.

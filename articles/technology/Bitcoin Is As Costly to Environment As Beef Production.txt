@@ -1,0 +1,21 @@
+Bitcoin Is As Costly to Environment As Beef Production
+TOPICS:BitcoinCarbon EmissionsClimate ChangeScientific Reports
+By SCIENTIFIC REPORTS SEPTEMBER 29, 2022
+
+Bitcoin Digital Cryptocurrency
+According to a new analysis, the environmental costs of mining the digital cryptocurrency Bitcoin are comparable to the climate damages of producing beef.
+
+Taken as a share of the market price, the environmental costs of mining the digital cryptocurrency Bitcoin are more comparable to the climate damages of producing beef than gold mining costs, according to an analysis published in Scientific Reports. The authors suggest that rather than being considered akin to ‘digital gold’, Bitcoin should instead be compared to much more energy-intensive products such as beef, natural gas, and crude oil.  
+
+In December 2021, Bitcoin had an approximate market value of 960 billion US dollars with a roughly 41 percent global market share among cryptocurrencies. Although known to be energy intensive, the extent of Bitcoin’s climate damages – estimates of financial damage from carbon emissions and the impact of climate change on economies – is unclear.
+
+Benjamin Jones and colleagues present economic estimates of climate damages from Bitcoin mining between January 2016 and December 2021. They report that in 2020 Bitcoin mining used 75.4 terawatt-hours per year (TWhyear-1) – higher energy usage than Austria (69.9 TWhyear-1) or Portugal (48.4 TWhyear-1).
+
+The authors assessed Bitcoin climate damages according to three sustainability criteria: whether the estimated climate damages are increasing over time; whether the market price of Bitcoin exceeds the economic cost of climate damages; and how the climate damages per coin mined compare to climate damages of other sectors and commodities. They find that the energy emissions for Bitcoin mining have increased 126-fold from 0.9 tonnes of emissions per coin in 2016, to 113 tonnes per coin in 2021. Calculations suggest each Bitcoin mined in 2021 generated 11,314 USD in climate damages, with total global damages exceeding 12 billion USD – 25% of market prices. Damages peaked at 156% of coin price in May 2020, suggesting that each 1 USD of Bitcoin market value led to 1.56 USD in global climate damages.
+
+Finally, the authors compared Bitcoin climate damages to damages from other industries and products such as electricity generation, crude oil processing, agricultural meat production, and precious metal mining. Climate damages for Bitcoin averaged at 35% of its market value between 2016 and 2021. This was less than the climate damages compared to market value of electricity produced by natural gas (46%) and gasoline produced from crude oil (41%), but more than those of beef production (33%) and gold mining (4%).
+
+The authors conclude that Bitcoin does not meet any of the three key sustainability criteria they assessed it against, and that significant changes – including potential regulation – are required to make Bitcoin mining sustainable.
+
+Reference: “Economic estimation of Bitcoin mining’s climate damages demonstrates closer resemblance to digital crude than digital gold” 29 September 2022, Scientific Reports.
+DOI: 10.1038/s41598-022-18686-8 

@@ -1,0 +1,27 @@
+Past the Breaking Point: Surprising Research May Help Prevent Damage to Industrial Parts
+TOPICS:Industrial EngineeringMaterials ScienceUniversity Of Tokyo
+By INSTITUTE OF INDUSTRIAL SCIENCE, UNIVERSITY OF TOKYO OCTOBER 11, 2022
+
+Past the Breaking Point
+Scientists simulated fractures in amorphous materials due to both cyclic fatigue and constant stress using course-grained dynamics, and demonstrated various failure modes, which can help improve the reliability of materials. Credit: Institute of Industrial Science, The University of Tokyo
+
+When industrial parts are damaged, it can be very expensive and result in delays. Plus, it could leave a plant unsafe for workers. Scientists from Japan have now simulated fracture initiated in materials that share a specific physical characteristic and are widely used across domestic, industrial, and scientific applications. Their work showed surprising results that may help prevent damage to industrial parts.
+
+If you’ve ever been bored in a meeting and tried playing with a metal paperclip to pass the time, you may have noticed something surprising. Although the paperclip starts flexible and returns to its original shape several times, after enough cycles it may suddenly snap. This is an example of “fatigue,” in which cracks and defects build up as an object is subjected to cyclic loading and unloading of stress.
+
+“Contrary to the common belief, we showed that the critical strain in disorder materials that corresponds with the onset of irreversible deformation is the same for both fatigue and monotonic fractures.” — Yuji Kurotani
+
+Material fatigue is a significant concern in many industrial applications. It is especially crucial for machine or airplane parts that experience many cycles of stress, yet whose sudden failure could be catastrophic. As a result, obtaining a better understanding of the underlying process of material fatigue could have substantial benefits, especially for non-crystalline materials.
+
+Now, a group of scientists at the Institute of Industrial Science, The University of Tokyo, studied the physical mechanisms of low-cycle fatigue fracture in the case of amorphous solids, such as glass or plastics, using computer simulations. For crystalline materials, it has been shown that preexisting defects and grain boundaries can initiate a fracture because of fatigue. However, the corresponding mechanism in amorphous materials is not well understood. While it seems intuitive that the stress required for a fracture to occur is much smaller for cyclic stresses compared with constant stress, this was not what the scientists found.
+
+“Contrary to the common belief, we showed that the critical strain in disorder materials that corresponds with the onset of irreversible deformation is the same for both fatigue and monotonic fractures,” says co-author Yuji Kurotani.
+
+This is because, for ordinary amorphous systems, higher density leads to more elasticity and slower dynamics. This density dependence of mechanical properties couples the shear deformation with density fluctuations. The cyclic shear can then amplify density fluctuations until the sample breaks via cavitation, in which voids are produced.
+
+“This situation is like a crowded train,” says co-author Hajime Tanaka. “Dynamic and elastic asymmetries with respect to density changes can lead to a link between shear deformation and density fluctuations.”
+
+According to the authors or the study, these results should be confirmed with experiments, which would also help material scientists better understand the initiation of fractures.
+
+Reference: “Fatigue fracture mechanism of amorphous materials from a density-based coarse-grained model” by Yuji Kurotani and Hajime Tanaka, 11 October 2022, Communications Materials.
+DOI: 10.1038/s43246-022-00293-9

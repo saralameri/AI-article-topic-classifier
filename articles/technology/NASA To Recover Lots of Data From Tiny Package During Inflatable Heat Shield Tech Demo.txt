@@ -1,0 +1,49 @@
+NASA To Recover Lots of Data From Tiny Package During Inflatable Heat Shield Tech Demo
+TOPICS:NASANASA Langley Research Center
+By HALEY OEUR, NASA OCTOBER 28, 2022
+
+Water Recovery Test of Ejectable Data Module for LOFTID
+Pictured from the left, Robert Walker, Brian Saulman, Robert Dillman, and Robert Mosher, partner with the U.S. Army to conduct a water recovery test of the ejectable data module for LOFTID. Credit: NASA
+
+A recovery team will use GPS to search an approximately 900-mile area of the Pacific Ocean for a bright yellow capsule after a November 2022 demonstration of an inflatable heat shield. About the same size and shape as a large lemon, the capsule carries crucial data.
+
+This tiny package is an ejectable data module (EDM) for a NASA technology demonstration, Low-Earth Orbit Flight Test of an Inflatable Decelerator (LOFTID). LOFTID will demonstrate an inflatable heat shield technology that could potentially be used to land humans on Mars. Once the LOFTID vehicle reaches space following the launch, the heat shield will inflate, then the LOFTID re-entry vehicle will enter Earth’s atmosphere and splash down in the Pacific Ocean.
+
+Low-Earth Orbit Flight Test of an Inflatable Decelerator (LOFTID)
+Illustration of Low-Earth Orbit Flight Test of an Inflatable Decelerator (LOFTID). Credit: NASA
+
+Located in the LOFTID re-entry vehicle, the EDM contains both sensor and camera data recorded during LOFTID’s flight. The data will include the temperatures and pressures experienced by the heat shield and will show the team how well LOFTID performed during the demonstration. The LOFTID re-entry vehicle also records this data, as the EDM was designed as a redundant source of flight data to be recovered upon splashdown. This is just in case the team is unable to recover the re-entry vehicle itself.
+
+“The EDM was created to provide a secondary way for the team to recover the flight test data,” said Brian Saulman, subsystem lead for the EDM at NASA’s Langley Research Center in Hampton, Virginia. “The reason we have the EDM came from the Inflatable Reentry Vehicle Experiment flight test, where the team never recovered the vehicle.”
+
+Robert Dillman Retrieves LOFTID Ejectable Data Module
+Robert Dillman retrieves the LOFTID ejectable data module engineering development unit from the water during a recovery test. Credit: NASA
+
+After the LOFTID re-entry vehicle re-enters Earth’s atmosphere during the flight demonstration, the EDM will be released from the spacecraft at an altitude of about 50,000 feet. An electrical current will trigger the module’s release through a spring-loaded system. It will free-fall into the Pacific Ocean off the coast of Hawaii and should land within 10 miles of the spacecraft’s splash-down location.
+
+The team will be able to locate the EDM using multiple communications systems that send GPS coordinates through a weather balloon-mounted relay launched by the recovery team. The relay transmits the coordinates to a hand-held ground station device, which is a modified cellphone with a tracking application. The phone will display latitude and longitude coordinates, range, and an arrow pointing to the location of the EDM, updating as the EDM drifts in the ocean.
+
+To prepare for finding the EDM, the LOFTID team put the EDM through many functional tests as well as a series of practice recovery tests. Scientists and engineers tested the limits of their equipment by looking for the lemon-sized object using a multitude of methods, from playing hide-and-seek with it on land to tracking and recovering the EDM from the Atlantic Ocean.
+
+To test the recovery procedure, first, the team experimented by hiding the EDM on land. In a large game of hide-and-seek, Saulman would hide the small component for the recovery team to track. Through many iterations of the recovery test at Langley and in the surrounding area, the team was able to practice and verify their techniques and equipment for tracking and recovery.
+
+Next, experiments moved from hide-and-seek to Marco Polo as they moved from land to the water. The team modeled their testing on how they expect the actual LOFTID EDM recovery will go, implementing flight-like technology and measurement techniques in the Atlantic Ocean for practice.
+
+“When we turned on our tracking gear, we released a weather balloon with a relay,” said Robert Mosher from NASA Langley, lead for the EDM water recovery test. “Within about ten minutes, we had successfully locked onto a signal and received latitude and longitude coordinates.”
+
+Anjie Emmett Holds LOFTID Ejectable Data Module
+Mechanical engineer Anjie Emmett holds the LOFTID ejectable data module, the small, yellow, lemon-shaped components will hold a copy of all of the data recorded during the technology demonstration. Credit: NASA
+
+During the water test, the team was able to partner with the U.S. Army at Joint Base Langley-Eustis. They conducted the test as they would a man overboard drill. The EDM was tossed overboard. On board a U.S. Army Landing Craft Utility boat, the team only had to course correct once in their search for the EDM.
+
+“The test provided indispensable practice, working on the deck of a ship and understanding how reliable the signal could be when it’s bobbing in the ocean,” Mosher said. “It was also a highlight of my career, being able to coordinate the whole activity and partner with the U.S. Army.”
+
+After these successful tests on land and sea, the small EDM is ready to play a big part in LOFTID’s flight demonstration.
+
+NASA’s Low-Earth Orbit Flight Test of an Inflatable Decelerator, or LOFTID, is demonstrating a cross-cutting aeroshell — a type of heat shield — for atmospheric re-entry. Because current rigid aeroshells are constrained by a rocket’s shroud size, one of the challenges NASA faces for destinations with an atmosphere is how to deliver heavy payloads (experiments, equipment, and people). One answer is an inflatable aeroshell that can be deployed to a scale much larger than the shroud. This technology enables a variety of proposed NASA missions to destinations such as Mars, Venus, Titan as well as return to Earth.
+
+LOFTID is dedicated to the memory of Bernard Kutter, manager of advanced programs at United Launch Alliance (ULA), who passed away in August 2020 and was an advocate for technologies like LOFTID that can lower the cost of access to space.
+
+LOFTID is scheduled to launch in November aboard a ULA Atlas V as a secondary payload with the Joint Polar Surveyor System-2 (JPSS-2), a polar-orbiting weather satellite.
+
+The LOFTID project is managed and funded through NASA’s Technology Demonstration Missions program, part of the agency’s Space Technology Mission Directorate. The project is led by NASA’s Langley Research Center in Hampton, Virginia, in partnership with United Launch Alliance and with contributions from NASA’s Ames Research Center in Silicon Valley, Marshall Space Flight Center in Huntsville, Alabama, and Armstrong Flight Research Center in Edwards, California. NASA’s Launch Services Program, based at the agency’s Kennedy Space Center in Florida, is responsible for managing the launch service.

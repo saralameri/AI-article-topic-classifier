@@ -1,0 +1,32 @@
+Far-Ultraviolet LED Efficiently Kills Bacteria and Viruses Without Harming People
+TOPICS:Infectious DiseasesLEDsPopularPublic HealthRIKEN
+By RIKEN OCTOBER 7, 2022
+
+Far-Ultraviolet LED
+Figure 1: Most LEDs emit visible light, but RIKEN physicists have created an LED that emits in a narrow region in the far ultraviolet that is safe for humans but deadly for viruses and bacteria. Credit: RIKEN
+
+A powerful LED can efficiently disinfect surfaces while remaining safe for people.
+
+RIKEN physicists have engineered a highly efficient LED that is deadly to microbes and viruses but safe for humans. One day it could help countries emerge from the shadows of pandemics by killing pathogens in rooms full of people.
+
+Ultraviolet germicidal lamps are extremely effective at exterminating bacteria and viruses. In fact, they are routinely used in hospitals to sterilize surfaces and medical instruments.
+
+Masafumi Jo
+Masafumi Jo and two co-workers have designed an LED that will help safeguard society against pandemics. Credit: RIKEN
+
+Lamps of this type can be constructed with LEDs, making them energy efficient. However, these LEDs produce ultraviolet light in a range that damages DNA and therefore cannot be used around people. The search is on to develop efficient LEDs that shine light within a narrow band of far-ultraviolet light that appears to be both good at disinfecting while remaining safe for people.
+
+Germicidal LED lamps that operate in the absence of humans are often made from aluminum, gallium, and nitrogen. By increasing the amount of aluminum they contain, these LEDs can be modified to work in a wavelength region that is safe for humans. This approach has been used before but has resulted in dramatically reduced power.
+
+To work through this issue, three physicists at RIKEN Quantum Optodevice Laboratory, Masafumi Jo, Yuri Itokazu, and Hideki Hirayama, created an LED with a more complex design. They sandwiched together multiple layers, each containing slightly different proportions of aluminum. In addition, in some layers they also added tiny amounts of silicon or magnesium.
+
+This effectively created an obstacle course for electrons, hindering their movement across the material and trapping them for longer in certain areas. This resulted in an increased amount of light emitted by the device and a reduced amount absorbed by it.
+
+The team used computer simulations to model all possible effects to help pin down the ideal design. “We then grew samples to see if it was effective or not,” Jo says. Precisely controlling the thickness of each layer was the biggest experimental challenge. They ended up with an LED operating in the far ultraviolet, with an output power almost ten times higher than their previous best.
+
+The COVID-19 pandemic brought a new consciousness of the importance of being able to eradicate viruses and microbes on surfaces. “We trust that our findings and technologies will be very useful for safeguarding society against this and future pandemics,” says Jo.
+
+Jo adds that the trio will strive to improve their LED’s performance even further. “There’s still much room for improvement in the output power and the power efficiency,” he notes.
+
+Reference: “Milliwatt-power far-UVC AlGaN LEDs on sapphire substrates” by Masafumi Jo, Yuri Itokazu and Hideki Hirayama, 25 May 2022, Applied Physics Letters.
+DOI: 10.1063/5.0088454

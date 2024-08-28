@@ -1,0 +1,33 @@
+Battery Tech Breakthrough: 10-Minute Charge Time Paves Way for Mass Adoption of Affordable Electric Car
+TOPICS:Battery TechnologyPenn State University
+By PENN STATE UNIVERSITY OCTOBER 16, 2022
+
+Fast-Charging Battery for Electric Cars
+This 10-min fast-charging battery was developed for electric cars, with the black box on the top containing a battery management system to control the module. Credit: EC Power
+
+Scientists develop a new technique that charges EV batteries in just 10 minutes.
+
+A design breakthrough has enabled a 10-minute charge time for a typical electric vehicle battery. A paper detailing the record-breaking combination of a shorter charge time and more energy acquired for a longer travel range was published on October 12 in the journal Nature.
+
+“The need for smaller, faster-charging batteries is greater than ever,” said Chao-Yang Wang, lead author on the study. “There are simply not enough batteries and critical raw materials, especially those produced domestically, to meet anticipated demand.” Wang is the William E. Diefenderfer Professor of Mechanical Engineering at Penn State.
+
+The Air Resources Board of California adopted a comprehensive plan in August to impose restrictions on and eventually outlaw the sale of gasoline-powered vehicles in the state. This means that by 2035, the largest auto market in the United States will effectively retire the internal combustion engine.
+
+Wang explained that if new car sales are going to shift to battery-powered electric vehicles (EVs), they’ll need to overcome two major drawbacks. First, they are too slow to recharge. Second, they are too large to be efficient and affordable. Instead of taking a few minutes at the gas pump, some EVs can take all day to recharge depending on the battery.
+
+“Our fast-charging technology works for most energy-dense batteries and will open a new possibility to downsize electric vehicle batteries from 150 to 50 kWh without causing drivers to feel range anxiety,” said Wang, whose lab partnered with State College-based startup EC Power to develop the technology. “The smaller, faster-charging batteries will dramatically cut down battery cost and usage of critical raw materials such as cobalt, graphite, and lithium, enabling mass adoption of affordable electric cars.”
+
+The technology relies on internal thermal modulation, an active method of temperature control to demand the best performance possible from the battery, Wang explained. Batteries operate most efficiently when they are hot, but not too hot. Keeping batteries consistently at just the right temperature has been major challenge for battery engineers. Historically, they have relied on external, bulky heating and cooling systems to regulate battery temperature, which respond slowly and waste a lot of energy, Wang said. 
+
+Wang and his team decided to instead regulate the temperature from inside the battery. The researchers developed a new battery structure that adds an ultrathin nickel foil as the fourth component besides anode, electrolyte and cathode. Acting as a stimulus, the nickel foil self-regulates the battery’s temperature and reactivity which allows for 10-minute fast charging on just about any EV battery, Wang explained.
+
+“True fast-charging batteries would have immediate impact,” the researchers write. “Since there are not enough raw minerals for every internal combustion engine car to be replaced by a 150 kWh-equipped EV, fast charging is imperative for EVs to go mainstream.”
+
+The study’s partner, EC Power, is working to manufacture and commercialize the fast-charging battery for an affordable and sustainable future of vehicle electrification, Wang said. 
+
+Reference: “Fast charging of energy-dense lithium-ion batteries” by Chao-Yang Wang, Teng Liu, Xiao-Guang Yang, Shanhai Ge, Nathaniel V. Stanley, Eric S. Rountree, Yongjun Leng and Brian D. McCarthy, 12 October 2022, Nature.
+DOI: 10.1038/s41586-022-05281-0
+
+The other coauthors on the study are Teng Liu, Xiao-Guang Yang, Shanhai Ge and Yongjun Leng of Penn State and Nathaniel Stanley, Eric Rountree and Brian McCarthy of EC Power.
+
+The work was supported by the U.S. Department of Energy, the U.S. Department of Defense, the U.S. Air Force and the William E. Diefenderfer Endowment.

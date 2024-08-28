@@ -1,0 +1,37 @@
+HOMETECHNOLOGY NEWS
+A Hidden Flaw – Unlocking Better Batteries for Electric Vehicles
+TOPICS:Argonne National LaboratoryBattery TechnologyMaterials ScienceOak Ridge National LaboratoryPrinceton UniversityVanderbilt University
+By PRINCETON UNIVERSITY, ENGINEERING SCHOOL OCTOBER 1, 2022
+
+Advanced Digital Battery Technology Development
+Researchers have discovered a crucial reason why solid-state batteries are prone to failure
+
+Fixing a hidden flaw might lead to improved batteries for electric cars.
+When compared to traditional lithium-ion batteries, solid-state batteries provide quicker charging, higher range, and longer lifespan, and could play a key role in electric vehicles. However, solid-state batteries are prone to failure due to existing manufacturing and material processing methods. Researchers have now discovered a hidden flaw that was causing the failures. The next stage is to develop materials and manufacturing processes that take these flaws into consideration and create next-generation batteries.
+
+In contrast to traditional lithium-ion batteries, which have charged particles called ions moving in a liquid, solid-state batteries have ions that travel through the battery inside a solid material. The new research shows that while solid-state cells have benefits, local variations or tiny flaws in the solid material might short or wear out the battery.
+
+“A uniform material is important,” said lead researcher Kelsey Hatzell, assistant professor of mechanical and aerospace engineering and the Andlinger Center for Energy and the Environment. “You want ions moving at the same speed at every point in space.”
+
+Hatzell and co-authors described how they employed high-tech tools at Argonne National Laboratory to inspect and track nano-scale material changes inside a battery while charging and discharging it in a paper recently published in Nature Materials. The team of researchers from Princeton University, Vanderbilt University, Argonne National Laboratory, and Oak Ridge National Laboratory analyzed crystal grains in the battery’s solid electrolyte, the core part of the battery through which electrical charge flows. By moving ions more quickly to one area of the battery than another, the researchers came to the conclusion that irregularities between grains might hasten battery failure. Changing material processing and manufacturing methods might help in resolving battery dependability issues.
+
+Batteries store electrical energy in materials that make up their electrodes: the anode (the end of a battery marked with the minus sign) and the cathode (the end of the battery marked with the plus sign). When the battery discharges energy to power a car or a smartphone, the charged particles (called ions) move across the battery to the cathode (the + end). The electrolyte, solid or liquid, is the path the ions take between the anode and cathode. Without an electrolyte, ions cannot move and store energy in the anode and cathode.
+
+In a solid-state battery, the electrolyte is typically either a ceramic or a dense glass. Solid state batteries with solid electrolytes may enable more energy-dense materials (e.g. lithium metal) and make batteries lighter and smaller. Weight, volume, and charge capacity are key factors for transportation applications such as electric vehicles. Solid-state batteries also should be safer and less susceptible to fires than other forms.
+
+Engineers have known that solid-state batteries are prone to fail at the electrolyte, but the failures seemed to occur at random. Hatzell and co-researchers suspected that the failures might not be random but actually caused by changes in the crystalline structure of the electrolyte. To explore this hypothesis, the researchers used the synchrotron at the Argonne National Lab to produce powerful X-rays that allowed them to look into the battery during operation. They combined X-ray imaging and high-energy diffraction techniques to study the crystalline structure of a garnet electrolyte at the angstrom scale, roughly the size of a single atom. This allowed the researchers to study changes in the garnet at the crystal level.
+
+A garnet electrolyte is comprised of an ensemble of building blocks known as grains. In a single electrolyte (1mm diameter) there are almost 30,000 different grains. The researchers found that across the 30,000 grains, there were two predominant structural arrangements. These two structures move ions at varying speeds. In addition, these different forms or structures “can lead to stress gradients that lead to ions moving in different directions and ions avoiding parts of the cell,” Hatzell said.
+
+She likened the movement of charged ions through the battery to water moving down a river and encountering a rock that redirects the water. Areas that have high amounts of ions moving through tend to have higher stress levels.
+
+“If you have all the ions going to one location, it is going to cause rapid failure,” Hatzell said. “We need to have control over where and how ions move in electrolytes in order to build batteries that will last for thousands of charging cycles.”
+
+Hatzell said it should be possible to control the uniformity of grains through manufacturing techniques and by adding small amounts of different chemicals called dopants to stabilize the crystal forms in the electrolytes.
+
+“We have a lot of hypotheses that are untested of how you would avoid these heterogeneities,” she said. “It is certainly going to be challenging, but not impossible.”
+
+Reference: “Polymorphism of garnet solid electrolytes and its implications for grain-level chemo-mechanics” by Marm B. Dixit, Bairav S. Vishugopi, Wahid Zaman, Peter Kenesei, Jun-Sang Park, Jonathan Almer, Partha P. Mukherjee, and Kelsey B. Hatzell, 1 September 2022, Nature Materials.
+DOI: 10.1038/s41563-022-01333-y
+
+The study was funded by the National Science Foundation and the US Department of Energy.

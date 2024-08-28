@@ -1,0 +1,38 @@
+Making Hacking Futile – Quantum Cryptography
+TOPICS:LMU MunichNational University Of SingaporeQuantumQuantum CryptographyUniversity Of Oxford
+By LUDWIG-MAXIMILIANS-UNIVERSITÄT MÜNCHEN SEPTEMBER 11, 2022
+
+Computer Security Cybersecurity Concept
+The science of using quantum mechanical principles for cryptographic purposes is known as quantum cryptography.
+
+An improved version of quantum key distribution.
+The Internet is filled with highly sensitive data. In general, sophisticated encryption techniques guarantee that such material cannot be intercepted and read. However, in the future, high-performance quantum computers could break these keys in a matter of seconds. It is therefore fortunate that quantum mechanical approaches offer not just new, far faster algorithms, but also very effective cryptography.
+
+Quantum key distribution (QKD), as the jargon says, is safe against attacks on the communication channel but not against attacks or manipulations of the devices themselves. As a result, the devices may output a key that the manufacturer had previously kept and could have passed to a hacker. It’s a different story with device-independent QKD (abbreviated DIQKD). The cryptographic protocol is unaffected by the device. This technology has been theoretically known since the 1990s, but it has only just been experimentally implemented by an international research team headed by Ludwig Maximilian University of Munich physicist Harald Weinfurter and Charles Lim from the National University of Singapore (NUS).
+
+There are many methods for exchanging quantum mechanical keys. The transmitter sends light signals to the receiver, or entangled quantum systems are employed. The scientists employed two quantum mechanically entangled rubidium atoms in two labs 400 meters apart on the LMU campus in the current experiment. The two facilities are linked by a 700-meter-long fiber optic cable that runs under Geschwister Scholl Square in front of the main building.
+
+To create an entanglement, the scientists first stimulate each atom with a laser pulse. Following this, the atoms spontaneously return to their ground state, each releasing a photon. The spin of the atom is entangled with the polarization of its emitted photon due to the conservation of angular momentum. The two light particles travel over the fiber optic cable to a receiver station, where a combined measurement of the photons reveals atomic quantum memory entanglement.
+
+To exchange a key, Alice and Bob – as the two parties are usually dubbed by cryptographers – measure the quantum states of their respective atoms. In each case, this is done randomly in two or four directions. If the directions correspond, the measurement results are identical on account of entanglement and can be used to generate a secret key. With the other measurement results, a so-called Bell inequality can be evaluated. Physicist John Stewart Bell originally developed these inequalities to test whether nature can be described with hidden variables.
+
+“It turned out that it cannot,” says Weinfurter.
+
+In DIQKD, the test is used “specifically to ensure that there are no manipulations at the devices – that is to say, for example, that hidden measurement results have not been saved in the devices beforehand,” explains Weinfurter.
+
+In contrast to earlier approaches, the implemented protocol, which was developed by researchers at NUS, uses two measurement settings for key generation instead of one: “By introducing the additional setting for key generation, it becomes more difficult to intercept information, and therefore the protocol can tolerate more noise and generate secret keys even for lower-quality entangled states,” says Charles Lim.
+
+With conventional QKD methods, by contrast, security is guaranteed only when the quantum devices used have been characterized sufficiently well. “And so, users of such protocols have to rely on the specifications furnished by the QKD providers and trust that the device will not switch into another operating mode during the key distribution,” explains Tim van Leent, one of the four lead authors of the paper alongside Wei Zhang and Kai Redeker. It has been known for at least a decade that older QKD devices could easily be hacked from outside, continues van Leent.
+
+“With our method, we can now generate secret keys with uncharacterized and potentially untrustworthy devices,” explains Weinfurter.
+
+In fact, he had his doubts initially about whether the experiment would work. But his team proved his misgivings were unfounded and significantly improved the quality of the experiment, as he happily admits. Alongside the cooperation project between LMU and NUS, another research group from the University of Oxford demonstrated the device-independent key distribution. To do this, the researchers used a system comprising two entangled ions in the same laboratory.
+
+“These two projects lay the foundation for future quantum networks, in which absolutely secure communication is possible between far distant locations,” says Charles Lim.
+
+One of the next goals is to expand the system to incorporate several entangled atom pairs. “This would allow many more entanglement states to be generated, which increases the data rate and ultimately the key security,” says van Leent.
+
+In addition, the researchers would like to increase the range. In the present set-up, it was limited by the loss of around half the photons in the fiber between the laboratories. In other experiments, the researchers were able to transform the wavelength of the photons into a low-loss region suitable for telecommunications. In this way, for just a little extra noise, they managed to increase the range of the quantum network connection to 33 kilometers.
+
+Reference: “A device-independent quantum key distribution system for distant users” by Wei Zhang, Tim van Leent, Kai Redeker, Robert Garthoff, René Schwonnek, Florian Fertig, Sebastian Eppelt, Wenjamin Rosenfeld, Valerio Scarani, Charles C.-W. Lim, and Harald Weinfurter, 27 July 2022, Nature.
+DOI: 10.1038/s41586-022-04891-y

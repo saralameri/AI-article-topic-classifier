@@ -1,0 +1,72 @@
+100 Times Longer Than Previous Benchmarks – A Quantum Breakthrough
+TOPICS:PopularQuantum ComputingQubitsSiliconUniversity Of New South Wales
+By UNIVERSITY OF NEW SOUTH WALES NOVEMBER 6, 2022
+
+Advanced Quantum Computer Concept
+University of New South Wales engineers have significantly increased the amount of time that their quantum computing processors can store information.
+
+Quantum computing engineers have set a new standard for silicon chip performance.
+In the world of quantum computing, two milliseconds, or two thousandths of a second, is a very long period of time.
+
+On these timescales, a blink of an eye — one-tenth of a second — seems like eternity.
+
+Researchers from the University of New South Wales have now broken new ground in demonstrating that ‘spin qubits,’ which are the fundamental informational units of quantum computers, can store data for up to two milliseconds. The accomplishment is 100 times longer than prior benchmarks in the same quantum processor for what is known as “coherence time,” the amount of time qubits can be manipulated in increasingly complicated calculations.
+
+“Longer coherence time means you have more time over which your quantum information is stored – which is exactly what you need when doing quantum operations,” says Ph.D. student Ms. Amanda Seedhouse, whose work in theoretical quantum computing contributed to the achievement.
+
+“The coherence time is basically telling you how long you can do all of the operations in whatever algorithm or sequence you want to do before you’ve lost all the information in your qubits.”
+
+Ingvild Hansen and Amanda Seedhouse
+Ingvild Hansen and Amanda Seedhouse in the laboratory where quantum computing experiments are carried out. Credit: UNSW/Richard Freeman
+
+The more spins you can keep in motion in quantum computing, the more likely it is that information will be maintained during calculations. The calculation collapses when the spin qubits cease spinning, and the values represented by each qubit are lost. In 2016, quantum engineers at the University of New South Wales confirmed experimentally the concept of extending coherence.
+
+Making matters more difficult, working quantum computers of the future will need to keep track of the values of millions of qubits if they are to solve some of humanity’s most difficult problems, such as the search for effective vaccines, modeling weather systems, and predicting the effects of climate change.
+
+Late last year the same team at the University of New South Wales solved a technical problem that had stumped engineers for decades on how to manipulate millions of qubits without generating more heat and interference. Rather than adding thousands of tiny antennas to control millions of electrons with magnetic waves, the research team came up with a way to use just one antenna to control all the qubits in the chip by introducing a crystal called a dielectric resonator. They published these findings in the journal Science Advances.
+
+This solved the problem of space, heat, and noise that would inevitably increase as more and more qubits are brought online to carry out the mind-bending calculations that are possible when qubits not only represent 1 or 0 like conventional binary computers but both at once, using a phenomenon known as quantum superposition.
+
+Global vs individual control
+However, this proof-of-concept achievement still left a few challenges to solve. Lead researcher Ms. Ingvild Hansen joined Ms. Seedhouse to address these issues in a series of papers published in the journals Physical Review B, Physical Review A, and Applied Physics Reviews.
+
+Being able to control millions of qubits with just one antenna was a large step forward. But while control of millions of qubits at once is a great feat, working quantum computers will also need them to be manipulated individually. If all the spin qubits are rotating at nearly the same frequency, they will have the same values. How can we control them individually so they can represent different values in a calculation?
+
+“First we showed theoretically that we can improve the coherence time by continuously rotating the qubits,” says Ms. Hansen.
+
+“If you imagine a circus performer spinning plates, while they’re still spinning, the performance can continue. In the same way, if we continuously drive qubits, they can hold information for longer. We showed that such ‘dressed’ qubits had coherence times of more than 230 microseconds [230 millionths of a second].”
+
+After the team showed that coherence times could be extended with so-called ‘dressed’ qubits, the next challenge was to make the protocol more robust and to show that the globally controlled electrons can also be controlled individually so that they could hold different values needed for complex calculations.
+
+This was achieved by creating what the team dubbed the ‘SMART’ qubit protocol – Sinusoidally Modulated, Always Rotating, and Tailored.
+
+Rather than have qubits spinning in circles, they manipulated them to rock back and forth like a metronome. Then, if an electric field is applied individually to any qubit – putting it out of resonance – it can be put into a different tempo to its neighbors, but still moving at the same rhythm.
+
+“Think of it like two kids on a swing who are pretty much going forward and backward in sync,” says Ms. Seedhouse. “If we give one of them a push, we can get them reaching the end of their arc at opposite ends, so one can be a 0 when the other is now a 1.”
+
+The result is that not only can a qubit be controlled individually (electronically) while under the influence of global control (magnetically) but the coherence time is, as stated earlier, substantially longer and suitable for quantum calculations.
+
+“We have shown a simple and elegant way to control all qubits at once that also comes with a better performance,” says Dr. Henry Yang, one of the senior researchers on the team.
+
+“The SMART protocol will be a potential path for full-scale quantum computers.”
+
+The research team is led by Professor Andrew Dzurak, CEO and founder of Diraq, a University of New South Wales spin-out company that is developing quantum computer processors which can be made using standard silicon chip manufacturing.
+
+Next steps
+“Our next goal is to show this working with two-qubit calculations after showing our proof-of-concept in our experimental paper with one qubit,” Ms. Hansen says.
+
+“Following that, we want to show that we can do this for a handful of qubits as well, to show that the theory is proven in practice.”
+
+References: “Single-electron spin resonance in a nanoelectronic device using a global field” by Ensar Vahapoglu, James P. Slack-Smith, Ross C. C. Leon, Wee Han Lim, Fay E. Hudson, Tom Day, Tuomo Tanttu, Chih Hwan Yang, Arne Laucht, Andrew S. Dzurak and Jarryd J. Pla, 13 August 2021, Science Advances.
+DOI: 10.1126/sciadv.abg9158
+
+“Quantum computation protocol for dressed spins in a global field” by Amanda E. Seedhouse, Ingvild Hansen, Arne Laucht, Chih Hwan Yang, Andrew S. Dzurak and Andre Saraiva, 9 December 2021, Physical Review B.
+DOI: 10.1103/PhysRevB.104.235411
+
+“Pulse engineering of a global field for robust and universal quantum computation” by Ingvild Hansen, Amanda E. Seedhouse, Andre Saraiva, Arne Laucht, Andrew S. Dzurak and Chih Hwan Yang, 9 December 2021, Physical Review A. 
+DOI: 10.1103/PhysRevA.104.062415
+
+“Implementation of an advanced dressing protocol for global qubit control in silicon” by I. Hansen, A. E. Seedhouse, K. W. Chan, F. E. Hudson, K. M. Itoh, A. Laucht, A. Saraiva, C. H. Yang and A. S. Dzurak, 27 September 2022, Applied Physics Reviews.
+DOI: 10.1063/5.0096467
+
+The study was funded by the Australian Research Council, the U.S. Army, and the Australian National Fabrication Facility.

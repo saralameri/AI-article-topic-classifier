@@ -1,0 +1,46 @@
+MIT Chemical Engineers Are Cracking the Carbon Removal Challenge
+TOPICS:Carbon CaptureCarbon DioxideClimate ChangeMIT
+By LEDA ZIMMERMAN, MIT DEPARTMENT OF CHEMICAL ENGINEERING OCTOBER 5, 2022
+
+Verdox Carbon Removal
+First developed at MIT, the technology enabled by Verdox enables a flow of air or flue gas (blue) containing carbon dioxide (red) to enter the system from the left. As it passes between thin battery electrode plates, carbon dioxide attaches to the charged plates while the cleaned airstream passes on through and exits at the right. Credit: Image courtesy of the Hatton Lab
+
+Verdox, founded by MIT chemical engineers and winner of an XPRIZE Carbon Removal milestone award, is working to move the needle on climate change.
+
+By most benchmarks, MIT chemical engineering spinoff Verdox has been enjoying an outstanding year. Launched in 2019, the carbon capture and removal startup announced $80 million in funding in February from a group of investors that included Bill Gates’ Breakthrough Energy Ventures. Then, in April — after being recognized by Bloomberg New Energy Finance as one of the year’s top energy pioneers — the company and partner Carbfix won a $1 million XPRIZE Carbon Removal milestone award. This was the first round in the Musk Foundation’s four-year, $100 million competition, which is the largest prize offered in history.
+
+“While our core technology has been validated by the significant improvement of performance metrics, this external recognition further verifies our vision,” says Sahag Voskian SM ’15, PhD ’19, co-founder and chief technology officer at Verdox. “It shows that the path we’ve chosen is the right one.”
+
+In recent years, the search for practical carbon capture technologies has grown more intense, as scientific models show with increasing certainty that any hope of preventing catastrophic climate change means restricting CO2 concentrations below 450 parts per million by 2100. Because alternative energies will only get humankind so far, a vast removal of CO2 will be a critical tool in the race to remove the gas from the atmosphere.
+
+Voskian started developing the company’s cost-effective and scalable technology for carbon capture in the lab of T. Alan Hatton, the Ralph Landau Professor of Chemical Engineering at MIT. “It feels exciting to see ideas move from the lab to potential commercial production,” says Hatton, a co-founder of the company and scientific advisor. He says that Verdox has quickly overcome the initial technical hiccups encountered by many early phase companies. “This recognition enhances the credibility of what we’re doing, and really validates our approach.”
+
+Verdox Carbon Capture
+Gas enters each stack on one side and is channeled through the electrodes that make up the stack, in which the carbon dioxide is absorbed. The remaining gas simply passes through the stack and exits on the other side. Once the stack is saturated with CO2, the incoming gas is stopped, and pure CO2 exits the stack on the other side. Installing stacks in parallel with alternating cycles allows for a continuous flow of incoming mixed gas and outgoing pure CO2. Credit: Image courtesy of Verdox
+
+Technology Voskian describes as “elegant and efficient” is at the heart of this approach. A lot of energy is required for most approaches to extract carbon from an exhaust flow or from air itself. However, Voskian and Hatton came up with a design whose electrochemistry makes carbon capture appear nearly effortless. Their invention is a kind of battery: conductive electrodes coated with a compound called polyanthraquinone, which has a natural chemical attraction to carbon dioxide under certain conditions, and no affinity for CO2 when these conditions are relaxed. When activated by a low-level electrical current, the battery charges, reacting with passing molecules of CO2 and drawing them onto its surface. Once the battery becomes saturated, the CO2 can be released as a pure gas stream with a flip of voltage.
+
+“We showed that our technology works in a wide range of CO2 concentrations, from the 20 percent or higher found in cement and steel industry exhaust streams, down to the very diffuse 0.04 percent in air itself,” says Hatton. Current climate change science indicates that removing CO2 directly from air “is an important component of the whole mitigation strategy,” he adds.
+
+“This was an academic breakthrough,” says Brian Baynes PhD ’04, CEO and co-founder of Verdox. Baynes, a chemical engineering alumnus and a former associate of Hatton’s, has many startups to his name, and a history as a venture capitalist and mentor to young entrepreneurs. When he first encountered Hatton and Voskian’s research in 2018, he was “impressed that their technology showed it could reduce energy consumption for certain kinds of carbon capture by 70 percent compared to other technologies,” he says. “I was encouraged and impressed by this low-energy footprint, and recommended that they start a company.”
+
+Verdox Co-Founders
+Left to right: Verdox co-founders Sahag Voskian, Brian Baynes, and T. Alan Hatton. Credit: Brian Baynes
+
+Because neither Hatton nor Voskian had ever commercialized a product before, they asked Baynes to help them get going. “I normally decline these requests, because the costs are generally greater than the upside,” Baynes says. “But this innovation had the potential to move the needle on climate change, and I saw it as a rare opportunity.”
+
+The Verdox crew is well aware of the difficult challenges ahead. “The scale of the problem is enormous,” says Voskian. “Our technology must be in a position to capture mega- and gigatons of CO2 from air and emission sources.” Indeed, in order to keep global temperature rise under 2 degrees Celsius, the International Panel on Climate Change (IPCC) estimates the world must remove 10 gigatons of CO2 per year by 2050.
+
+As Baynes puts it, Verdox must become “a business that works in a technoeconomic sense,” to scale up successfully and at a pace that could meet the world’s climate challenge. This means, for example, ensuring its carbon capture system offers clear and competitive cost benefits when deployed. That’s not a problem, says Voskian: “Our technology, because it uses electric energy, can be easily integrated into the grid, working with solar and wind on a plug-and-play basis.” The Verdox team is confident their carbon footprint will beat that of competitors by orders of magnitude.
+
+The company continues pushing past a series of technical obstacles as it ramps up: enabling the carbon capture battery to run hundreds of thousands of cycles before its performance wanes, and enhancing the polyanthraquinone chemistry so that the device is even more selective for CO2.
+
+After hurtling past critical milestones, Verdox is now working with its first announced commercial client: Norwegian aluminum company Hydro. They are trying to eliminate CO2 from the exhaust of their smelters as they transition to zero-carbon production.
+
+Verdox is also developing systems that can efficiently pull CO2 out of ambient air. “We’re designing units that would look like rows and rows of big fans that bring the air into boxes containing our batteries,” he says. Such methods could be particularly beneficial in areas with greater than average CO2 emission concentrations, such airfields. 
+
+All this captured carbon needs to go someplace. With XPRIZE partner Carbfix, Verdox will have a final resting place for CO2 that cannot immediately be reused for industrial applications such as new fuels or construction materials. Their solution is a decade-old, proven method for mineralizing captured CO2 and depositing it in deep underground caverns.
+
+With its clients and partners, the team appears well-positioned for the next round of the carbon removal XPRIZE competition. This stage will award up to $50 million to the group that best demonstrates a working solution at a scale of at least 1,000 tons removed per year, and can present a viable blueprint for scaling to gigatons of removal per year.
+
+Can Verdox meaningfully reduce the planet’s growing CO2 burden? Voskian is sure of it. “Going at our current momentum, and seeing the world embrace carbon capture, this is the right path forward,” he says. “With our partners, deploying manufacturing facilities on a global scale, we will make a dent in the problem in our lifetime.”

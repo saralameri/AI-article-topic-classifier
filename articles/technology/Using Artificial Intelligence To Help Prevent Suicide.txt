@@ -1,0 +1,54 @@
+Using Artificial Intelligence To Help Prevent Suicide
+TOPICS:Artificial IntelligenceMental HealthSuicideUniversity Of New South Wales
+By UNIVERSITY OF NEW SOUTH WALES NOVEMBER 2, 2022
+
+Artificial Intelligence Artist's Concept
+It is estimated that over 40,000 Americans committed suicide in 2020.
+
+Future suicide prevention efforts could be improved by artificial intelligence.
+The loss of any life is devastating, but the loss of life due to suicide is exceptionally saddening.
+
+Suicide is the primary cause of mortality for Australians aged 15 to 44, taking the lives of almost nine people daily. According to some estimates, suicide attempts happen up to 30 times more often than fatalities.
+
+“Suicide has large effects when it happens. It impacts many people and has far-reaching consequences for family, friends, and communities,” says Karen Kusuma, a University of New South Wales Ph.D. candidate in psychiatry at the Black Dog Institute, who investigates suicide prevention in adolescents.
+
+Recent research conducted by Ms. Kusuma and a group of scientists from the Black Dog Institute and the Centre for Big Data Research in Health investigated the evidence supporting machine learning models’ ability to predict potential suicidal behaviors and thoughts. They evaluated the efficacy of 54 machine learning algorithms that were previously created by researchers to predict suicide-related outcomes of ideation, attempt, and death.
+
+The meta-analysis, published in the Journal of Psychiatric Research, found that machine learning models outperformed conventional risk prediction models in predicting suicide-related outcomes, which had traditionally performed poorly.
+
+“Overall, the findings show there is a preliminary but compelling evidence base that machine learning can be used to predict future suicide-related outcomes with very good performance,” Ms Kusuma says.
+
+Traditional suicide risk assessment models
+In order to prevent and manage suicidal behaviors, it is crucial to identify those who are at risk of suicide. However, predicting risk is challenging.
+
+In emergency departments (EDs), doctors often employ risk assessment tools, such as questionnaires and rating scales, to pinpoint patients who are at a high risk of suicide. Evidence, however, indicates that they are ineffective in accurately determining suicide risk in practice.
+
+“While there are some common factors shown to be associated with suicide attempts, what the risks look like for one person may look very different in another,” Ms. Kusuma says. “But suicide is complex, with many dynamic factors that make it difficult to assess a risk profile using this assessment process.”
+
+A post-mortem analysis of people who died by suicide in Queensland found, of those who received a formal suicide risk assessment, 75 percent were classified as low risk, and none was classified as high risk. Previous research examining the past 50 years of quantitative suicide risk prediction models also found they were only slightly better than chance in predicting future suicide risk.
+
+“Suicide is a leading cause of years of life lost in many parts of the world, including Australia. But the way suicide risk assessment is done hasn’t developed recently, and we haven’t seen substantial decreases in suicide deaths. In some years, we’ve seen increases,” Ms. Kusuma says.
+
+Despite the shortage of evidence in favor of traditional suicide risk assessments, their administration remains a standard practice in healthcare settings to determine a patient’s level of care and support. Those identified as having a high risk typically receive the highest level of care, while those identified as low risk are discharged.
+
+“Using this approach, unfortunately, the high-level interventions aren’t being given to the people who really need help. So we must look to reform the process and explore ways we can improve suicide prevention,” Ms. Kusuma says.
+
+Machine learning suicide screening
+Ms. Kusuma says there is a need for more innovation in suicidology and a re-evaluation of standard suicide risk prediction models. Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms.
+
+“Having AI that could take in a lot more data than a clinician would be able to better recognize which patterns are associated with suicide risk,” Ms. Kusuma says.
+
+In the meta-analysis study, machine learning models outperformed the benchmarks set previously by traditional clinical, theoretical and statistical suicide risk prediction models. They correctly predicted 66 percent of people who would experience a suicide outcome and correctly predicted 87 percent of people who would not experience a suicide outcome.
+
+“Machine learning models can predict suicide deaths well relative to traditional prediction models and could become an efficient and effective alternative to conventional risk assessments,” Ms. Kusuma says.
+
+The strict assumptions of traditional statistical models do not bind machine learning models. Instead, they can be flexibly applied to large datasets to model complex relationships between many risk factors and suicidal outcomes. They can also incorporate responsive data sources, including social media, to identify peaks of suicide risk and flag times when interventions are most needed.
+
+“Over time, machine learning models could be configured to take in more complex and larger data to better identify patterns associated with suicide risk,” Ms. Kusuma says.
+
+The use of machine learning algorithms to predict suicide-related outcomes is still an emerging research area, with 80 percent of the identified studies published in the past five years. Ms. Kusuma says future research will also help address the risk of aggregation bias found in algorithmic models to date.
+
+“More research is necessary to improve and validate these algorithms, which will then help progress the application of machine learning in suicidology,” Ms. Kusuma says. “While we’re still a way off implementation in a clinical setting, research suggests this is a promising avenue for improving suicide risk screening accuracy in the future.”
+
+Reference: “The performance of machine learning models in predicting suicidal ideation, attempts, and deaths: A meta-analysis and systematic review” by Karen Kusuma, Mark Larsen, Juan C. Quiroz, Malcolm Gillies, Alexander Burnett, Jiahui Qian and Michelle Torok, 29 September 2022, Journal of Psychiatric Research.
+DOI: 10.1016/j.jpsychires.2022.09.050

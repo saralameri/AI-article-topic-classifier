@@ -1,0 +1,47 @@
+San Antonio needs more cybersecurity software companies, Geekdom panel says
+Avatar photo
+by Waylon Cunningham
+August 18, 2022
+Click to email a link to a friend (Opens in new window)Click to share on Facebook (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Reddit (Opens in new window)
+Thomas Ervin, a UTSA lecturer and FBI cybersecurity specialist, speaks about cellphone malware during a cybersecurity panel at Geekdom on Wednesday.
+Thomas Ervin, a UTSA lecturer and FBI cybersecurity specialist, speaks about cellphone malware during a cybersecurity panel at Geekdom on Wednesday. Credit: Nick Wagner / San Antonio Report
+This article has been updated.
+
+San Antonio’s cybersecurity sector is strong but lopsided, said local industry leaders who participated in a Geekdom panel.
+
+While many companies in the city’s defense sector and beyond provide cybersecurity services — investigators, auditors and consultants — relatively few actually build software, which is where the big money is. And those that do often get whisked away to Austin.
+
+“The ability to build product and have people building product … is going to be extremely important for longevity in the industry,” said Nicholas Hollis, president and CEO of Coherent Cyber, a San Antonio-based cybersecurity services firm. “The challenge for us is to keep those product companies and developers here.”
+
+The Wednesday panel, coordinated by the World Affairs Council of San Antonio, was moderated by Charles Woodin, CEO of Geekdom. Thomas Ervin, a UTSA lecturer and cybersecurity specialist at the FBI’s San Antonio office, and Jeff Fair, vice president of cybersecurity at the San Antonio Chamber of Commerce, also took part in the discussion.
+
+A VIA bus travels north on Broadway past the SA is Amor mural created by the Art Everywhere campaign of Centro.
+WANT THE NEWS DELIVERED FOR FREE EVERY MORNING?
+SIGN UP FOR THE DAILY REACH.
+Enter your email
+Sign up
+Hollis brought up the example of Infocyte, a malware-hunting software startup founded by U.S. Air Force veterans that Hollis was a major investor in. The company was founded in San Antonio, where it also participated in the Build Sec Foundry, a former San Antonio-based incubator for cybersecurity software startups. Sometime after Infocyte raised $3.4 million from Austin investors in 2017, it moved to Austin.
+
+The only other company that graduated out of the Build Sec Foundry incubator also moved out of San Antonio after being bought, Hollis said. “We lost those high-quality jobs.”
+
+Woodin echoed the point: “The problem is not building products in San Antonio, it’s finding the funding to keep it here.” Companies end up being pulled to Austin by the many investors who live there and want the ventures they fund to be closer to them.
+
+Accelerators could go a long way toward easing Austin’s pull, Woodin said, pointing to Geekdom’s recently bringing the Gener8tor Cybersecurity Accelerator to San Antonio.
+
+“The whole intention is to draw the attention of investors to this area having a great community of cybersecurity professionals,” he said.
+
+Fair also said San Antonio’s cybersecurity sector was weak on the product side. He said the service side of cybersecurity is so strong because of the city’s being a military hub.
+
+The Air Force is a major local employer of cybersecurity professionals, and when veterans leave the service, they often gravitate toward defense contractors that service the military.
+
+“That’s great, and that’s helping our ecosystem grow, but we have very few solid product companies in town,” Fair said.
+
+For the military at least, San Antonio is the capital of cybersecurity outside of Washington, D.C. Much of this activity happens at Port San Antonio, which is home to the Air Forces Cyber. Defense sector companies that provide cybersecurity services for the military also are located at the Port, such as Lockheed Martin, Booz Allen Hamilton, CACI, Northrop Grumman, CNF Technologies, Iomaxis and IPSecure.
+
+These companies are all providers of cybersecurity services. For San Antonio’s IT industry as a whole, products-based companies generate the majority of the local economic impact while employing a fraction of the industry’s employees. The local IT industry — which in addition to cybersecurity includes sectors like cloud computing and digital retail — had an economic impact of $6 billion on the products side and $4.9 billion on the services side in 2020, according to a recent report from Tech Bloc. The same report showed that there were about four service-sector IT professionals in the city for every product-sector IT professional in the city.
+
+The city’s pipeline for cybersecurity professionals is helped by the number of universities that offer multiple programs in cybersecurity, such as UTSA, Texas A&M University-San Antonio, Our Lady of the Lake University, Alamo Colleges, the University of the Incarnate Word, St. Mary’s University and Hallmark University.
+
+The top employers for cybersecurity professionals in the city are USAA, Oracle and Accenture, according to Greater:SATX’s report on the local cybersecurity industry. Only Oracle is a software provider, but it is based in Austin. Accenture’s U.S. operations are based in New York City.
+
+Rackspace Technologies, San Antonio’s largest publicly traded technology company, previously sold server space as a product. But it too has transitioned over the years into a service company that helps clients navigate other tech giants’ server products.

@@ -1,0 +1,34 @@
+Resonant Metasurfaces Offer Exiciting New Possibilities for Quantum Research
+TOPICS:Max Planck InstituteMetamaterialsQuantum Physics
+By MAX PLANCK INSTITUTE FOR THE SCIENCE OF LIGHT SEPTEMBER 1, 2022
+
+Metasurfaces Offer New Possibilities for Quantum Research
+Pump photons pass through a resonant metasurface and produce entangled photon pairs at different wavelengths. Credit: Santiago-Cruz et al., Science 377:6609, 991-995 (2022))
+
+Scientists have successfully created photon pairs at several different frequencies using resonant metasurfaces.
+
+Tomás Santiago-Cruz and Maria Chekhova from the Max Planck Institute for the Science of Light and the Friedrich-Alexander-Universität Erlangen-Nürnberg in cooperation with Sandia National Laboratories successfully used resonant metasurfaces to create photon pairs at several different frequencies.
+
+A photon is the quantum (the minimum amount involved in an interaction) of any form of electromagnetic radiation, such as light. Photons are essential to a number of contemporary research fields and technologies, including quantum state engineering, which in turn represents the cornerstone of all quantum photonic technologies. With the help of quantum photonics, engineers and scientists are working to create new technologies such as new types of supercomputers and new forms of encryption for highly secure channels of communication.
+
+The creation of photon pairs is one of the key requirements for quantum state engineering. This has traditionally been achieved through the use of one of the two nonlinear effects, spontaneous parametric down-conversion (SPDC) or spontaneous four-wave mixing (SFWM), in bulk optical elements. The nonlinear effects cause one or two pump photons to spontaneously decay into a photon pair.
+
+These effects, however, require strict momentum conservation for the involved photons. Any material, which the photons have to travel through, has dispersion properties, preventing momentum conservation. There are techniques that still achieve the needed conservation, but those severely limit the versatility of the states in which the photon pairs can be produced. As a consequence, even though traditional optical elements like nonlinear crystals and waveguides have successfully produced many photonic quantum states, their use is limited and cumbersome. Therefore, researchers have recently focused their attention on so-called optical metasurfaces.
+
+Scanning Electron Micrograph of Metasurface
+Scanning electron micrograph of one metasurface tested in this work. Credit: Max Planck Institute for the Science of Light
+
+Producing Photon Pairs with Metasurfaces
+
+Metasurfaces are ultrathin planar optical devices made up of arrays of nanoresonators. Their subwavelength thickness of a few hundred nanometers, effectively renders them two-dimensional. That makes them much easier to handle than traditional bulky optical devices. Even more importantly, due to the lesser thickness, the momentum conservation of the photons is relaxed because the photons have to travel through far less material than with traditional optical devices: according to the uncertainty principle, confinement in space leads to undefined momentum. This allows for multiple nonlinear and quantum processes to happen with comparable efficiencies and opens the door for the usage of many new materials that would not work in traditional optical elements.
+
+For this reason, and also because of being compact and more practical to handle than bulky optical elements, metasurfaces are coming into focus as sources of photon pairs for quantum experiments. Additionally, metasurfaces could simultaneously transform photons in several degrees of freedom, such as polarization, frequency, and path.
+
+Tomás Santiago-Cruz and Maria Chekhova from Max Planck Institute for the Science of Light and Friedrich-Alexander-Universität Erlangen-Nürnberg in cooperation with the research group of Igal Brener at Sandia National Laboratories in Albuquerque, New Mexico, have now taken a new step in achieving just that. In a paper published in the Science journal on August 25, Chekhova and her colleagues for the first time demonstrated how metasurfaces produce pairs of photons of two different wavelengths.
+
+Furthermore, photons of a certain wavelength can be paired with photons at two or more different wavelengths simultaneously. This way, one can create multiple links between photons of different color. In addition, resonances of the metasurface enhance the rate of photon emission by several orders of magnitude compared to uniform sources of the same thickness. Tomás Santiago-Cruz believes that metasurfaces will play a key role in future quantum research: “Metasurfaces are leading to a paradigm shift in quantum optics, combining ultra-small sources of quantum light with far-reaching possibilities for quantum state engineering.”
+
+In the future, these features can be used to build very large complicated quantum states, which are needed for quantum computation. Moreover, the slim profile of metasurfaces and their multifunctional operation enable the development of more advanced compact devices, combining the generation, transformation, and detection of quantum states. Maria Chekhova is excited about the path their research has been taking: “The sources of our photons are becoming tinier and tinier while at the same time their possibilites just keep getting broader and broader.”
+
+Reference: “Resonant metasurfaces for generating complex quantum states” by Tomás Santiago-Cruz, Sylvain D. Gennaro, Oleg Mitrofanov, Sadhvikas Addamane, John Reno, Igal Brener and Maria V. Chekhova, 25 August 2022, Science.
+DOI: 10.1126/science.abq8684

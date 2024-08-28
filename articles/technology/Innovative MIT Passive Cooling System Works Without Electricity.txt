@@ -1,0 +1,45 @@
+Innovative MIT Passive Cooling System Works Without Electricity
+TOPICS:EnergyMITPopular
+By DAVID L. CHANDLER, MASSACHUSETTS INSTITUTE OF TECHNOLOGY SEPTEMBER 24, 2022
+
+MIT Passive Cooling System
+Two samples of passive cooling devices were tested on the roof of MIT’s Building 1: On the left, a sample of the new system, combining evaporative cooling, radiative cooling, and insulation. On the right, a device using just evaporative cooling, for comparison testing. Credit: Courtesy of Zhengmao Lu
+
+Relying on evaporation and radiation — but not electricity — the MIT passive cooling system could keep food fresh longer or supplement air conditioning in buildings.
+
+The use of power-hungry air conditioning systems is projected to increase significantly as the world gets warmer, putting a strain on existing power grids and bypassing many locations with little or no reliable electric power. Now, an innovative system developed at the Massachusetts Institute of Technology (MIT) offers a way to use passive cooling to preserve food crops and supplement conventional air conditioners in buildings. It has no need for power and just a small need for water.
+
+The system combines radiative cooling, evaporative cooling, and thermal insulation in a slim package that could resemble existing solar panels. It can provide up to about 19 degrees Fahrenheit (9.3 degrees Celsius) of cooling from the ambient temperature. This is enough to permit safe food storage for about 40 percent longer under very humid conditions. Under dryer conditions, it could triple the safe storage time.
+
+The findings are reported 20 in the journal Cell Reports Physical Science on September, in a paper by MIT postdoc Zhengmao Lu, Arny Leroy PhD ’21, professors Jeffrey Grossman and Evelyn Wang, and two others. Although more research is needed in order to bring down the cost of one key component of the system, the developers say that eventually, such a system could play a significant role in meeting the cooling needs of many parts of the world where a lack of electricity or water limits the use of conventional cooling systems.
+
+By cleverly combining previous standalone cooling designs that each provide limited amounts of cooling power, the system is able to produce significantly more cooling overall. It is enough to help reduce food losses from spoilage in parts of the world that are already suffering from limited food supplies. In recognition of that potential, the team of researchers has been partly supported by MIT’s Abdul Latif Jameel Water and Food Systems Lab.
+
+“This technology combines some of the good features of previous technologies such as evaporative cooling and radiative cooling,” Lu says. By using this combination, he says, “we show that you can achieve significant food life extension, even in areas where you have high humidity,” which limits the capabilities of conventional evaporative or radiative cooling systems.
+
+It would also be useful in places that do have existing air conditioning systems in buildings. There, the new system could be used to significantly reduce the load on these systems by sending cool water to the hottest part of the system, the condenser. “By lowering the condenser temperature, you can effectively increase the air conditioner efficiency, so that way you can potentially save energy,” Lu says.
+
+Although he says other groups have also been pursuing passive cooling technologies, “by combining those features in a synergistic way, we are now able to achieve high cooling performance, even in high-humidity areas where previous technology generally cannot perform well.”
+
+Three layers of material make up the system, which collectively provide cooling as water and heat pass through the device. In practice, the device could resemble a conventional solar panel, but instead of generating electricity, it would directly provide cooling. For example, it could act as the roof of a food storage container, keeping the content cool. Another practical application would be using it to send chilled water through pipes to cool parts of an existing air conditioning system and improve its efficiency. Maintenance is minimal; all that’s required is adding water for the evaporation. Moreover, the water consumption is so low that this would only need to be done about once every four days in the hottest, driest areas, and only once a month in wetter areas.
+
+Aerogel is used for the top layer. This material consists mostly of air enclosed in the cavities of a sponge-like structure made of polyethylene. Although it is highly insulating, it freely allows both water vapor and infrared radiation to pass through. The evaporation of water (rising up from the layer below) provides some of the cooling power, while the infrared radiation, taking advantage of the extreme transparency of Earth’s atmosphere at those wavelengths, radiates some of the heat straight up through the air and into space — unlike air conditioners, which spew hot air into the immediate surrounding environment.
+
+Hydrogel is used for the next layer below the aerogel. It is another sponge-like material, but one whose pore spaces are filled with water rather than air. It’s similar to material currently used commercially for products such as cooling pads or wound dressings. This provides the water source for evaporative cooling, as water vapor forms at its surface and the vapor passes up right through the aerogel layer and out to the environment.
+
+Below the hydrogel, a mirror-like layer reflects any incoming sunlight that has reached it, sending it back up through the device rather than letting it heat up the materials and thus reducing their thermal load. And the top layer of aerogel, being a good insulator, is also highly solar-reflecting, limiting the amount of solar heating of the device, even under strong direct sunlight.
+
+“The novelty here is really just bringing together the radiative cooling feature, the evaporative cooling feature, and also the thermal insulation feature all together in one architecture,” Lu explains. The system was tested, using a small version, just 4 inches across, on the rooftop of a building at MIT, proving its effectiveness even during suboptimal weather conditions, Lu says, and achieving 9.3 °C of cooling (18.7 °F).
+
+“The challenge previously was that evaporative materials often do not deal with solar absorption well,” Lu says. “With these other materials, usually when they’re under the sun, they get heated, so they are unable to get to high cooling power at the ambient temperature.”
+
+The aerogel material’s properties are a key to the system’s overall efficiency, but that material at present is expensive to produce, as it requires special equipment for critical point drying (CPD) to remove solvents slowly from the delicate porous structure without damaging it. The key characteristic that needs to be controlled to provide the desired characteristics is the size of the pores in the aerogel, which is made by mixing the polyethylene material with solvents, allowing it to set like a bowl of Jell-O, and then getting the solvents out of it. The research team is currently exploring ways of either making this drying process more inexpensive, such as by using freeze-drying, or finding alternative materials that can provide the same insulating function at lower cost, such as membranes separated by an air gap.
+
+While the other materials used in the system are readily available and relatively inexpensive, Lu says, “the aerogel is the only material that’s a product from the lab that requires further development in terms of mass production.” And he says that it’s impossible to predict how long that development might take before this system can be made practical for widespread use.
+
+This work “represents a very interesting and novel system integration approach of passive cooling technologies,” says Xiulin Ruan, a professor of mechanical engineering at Purdue University, who was not associated with this research. Ruan adds, “By combining evaporative cooling, radiative cooling, and insulation, it has a better cooling performance and can be effective in a wider range of climates than evaporative cooling or radiative cooling alone. The work could attract significant practical applications, such as in food preservation, if the system can be made at reasonable cost.”
+
+Reference: “Significantly enhanced sub-ambient passive cooling enabled by evaporation, radiation, and insulation” by Zhengmao Lu, Arny Leroy, Lenan Zhang, Jatin J. Patil, Evelyn N. Wang and Jeffrey C. Grossman, 20 September 2022, Cell Reports Physical Science.
+DOI: 10.1016/j.xcrp.2022.101068
+
+The research team included Lenan Zhang of MIT’s Department of Mechanical Engineering and Jatin Patil of the Department of Materials Science and Engineering.

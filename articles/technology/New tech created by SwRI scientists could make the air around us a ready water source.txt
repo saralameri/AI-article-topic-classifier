@@ -1,0 +1,41 @@
+New tech created by SwRI scientists could make the air around us a ready water source
+Avatar photo
+by Lindsey Carnett
+July 19, 2021
+Click to email a link to a friend (Opens in new window)Click to share on Facebook (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Reddit (Opens in new window)
+
+Southwest Research Institute research engineer Swanand Bhagwat, left, and Program Manager Kevin Supak stand with a prototype atmospheric water harvesting mechanism. Credit: Lindsey Carnett / San Antonio Report
+What if we could pull water right out of the air and use it to flush our toilets, water our lawns, and even drink? Researchers from the Southwest Research Institute think they’ve found a way to make that possible.
+
+Scientists from the San Antonio-based applied research and development organization have built a low-cost mechanism they say is capable of harvesting water straight from the air on a scale larger than ever attempted. SwRI engineers and chemists have constructed a miniaturized prototype version of a machine for testing that utilizes silica gel beads — like the ones you might find controlling moisture in a package of beef jerky or in a new pair of shoes — to capture water from the air around it.
+
+“There is always water vapor in the air around us,” said Program Manager Kevin Supak in a press release. “If you’re enjoying a cold beverage on a humid day, you’ll see condensation gathering on the glass. We can capture that moisture and turn it into a resource.”
+
+A VIA bus travels north on Broadway past the SA is Amor mural created by the Art Everywhere campaign of Centro.
+WANT THE NEWS DELIVERED FOR FREE EVERY MORNING?
+SIGN UP FOR THE DAILY REACH.
+Enter your email
+Sign up
+As of 2021, more than 2.3 billion people live in water-stressed countries, of which 733 million live in high and critically water-stressed countries, according to the United Nations. With the world facing a water crisis, finding alternative methods of collecting water is crucial, Supak told the San Antonio Report. Possible applications for the technology include military use in remote locations where water isn’t available, as well as humanitarian relief for people living in drought conditions or areas where the water is unsafe to drink.
+
+While the air around us may seem arid — with even our skin seeming dry to the touch — most air has about 30% to 60% humidity at all times, Supak said. Warm air can hold even more moisture, and even desert air has some moisture in it, he added. 
+
+The machine, which was constructed using $300,000 of internal SwRI research funding, has several components that make it especially easy and inexpensive to assemble, research engineer Swanand Bhagwat said.
+
+The prototype resembles a Rube Goldberg machine, with a glass tube on one side partly filled with the small silica gel beads. On the other side is aluminum-wrapped piping fastened to the bottom of the glass tube with metal bolts and a flexible tube that pushes in air. Another bolt atop the tube connects it to thin copper piping.
+
+Outside air is pulsed through the glass tube in a fluid-like fashion, which allows more moisture to be captured faster, Bhagwat said. Supak compared the pulsing of the beads to the mixing of chemicals in a refinery; it speeds up the process, he said.
+
+
+Atmospheric water harvesting blows air over silicon gel beads to harvest water out of the air. The beads turn from blue to pale pink as they collect water from the air. Credit: Courtesy / Southwest Research Institute
+Once the beads have absorbed all the moisture they can, they turn a pale pink color, alerting the scientists they are ready to be drained. Scientists will then turn the temperature up in the tube via a radiator-like attachment to between 130 degrees and 180 degrees Fahrenheit, drawing the water out to be collected via the copper pipe attached to the top of the tube. Water recondenses in the tube and can be channeled into a bucket or another collection canister for storage. The process, which takes just minutes to yield water, ensures that the collected water is potable and free of contaminants, Supak said.
+
+“We can make portable water for soldiers to drink in arid areas or with people that live off the grid,” Supak said. “It could also be used for people that may have been exposed to contaminated water, like in Flint, Michigan — or in an area like in the West Coast right now.”
+
+While ​​the miniaturized system SwRI has created can yield about 5 liters of water a day, the scientists said the project could be increased in scale. Already the institute’s researchers are looking into making the design able to collect 20 to 100 times that amount of water, Supak said. The group also is testing other absorbent materials apart from silica beads, such as fine powders, and is trying out methods to make the system more portable. 
+
+SwRI’s researchers plan to test the system for up to 1,000 cycles — 10 times more than any previous demonstration of such a machine, according to the press release. This testing will allow the scientists to better understand if the effectiveness of the silica beads and their absorption rate degrades over time, Supak said.
+
+The testing is expected to finish in October.
+
+“We’re very fortunate here in the U.S., that we can turn [a] tap on and clean, potable water comes out,” Supak said. “That’s not the case around the world. This technology can help address that.”

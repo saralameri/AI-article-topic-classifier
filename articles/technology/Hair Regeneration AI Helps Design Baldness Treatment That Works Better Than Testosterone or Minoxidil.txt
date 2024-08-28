@@ -1,0 +1,21 @@
+Hair Regeneration: AI Helps Design Baldness Treatment That Works Better Than Testosterone or Minoxidil
+TOPICS:American Chemical SocietyArtificial IntelligenceEnzymeHairMachine LearningNanotechnologyPopular
+By AMERICAN CHEMICAL SOCIETY NOVEMBER 4, 2022
+
+Microneedle Patches Restore Hair
+Hair regrew thicker in mice treated with a manganese-nanozyme microneedle patch (right-side image, labeled MnMNP) compared to those treated with testosterone as a control (left-side image). Credit: Adapted from Nano Letters 2022, DOI: 10.1021/acs.nanolett.2c03119
+
+Hair loss is undesirable for many men — and women — because one’s hairstyle is often closely tied to their sense of self-confidence. And while some embrace it, other people wish they could regrow their lost locks. Now, scientists have used artificial intelligence (AI) to predict compounds that could neutralize baldness-causing reactive oxygen species in the scalp. They selected the best candidate and constructed a proof-of-concept microneedle patch to show that it can effectively regenerate hair on mice. The study was recently published in ACS’ Nano Letters.
+
+Most people with substantial hair loss have the condition androgenic alopecia. This is also known as male- or female-pattern baldness. In this condition, hair follicles can be damaged by androgens, inflammation, or an overabundance of reactive oxygen species, such as oxygen free radicals. When the levels of oxygen free radicals are too high, they can overwhelm the body’s antioxidant enzymes which typically keep them in check.
+
+One of these enzymes is superoxide dismutase (SOD), and researchers have recently created SOD mimics called “nanozymes.” But so far, those that have been reported aren’t very good at removing oxygen free radicals. So, Lina Wang, Zhiling Zhu, and colleagues wanted to see whether machine learning, a form of AI, could help them design a better nanozyme for treating hair loss.
+
+For potential nanozyme candidates, the researchers chose transition-metal thiophosphate compounds. They tested machine-learning models with 91 different transition-metal, phosphate, and sulfate combinations, and the techniques predicted that MnPS3 would have the most potent SOD-like ability. Next, MnPS3 nanosheets were synthesized through chemical vapor transport of manganese, red phosphorus, and sulfur powders. In initial tests with human skin fibroblast cells, the nanosheets significantly reduced the levels of reactive oxygen species without causing harm.
+
+Based on these results, the team prepared MnPS3 microneedle patches and treated androgenic alopecia-affected mouse models with them. Within 13 days, the animals regenerated thicker hair strands that more densely covered their previously bald backsides than mice treated with testosterone or minoxidil. The researchers say that their study both produced a nanozyme treatment for regenerating hair, and indicated the potential for computer-based methods for use in the design of future nanozyme therapeutics.
+
+Reference: “Machine Learning Guided Discovery of Superoxide Dismutase Nanozymes for Androgenetic Alopecia” by Chaohui Zhang, Yixin Yu, Shugao Shi, Manman Liang, Dongqin Yang, Ning Sui, William W. Yu, Lina Wang and Zhiling Zhu, 20 October 2022, Nano Letters.
+DOI: 10.1021/acs.nanolett.2c03119
+
+The authors of the study acknowledge funding from the National Natural Science Foundation of China and the Natural Science Foundation of Shandong Province China.

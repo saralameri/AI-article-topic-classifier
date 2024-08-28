@@ -1,0 +1,32 @@
+Revolutionary Technology Provides New Perspective on Cyclones
+TOPICS:CycloneSimulationUniversity Of TokyoWeather
+By UNIVERSITY OF TOKYO NOVEMBER 18, 2022
+
+Tropical Storm Cyclone
+An aerial view of a tropical cyclone.
+
+Cosmic rays used to track and visualize tropical cyclones open the eye of the storm.
+For the first time, high-energy muon particles generated in the atmosphere have made it possible for researchers to examine the structures of storms in a manner that conventional visualization methods, like satellite imaging, cannot. This new method’s level of detail could help researchers simulate storms and associated weather effects. This could also result in earlier warning systems that are more accurate.
+
+It’s difficult to miss the many news reports about severe storms that have occurred in various regions of the globe and are often attributed to climate change. Although weather forecasting and early warning systems have always been important, the current increase in storm activity appears to make them especially so. A team of scientists led by Professor Hiroyuki Tanaka of Muographix at the University of Tokyo has developed a novel method for identifying and analyzing tropical cyclones by using a quirk of particle physics that occurs over our heads all the time.
+
+Cyclone Muograph
+The redder areas are low-pressure warm air, and the green areas are higher-pressure cooler air. The cyclone in this image is about 15 kilometers tall. A line drawing approximating the shape overlays the visualization data. Credit: 2022 Hiroyuki KM Tanaka
+
+“You’ve probably seen photographs of cyclones taken from above, showing swirling vortices of clouds. But I doubt you’ve ever seen a cyclone from the side, perhaps as a computer graphic, but never as actual captured sensor data,” said Tanaka. “What we offer the world is the ability to do just this, visualize large-scale weather phenomena like cyclones from a 3D perspective, and in real-time too. We do this using a technique called muography, which you can think of like an X-ray, but for seeing inside truly enormous things.”
+
+Muography produces X-ray photographs of large objects such as volcanoes, pyramids, bodies of water, and, for the first time, atmospheric weather systems. Scintillators are special sensors that are linked together to form a grid, similar to the pixels on your smartphone’s camera sensor. These scintillators, however, don’t see optical light. They see muons, which are produced in the atmosphere when cosmic rays from deep space collide with the atoms.
+
+Scintillator Sensors
+These are the sensors used to detect the weakly interacting muon particles. Each scintillator sensor is extremely dense to maximize the chances that a muon will interact with it. Arranged in a grid, the sensors can form a crude image of whatever the muons passed through to reach the sensor. Credit: 2022 Hiroyuki KM Tanaka
+
+Muons are special because they pass through matter easily without scattering as much as other types of particles. But the small amount they do deviate by as they pass through solid, liquid, or even gaseous matter, can reveal details of their journey between the atmosphere and the sensors. By capturing a large number of muons passing through something, an image of it can be reconstructed.
+
+“We successfully imaged the vertical profile of a cyclone, and this revealed density variations essential to understanding how cyclones work,” said Tanaka. “The images show cross sections of the cyclone which passed through Kagoshima Prefecture in western Japan. I was surprised to see clearly it had a low-density warm core that contrasted dramatically with the high-pressure cold exterior. There is absolutely no way to capture such data with traditional pressure sensors and photography.”
+
+The detector the researchers used has a viewing angle of 90 degrees, but Tanaka envisages combining similar sensors to create hemispherical and therefore omnidirectional observation stations which could be placed along the length of a coastline. These could potentially see cyclones as far away as 300 kilometers. Although satellites already track these storms, the extra detail offered by muography could improve predictions about approaching storms.
+
+“One of the next steps for us now will be to refine this technique in order to detect and visualize storms at different scales,” said Tanaka. “This could mean better modeling and prediction not only for larger storm systems but more local weather conditions as well.”
+
+Reference: “Atmospheric muography for imaging and monitoring tropic cyclones” by Hiroyuki K. M. Tanaka, Jon Gluyas, Marko Holma, Jari Joutsenvaara, Pasi Kuusiniemi, Giovanni Leone, Domenico Lo Presti, Jun Matsushima, László Oláh, Sara Steigerwald, Lee F. Thompson, Ilya Usoskin, Stepan Poluianov, Dezső Varga, and Yusuke Yokota, 6 October 2022, Scientific Reports.
+DOI: 10.1038/s41598-022-20039-4

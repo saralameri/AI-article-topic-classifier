@@ -1,0 +1,50 @@
+“Erasure” – New Discovery Could Be the Key to Practical Quantum Computing
+TOPICS:Princeton UniversityQuantum ComputingQubitsUniversity Of Wisconsin-MadisonYale University
+By PRINCETON UNIVERSITY, ENGINEERING SCHOO SEPTEMBER 26, 2022
+
+Erasure Errors in Quantum Computing
+A team led by Jeff Thompson of Princeton University pioneered an approach to more efficient error correction in quantum computers. Credit: Gabriele Meilikhov/Muza Productions
+
+A new error correction method.
+Researchers have uncovered a brand-new technique for correcting errors in quantum computer calculations, potentially eliminating a significant barrier to a powerful new field of computing.
+
+Error correction is a well-developed subject in traditional computers. To transmit and receive data over messy airwaves, every cellphone requires checks and adjustments. Quantum computers have immense potential to tackle complicated problems that conventional computers cannot, but this capacity is dependent on harnessing the incredibly fleeting behavior of subatomic particles. These computing behaviors are so ephemeral that even inspecting them for flaws might cause the whole system to collapse.
+
+An interdisciplinary team led by Jeff Thompson, an associate professor of electrical and computer engineering at Princeton University, and collaborators Yue Wu and Shruti Puri at Yale University and Shimon Kolkowitz at the University of Wisconsin-Madison, demonstrated in a theoretical paper published in Nature Communications that they could dramatically improve a quantum computer’s tolerance for faults and reduce the amount of redundant information needed to isolate and fix errors. The new approach quadruples the acceptable error rate, from 1% to 4%, making it practical for quantum computers currently under development.
+
+“The fundamental challenge to quantum computers is that the operations you want to do are noisy,” said Thompson, meaning that calculations are prone to myriad modes of failure.
+
+In a conventional computer, an error can be as simple as a bit of memory accidentally flipping from a 1 to a 0, or as messy as one wireless router interfering with another. A common approach for handling such faults is to build in some redundancy so that each piece of data is compared with duplicate copies. However, that approach increases the amount of data needed and creates more possibilities for errors. Therefore, it only works when the vast majority of information is already correct. Otherwise, checking wrong data against wrong data leads deeper into a pit of error.
+
+“If your baseline error rate is too high, redundancy is a bad strategy,” Thompson said. “Getting below that threshold is the main challenge.”
+
+Rather than focusing solely on reducing the number of errors, Thompson’s team essentially made errors more visible. The team delved deeply into the actual physical causes of error and engineered their system so that the most common source of error effectively eliminates, rather than simply corrupting the damaged data. Thompson said this behavior represents a particular kind of error known as an “erasure error,” which is fundamentally easier to weed out than data that is corrupted but still looks like all the other data.
+
+In a conventional computer, if a packet of supposedly redundant information comes across as 11001, it might be risky to assume that the slightly more prevalent 1s are correct and the 0s are wrong. But if the information comes across as 11XX1, where the corrupted bits are evident, the case is more compelling.
+
+“These erasure errors are vastly easier to correct because you know where they are,” Thompson said. “They can be excluded from the majority vote. That is a huge advantage.”
+
+Erasure errors are well understood in conventional computing, but researchers had not previously considered trying to engineer quantum computers to convert errors into erasures, Thompson said.
+
+As a practical matter, their proposed system could withstand an error rate of 4.1%, which Thompson said is well within the realm of possibility for current quantum computers. In previous systems, the state-of-the-art error correction could handle less than 1% error, which Thompson said is at the edge of the capability of any current quantum system with a large number of qubits.
+
+The team’s ability to generate erasure errors turned out to be an unexpected benefit from a choice Thompson made years ago. His research explores “neutral atom qubits,” in which quantum information (a “qubit”) is stored in a single atom. They pioneered the use of the element ytterbium for this purpose. Thompson said the group chose ytterbium partly because it has two electrons in its outermost layer of electrons, compared to most other neutral atom qubits, which have just one.
+
+“I think of it as a Swiss army knife, and this ytterbium is the bigger, fatter Swiss army knife,” Thompson said. “That extra little bit of complexity you get from having two electrons gives you a lot of unique tools.”
+
+One use of those extra tools turned out to be useful for eliminating errors. The team proposed pumping the electrons in ytterbium and from their stable “ground state” to excited states called “metastable states,” which can be long-lived under the right conditions but are inherently fragile. Counterintuitively, the researchers propose to use these states to encode the quantum information.
+
+“It’s like the electrons are on a tightrope,” Thompson said. And the system is engineered so that the same factors that cause error also cause the electrons to fall off the tightrope.
+
+As a bonus, once they fall to the ground state, the electrons scatter light in a very visible way, so shining a light on a collection of ytterbium qubits causes only the faulty ones to light up. Those that light up should be written off as errors.
+
+This advance required combining insights in both quantum computing hardware and the theory of quantum error correction, leveraging the interdisciplinary nature of the research team and their close collaboration. While the mechanics of this setup are specific to Thompson’s ytterbium atoms, he said the idea of engineering quantum qubits to generate erasure errors could be a useful goal in other systems — of which there are many in development around the world—and is something that the group is continuing to work on.
+
+“We see this project as laying out a kind of architecture that could be applied in many different ways,” Thompson said, adding that other groups have already begun engineering their systems to convert errors into erasures. “We are already seeing a lot of interesting in finding adaptations for this work.”
+
+As a next step, Thompson’s group is now working on demonstrating the conversion of errors to erasures in a small working quantum computer that combines several tens of qubits.
+
+Reference: “Erasure conversion for fault-tolerant quantum computing in alkaline earth Rydberg atom arrays” by Yue Wu, Shimon Kolkowitz, Shruti Puri and Jeff D. Thompson, 9 August 2022, Nature Communications.
+DOI: 10.1038/s41467-022-32094-6
+
+The study was funded by the National Science Foundation, the Army Research Office, the Defense Advanced Research Projects Agency, the Office of Naval Research, and the Alfred P. Sloan Foundation.
